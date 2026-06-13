@@ -8,7 +8,7 @@ Where implementation choices, supervisors and stakeholders diverge most.
   rules "more burdensome than necessary from an EU perspective." Record "lastenluw" as **intent**, not
   outcome. — [`netherlands.md`](netherlands.md) §d.
 
-- **CDD redesign burden.** The [Art 28(1) CDD RTS](../extracts/amla/RTS-cdd-art28-1_consultation-paper.md) will
+- **CDD redesign burden.** The [Art 28(1) CDD RTS](../extracts/amla/RTS-cdd-art28-1_consultation-paper.md#article-1) will
   fix detailed information/verification fields, likely forcing redesign of onboarding/KYC journeys. Industry
   (incl. the NVB) is pressing on proportionality and the interaction with existing DNB Q&As/Good Practices and
   NVB Risk-Based Industry Baselines, which AMLA's approach may diverge from. — [`stakeholders.md`](stakeholders.md).

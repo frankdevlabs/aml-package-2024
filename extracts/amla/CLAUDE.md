@@ -13,3 +13,8 @@ PDFs are registered in [`../../sources/README.md`](../../sources/README.md) and 
 
 Note: AMLA drafts are **clean** PDFs (no tracked changes), so plain `pdftotext` suffices — the
 `pymupdf`-based drivers in the `transcribe-council-extract` skill are not needed here.
+
+Operative text is rendered as **structured markdown with `<a id>` anchors** (per the family standard) so
+`docs/`, `STATUS.md` and `data/positions.csv` can deep-link a specific article — `### <a id="article-N"></a>
+Article N — Title`, a `### <a id="recitals"></a>Recitals` block, and annex tables kept inside a ```text fence.
+See [`_TRANSCRIPTION_GUIDE.md`](./_TRANSCRIPTION_GUIDE.md).

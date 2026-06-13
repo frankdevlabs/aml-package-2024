@@ -21,12 +21,22 @@ Only the **draft operative instrument** — for an RTS/ITS the "COMMISSION DELEG
 block (recitals + articles + annexes), for Guidelines the numbered guidelines section. **Omit** the
 consultation paper's background, "questions for consultation" and cost-benefit/impact-assessment annexes.
 
-## How the shipped files were produced
-Auto-extracted with `pdftotext -layout`, sliced to the operative section, and lightly cleaned (form feeds,
-bare page numbers and the repeating page footer removed). They are presented inside a ```text fence to stay
-faithful to the source layout. This is a **working** transcription: when refining a file, prefer converting
-`Article N - Title` lines to `### Article N — Title` headings with stable `<a id="article-N"></a>` anchors so
-`docs/` can deep-link, and verify article text against the PDF.
+## Format — structured markdown with anchors (family standard)
+Operative text is rendered as **structured markdown** (like the sibling trackers), NOT as a raw code-fenced
+dump, so `docs/`, `STATUS.md` and `data/positions.csv` can deep-link a specific article. The conventions:
+- **Article / section headings carry an anchor:** `### <a id="article-N"></a>Article N — Title`;
+  for an ITS `### <a id="section-N"></a>SECTION N`; for Guidelines
+  `### <a id="guideline-N"></a>Guideline N — Title` and `### <a id="sec-2-3"></a>2.3 …` for numbered sections.
+- **Recitals** sit under `### <a id="recitals"></a>Recitals` (the `(1) …` items follow as text).
+- **Annex tables are kept inside a ```text fence** (column-aligned tables mangle as markdown); anchor the
+  annex heading itself (`## <a id="annex-i"></a>ANNEX I …`).
+- Article/recital bodies are plain markdown paragraphs (de-fenced, left-stripped).
+- Add a `▸` change-note where useful (e.g. "▸ builds on the EBA 30 Oct 2025 draft").
+
+These files were first auto-extracted with `pdftotext -layout` (operative section only; form feeds, bare page
+numbers and the repeating page footer stripped) and then marked up to the above. They remain **working**
+transcriptions — pdftotext leaves minor artefacts (merged footnote superscripts, the odd two-line heading
+truncated to its first line); verify article text against the committed PDF before relying on it.
 
 ## Faithfulness rules (hard)
 - Operative wording is primary legal text — never paraphrase.

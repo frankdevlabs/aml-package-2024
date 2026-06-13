@@ -20,8 +20,8 @@ and procedures.
   by July 2027.
 
 ## Operative text
-- Draft RTS (consultation): [`extracts/amla/RTS-cdd-art28-1_consultation-paper.md`](../../extracts/amla/RTS-cdd-art28-1_consultation-paper.md)
-- Related trigger RTS: [business relationships Art 19(9)](../../extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md)
+- Draft RTS (consultation): [`extracts/amla/RTS-cdd-art28-1_consultation-paper.md`](../../extracts/amla/RTS-cdd-art28-1_consultation-paper.md#article-1)
+- Related trigger RTS: [business relationships Art 19(9)](../../extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md#article-2)
 
 ## Status
 **Live.** First-wave RTS consultation closed 8 May 2026; final to Commission by 10 Jul 2026. See
@@ -29,4 +29,4 @@ and procedures.
 
 ## Open questions
 - Final scope of the prescriptive CDD data fields vs the EBA legacy draft.
-- Interaction with the BWRA ([Art 10(4) guidelines](../../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md)) and ongoing-monitoring ([Art 26(5)](../../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md)).
+- Interaction with the BWRA ([Art 10(4) guidelines](../../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md#sec-2)) and ongoing-monitoring ([Art 26(5)](../../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2)).

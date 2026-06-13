@@ -24,13 +24,13 @@ Verified against AMLA's consultations hub, **13 June 2026**. Operative drafts tr
 
 | # | Instrument | Legal basis | Type | Opened | Closes | Status (13 Jun 2026) | Final / submission target |
 |---|---|---|---|---|---|---|---|
-| 1 | [Supervisory-system cooperation (direct supervision)](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md) | Art 15(3) AMLAR | ITS | 16 Dec 2025 | 27 Jan 2026 | **Closed** | — |
-| 2 | [Customer Due Diligence](../extracts/amla/RTS-cdd-art28-1_consultation-paper.md) | Art 28(1) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
-| 3 | [Business relationships / occasional / linked transactions & thresholds](../extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md) | Art 19(9) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
-| 4 | [Pecuniary sanctions, administrative measures & periodic penalty payments](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md) | Art 53(10) AMLD6 | RTS | 9 Feb 2026 | 9 Mar 2026 | **Closed** | To Commission by 10 Jul 2026 |
-| 5 | [Group-wide minimum requirements & third-country measures](../extracts/amla/RTS-group-wide-art16-17_consultation-paper.md) | Arts 16(4) & 17(3) AMLR | RTS | 16 Apr 2026 | 15 Jun 2026 | **Closing/closed** (hearing 20 May 2026) | Final draft to Commission by **30 Sep 2026** |
-| 6 | [Business-wide risk assessment](../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md) | Art 10(4) AMLR | Guidelines | 16 Apr 2026 | 15 Jul 2026 | **Open** (hearing 28 May 2026) | Final GL expected **Q4 2026** |
-| 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (newest) | — |
+| 1 | [Supervisory-system cooperation (direct supervision)](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md#section-1) | Art 15(3) AMLAR | ITS | 16 Dec 2025 | 27 Jan 2026 | **Closed** | — |
+| 2 | [Customer Due Diligence](../extracts/amla/RTS-cdd-art28-1_consultation-paper.md#article-1) | Art 28(1) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
+| 3 | [Business relationships / occasional / linked transactions & thresholds](../extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md#article-2) | Art 19(9) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
+| 4 | [Pecuniary sanctions, administrative measures & periodic penalty payments](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md#article-1) | Art 53(10) AMLD6 | RTS | 9 Feb 2026 | 9 Mar 2026 | **Closed** | To Commission by 10 Jul 2026 |
+| 5 | [Group-wide minimum requirements & third-country measures](../extracts/amla/RTS-group-wide-art16-17_consultation-paper.md#article-1) | Arts 16(4) & 17(3) AMLR | RTS | 16 Apr 2026 | 15 Jun 2026 | **Closing/closed** (hearing 20 May 2026) | Final draft to Commission by **30 Sep 2026** |
+| 6 | [Business-wide risk assessment](../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md#sec-2) | Art 10(4) AMLR | Guidelines | 16 Apr 2026 | 15 Jul 2026 | **Open** (hearing 28 May 2026) | Final GL expected **Q4 2026** |
+| 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (newest) | — |
 
 Direct links to the consultation pages:
 - CDD (Art 28(1)): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-customer-due-diligence_en
