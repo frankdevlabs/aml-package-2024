@@ -11,10 +11,16 @@ description: >-
 
 # Transcribe a Council compromise text into extracts
 
-This repo stores each Council compromise version of the file it tracks
+> **Note for this repo (post-adoption AML Package):** there are no Council compromise texts to transcribe.
+> The live operative texts are AMLA's *clean* draft RTS/ITS/Guidelines — handled with plain `pdftotext` under
+> [`extracts/amla/`](../../../extracts/amla/) per its [`_TRANSCRIPTION_GUIDE.md`](../../../extracts/amla/_TRANSCRIPTION_GUIDE.md).
+> The tracked-changes machinery below (`pdf_changes.py`, `render_pdf.py`, which need `pymupdf`) is retained from
+> the template but is **not used here**. The general PDF/link-check guidance still applies.
+
+This skill (in its original template form) stores each Council compromise version of a file
 (see [`tracker.yaml`](../../../tracker.yaml): `file_id`) as a faithful, **diffable** markdown
-transcription under `extracts/council/`, one file per slice (`tracker.yaml` `extract_slices`). The canonical rules are
-in [`extracts/council/_TRANSCRIPTION_GUIDE.md`](../../../extracts/council/_TRANSCRIPTION_GUIDE.md) —
+transcription, one file per slice (`tracker.yaml` `extract_slices`). The canonical AML rules are
+in [`extracts/amla/_TRANSCRIPTION_GUIDE.md`](../../../extracts/amla/_TRANSCRIPTION_GUIDE.md) —
 read it first; this skill is the *operational* companion (how to actually pull
 text off the PDF and verify the result).
 
@@ -101,11 +107,9 @@ rendering.
    line, the date, and the meeting (e.g. AGS = Antici Group (Simplification)). The
    cover's text layer is usually empty (image-only), so you *must* read its image.
 
-5. Read the matching **reference version's** five files to mirror structure,
-   `<a id="...">` anchors and header style, e.g.
-   [`../../../extracts/council/ST-9547-2026_gdpr-art3-amendments.md`](../../../extracts/council/ST-9547-2026_gdpr-art3-amendments.md)
-   and its siblings (`_eprivacy-art5.md`, `_cyber-art6-9.md`, `_final-art10-11.md`,
-   `_recitals.md`).
+5. Read an existing extract to mirror header style and structure, e.g.
+   [`../../../extracts/amla/RTS-cdd-art28-1_consultation-paper.md`](../../../extracts/amla/RTS-cdd-art28-1_consultation-paper.md)
+   and its siblings under [`extracts/amla/`](../../../extracts/amla/).
 
 6. Write the `extracts/council/ST-<nnnn>-<yyyy>_*.md` files (one per `tracker.yaml`
    `extract_slices`) per the guide: header blockquote (doc no. + LIMITE + date + meeting +
