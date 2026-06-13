@@ -1,0 +1,211 @@
+# Document register — the SINGLE source of truth for every official document on the file(s).
+# sources/README.md is its *rendered* table (edit this YAML, then mirror the table; never the table alone).
+#
+# POST-ADOPTION tracker: the three adopted acts are link-only (EUR-Lex). The committed PDFs are AMLA's
+# Level-2/3 consultation papers + SPD (the live workstream) and reference NL documents.
+#
+# Field reference:
+#   id            stable institutional id
+#   title         quoted descriptive title
+#   body          institution: Commission | Council | Parliament | AMLA | Netherlands | …
+#   date          ISO YYYY-MM-DD
+#   limite        bool
+#   url / celex   authoritative URL(s)
+#   local         committed file path
+#   legal_basis   the AMLR/AMLD6/AMLAR article the instrument implements (Level-2/3 docs)
+#   notes         prose context (`>-` block)
+
+documents:
+  # --- Adopted acts (link-only) -------------------------------------------
+  - id: REG-2024-1624
+    title: "AMLR — Regulation (EU) 2024/1624 (prevention of use of the financial system for ML/TF)"
+    body: Commission
+    date: 2024-05-31
+    limite: false
+    celex: https://eur-lex.europa.eu/eli/reg/2024/1624/oj/eng
+    url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1624
+    notes: >-
+      The single rulebook. Digest: docs/instruments/amlr-2024-1624.md. In force 9 Jul 2024; applies 10 Jul
+      2027 (football sub-set 10 Jul 2029).
+
+  - id: REG-2024-1620
+    title: "AMLA Regulation — Regulation (EU) 2024/1620 (establishing the AML Authority)"
+    body: Commission
+    date: 2024-05-31
+    limite: false
+    celex: https://eur-lex.europa.eu/eli/reg/2024/1620/oj/eng
+    url: https://eur-lex.europa.eu/eli/reg/2024/1620/2025-11-10/eng
+    notes: >-
+      Establishes AMLA (Frankfurt). Digest: docs/instruments/amla-2024-1620.md. Operational since 1 Jul 2025.
+      Consolidated version dated 10 Nov 2025.
+
+  - id: DIR-2024-1640
+    title: "AMLD6 — Directive (EU) 2024/1640 (mechanisms for Member States; amends/repeals 2015/849)"
+    body: Commission
+    date: 2024-05-31
+    limite: false
+    celex: https://eur-lex.europa.eu/eli/dir/2024/1640/oj/eng
+    url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1640
+    notes: >-
+      Institutional/architecture layer; transposition deadline 10 Jul 2027 (staggered). Digest:
+      docs/instruments/amld6-2024-1640.md. NOT the criminal-law Directive (EU) 2018/1673.
+
+  - id: REG-2023-1113
+    title: "Transfer of Funds Regulation (recast) — Regulation (EU) 2023/1113"
+    body: Commission
+    date: 2023-05-31
+    limite: false
+    celex: https://eur-lex.europa.eu/eli/reg/2023/1113/oj/eng
+    notes: >-
+      Travel rule extended to crypto-asset transfers; applicable since 30 Dec 2024. Context only. Digest:
+      docs/instruments/tfr-2023-1113.md.
+
+  # --- AMLA — strategic programming ---------------------------------------
+  - id: AMLA-SPD-2026-2028
+    title: "AMLA Single Programming Document 2026–2028"
+    body: AMLA
+    date: 2026-02-04
+    limite: false
+    url: https://www.amla.europa.eu/amla-sets-strategic-priorities-2026-28-single-programming-document_en
+    local: sources/amla/AMLA-SPD-2026-2028_2026-02-04.pdf
+    notes: >-
+      Forward index of AMLA's 40 mandates; "24 of 40 mandates in 2026". Annex XI is the RTS/ITS/GL plan.
+
+  - id: AMLA-SPD-2026-2028-ANNEX-XI
+    title: "Annex XI to AMLA SPD 2026–2028 (RTS/ITS/GL planning)"
+    body: AMLA
+    date: 2026-02-04
+    limite: false
+    url: https://www.amla.europa.eu/system/files/2026-02/Annex%20XI%20to%20AMLA%20SPD%202026-2028.pdf
+    local: sources/amla/AMLA-SPD-2026-2028-Annex-XI_2026-02-04.pdf
+    notes: >-
+      The forward index of mandates/instruments. See docs/amla-pipeline.md.
+
+  # --- AMLA — Level-2/3 consultation papers (the live workstream) ----------
+  - id: AMLA-RTS-CDD-ART28
+    title: "Consultation paper — draft RTS on customer due diligence (Art 28(1) AMLR)"
+    body: AMLA
+    date: 2026-02-09
+    limite: false
+    legal_basis: Art 28(1) AMLR
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-customer-due-diligence_en
+    local: sources/amla/RTS-CDD-art28-1_consultation-paper_2026-02-09.pdf
+    local_trackchanges: sources/amla/RTS-CDD-art28-1_trackchanges-from-EBA_2026-02-09.pdf
+    notes: >-
+      First-wave RTS. Consultation 9 Feb – 8 May 2026 (closed). Final to Commission by 10 Jul 2026.
+      Track-changes version shows deltas from the EBA's 30 Oct 2025 draft. Extract:
+      extracts/amla/RTS-cdd-art28-1_consultation-paper.md.
+
+  - id: AMLA-RTS-BIZREL-ART19
+    title: "Consultation paper — draft RTS on business relationships / occasional / linked transactions & thresholds (Art 19(9) AMLR)"
+    body: AMLA
+    date: 2026-02-09
+    limite: false
+    legal_basis: Art 19(9) AMLR
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-criteria-identifying-business-relationships-occasional-and-linked_en
+    local: sources/amla/RTS-business-relationships-art19-9_consultation-paper_2026-02-09.pdf
+    notes: >-
+      First-wave RTS. Consultation 9 Feb – 8 May 2026 (closed). Extract:
+      extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md.
+
+  - id: AMLA-RTS-SANCTIONS-ART53
+    title: "Consultation paper — draft RTS on pecuniary sanctions, administrative measures & periodic penalty payments (Art 53(10) AMLD6)"
+    body: AMLA
+    date: 2026-02-09
+    limite: false
+    legal_basis: Art 53(10) AMLD6
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-pecuniary-sanctions-administrative-measures-and-periodic-penalty-payments_en
+    local: sources/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper_2026-02-09.pdf
+    notes: >-
+      First-wave RTS. Consultation 9 Feb – 9 Mar 2026 (closed). Extract:
+      extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md.
+
+  - id: AMLA-ITS-SUPCOOP-ART15
+    title: "Consultation paper — draft ITS on cooperation within the AML/CFT supervisory system (Art 15(3) AMLAR)"
+    body: AMLA
+    date: 2025-12-16
+    limite: false
+    legal_basis: Art 15(3) AMLAR
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-its-under-art-153-amlar_en
+    local: sources/amla/ITS-supervisory-cooperation-art15-3_consultation-paper_2025-12-16.pdf
+    notes: >-
+      First AMLA consultation. 16 Dec 2025 – 27 Jan 2026 (closed). Extract:
+      extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md.
+
+  - id: AMLA-RTS-GROUPWIDE-ART16-17
+    title: "Consultation paper — draft RTS on group-wide minimum requirements & third-country measures (Arts 16(4)/17(3) AMLR)"
+    body: AMLA
+    date: 2026-04-16
+    limite: false
+    legal_basis: Arts 16(4) & 17(3) AMLR
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-group-wide-minimum-requirements-and-additional-measures-subsidiaries-and_en
+    local: sources/amla/RTS-group-wide-art16-17_consultation-paper_2026-04-16.pdf
+    notes: >-
+      Consultation 16 Apr – 15 Jun 2026 (closing/closed; hearing 20 May 2026). Final draft to Commission by
+      30 Sep 2026. Extract: extracts/amla/RTS-group-wide-art16-17_consultation-paper.md.
+
+  - id: AMLA-GL-BWRA-ART10
+    title: "Consultation paper — draft Guidelines on the business-wide risk assessment (Art 10(4) AMLR)"
+    body: AMLA
+    date: 2026-04-16
+    limite: false
+    legal_basis: Art 10(4) AMLR
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-business-wide-risk-assessment_en
+    local: sources/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper_2026-04-16.pdf
+    notes: >-
+      Consultation 16 Apr – 15 Jul 2026 (open; hearing 28 May 2026). Final GL expected Q4 2026. Extract:
+      extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md.
+
+  - id: AMLA-GL-MONITORING-ART26
+    title: "Consultation paper — draft Guidelines on ongoing monitoring of a business relationship (Art 26(5) AMLR)"
+    body: AMLA
+    date: 2026-06-03
+    limite: false
+    legal_basis: Art 26(5) AMLR
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-ongoing-monitoring-business-relationship_en
+    local: sources/amla/GL-ongoing-monitoring-art26-5_consultation-paper_2026-06-03.pdf
+    notes: >-
+      Most recently opened consultation. 3 Jun – 3 Sep 2026 (open). Extract:
+      extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md.
+
+  # --- Netherlands (transposition) ----------------------------------------
+  - id: NL-IWT-CONSULTATIE
+    title: "Implementatiewet ter voorkoming van witwassen en terrorismefinanciering (Iwt) — internet consultation"
+    body: Netherlands
+    date: 2025-07-04
+    limite: false
+    url: https://www.internetconsultatie.nl/implementatiewettervoorkomingvanwitwassenenterrorismefinanciering/b1
+    wetgevingskalender: https://wetgevingskalender.overheid.nl/Regeling/WGK027204
+    access: public-released
+    notes: >-
+      Transposes AMLD6; replaces the Wwft from 10 Jul 2027. Consultation 4 Jul – 29 Aug 2025. As of 13 Jun
+      2026 at the Raad van State for advice; no Tweede Kamer dossier (36XXX) yet. See docs/netherlands.md.
+
+  - id: NL-MR-BESLUITENLIJST-2026-04-24
+    title: "Besluitenlijst ministerraad 24 april 2026 (Iwt naar Raad van State voor advies)"
+    body: Netherlands
+    date: 2026-04-24
+    limite: false
+    url: https://open.overheid.nl/documenten/16cf634e-a9e2-4411-b302-b1264198c3a5/
+    notes: >-
+      Confirms the cabinet approved sending the Iwt to the Afdeling advisering van de Raad van State.
+
+  - id: NL-ATR4058
+    title: "ATR advice ATR4058 — 'Implementatie Europees antiwitwaspakket niet lastenluw'"
+    body: Netherlands
+    date: 2025-09-29
+    limite: false
+    url: https://open.overheid.nl/documenten/497b3bd5-6966-41e3-aa7a-7fb1e8a4870a/file
+    notes: >-
+      Adviescollege toetsing regeldruk; contests the cabinet's 'lastenluw' framing. See docs/netherlands.md §d
+      and docs/fault-lines.md. (URL is the cabinet's 'lastenluwe implementatiekeuzes' overzicht, 2025D2115.)
+
+  - id: NL-36228-CASHLIMIT
+    title: "Wet plan van aanpak witwassen (cash limit) — dossier 36.228"
+    body: Netherlands
+    date: 2025-06-10
+    limite: false
+    url: https://www.eerstekamer.nl/wetsvoorstel/36228_wet_plan_van_aanpak
+    tweede_kamer: https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel:36228
+    notes: >-
+      €3,000 cash-payment ban for goods in force 1 Jan 2026 (Staatsblad 2025, 362). See docs/netherlands.md §b.

@@ -1,0 +1,8 @@
+instrument_id,instrument,legal_basis,type,opened,closes,status,target,extract
+its-supervisory-cooperation,Cooperation within the AML/CFT supervisory system (direct supervision),Art 15(3) AMLAR,ITS,2025-12-16,2026-01-27,Closed,—,extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md
+rts-cdd,Customer due diligence,Art 28(1) AMLR,RTS,2026-02-09,2026-05-08,Closed,To Commission by 2026-07-10,extracts/amla/RTS-cdd-art28-1_consultation-paper.md
+rts-business-relationships,Business relationships / occasional / linked transactions & lower thresholds,Art 19(9) AMLR,RTS,2026-02-09,2026-05-08,Closed,To Commission by 2026-07-10,extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md
+rts-pecuniary-sanctions,Pecuniary sanctions / administrative measures / periodic penalty payments,Art 53(10) AMLD6,RTS,2026-02-09,2026-03-09,Closed,To Commission by 2026-07-10,extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md
+rts-group-wide,Group-wide minimum requirements & third-country measures,Arts 16(4) & 17(3) AMLR,RTS,2026-04-16,2026-06-15,Closing/closed,Final draft to Commission by 2026-09-30,extracts/amla/RTS-group-wide-art16-17_consultation-paper.md
+gl-bwra,Business-wide risk assessment,Art 10(4) AMLR,Guidelines,2026-04-16,2026-07-15,Open,Final GL expected Q4 2026,extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md
+gl-ongoing-monitoring,Ongoing monitoring of a business relationship,Art 26(5) AMLR,Guidelines,2026-06-03,2026-09-03,Open,—,extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md

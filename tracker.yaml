@@ -1,0 +1,163 @@
+# ============================================================================
+# tracker.yaml — the SINGLE source of truth for this tracker's file identity.
+#
+# This is the one place that says *which* EU file(s) this repo follows. Everything
+# else (CLAUDE.md, README.md, STATUS.md, the skills' scope checks) reads from
+# here or is filled from here by `python3 bootstrap.py`.
+#
+# NOTE — POST-ADOPTION TRACKER. Unlike the template's worked example (a file mid
+# Ordinary Legislative Procedure), the EU AML Package is ALREADY ADOPTED and in
+# force (2024). The OLP-centric fields below are therefore REPURPOSED:
+#   * `proposal`     -> the headline ADOPTED act (AMLR, Reg (EU) 2024/1624)
+#   * `extract_slices` -> the live Level-2/3 DRAFT instruments (RTS/ITS/GL out
+#                        for AMLA consultation), i.e. the actual moving parts
+#   * `co_legislators` / `advisory_bodies` -> repurposed to implementation actors
+# STATUS.md / CLAUDE.md / README.md are hand-edited after bootstrap to reflect the
+# implementation-stage framing (AMLA pipeline + national transposition).
+# See SETUP.md for the template's original checklist.
+# ============================================================================
+
+# --- Identity ---------------------------------------------------------------
+file_id: "EU AML Package — AMLR/AMLA/AMLD6"   # adopted package, not a single COD file
+short_name: "EU AML Package"
+strand: "the AML single rulebook (AMLR), the EU AML Authority (AMLA) and AMLD6 — Level-2/3 implementation pipeline + national transposition (NL Iwt)"
+
+# Headline adopted act (AMLR). The other two package acts are in `instruments`.
+proposal:
+  id: "Regulation (EU) 2024/1624 (AMLR)"
+  date: "2024-05-31"                      # date of the act
+  swd: null
+  celex: "https://eur-lex.europa.eu/eli/reg/2024/1624/oj/eng"
+  oeil: "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0239(COD)"
+
+# Sibling instrument(s) that are easy to confuse and must NOT be tracked here.
+keep_apart:
+  - file_id: "Directive (EU) 2018/1673"
+    note: "the criminal-law '6AMLD' (combating money laundering by criminal law) — NOT AMLD6 = Directive (EU) 2024/1640, which IS tracked here"
+
+legal_bases: ["Article 114 TFEU"]
+
+# The instruments this package comprises / amends / repeals. Drives docs/instruments/.
+instruments:
+  - { name: "AMLR — Regulation (EU) 2024/1624", celex: "2024/1624" }
+  - { name: "AMLA Regulation — Regulation (EU) 2024/1620", celex: "2024/1620" }
+  - { name: "AMLD6 — Directive (EU) 2024/1640", celex: "2024/1640" }
+  - { name: "Transfer of Funds Regulation (recast)", celex: "2023/1113" }
+  - { name: "AMLD4 — Directive (EU) 2015/849 (repealed from 10 Jul 2027)", celex: "2015/849" }
+
+# REPURPOSED for a post-adoption tracker: the per-instrument operative-text file
+# set under extracts/ tracks the LIVE Level-2/3 DRAFT instruments out for AMLA
+# consultation (the moving parts), each named <CONSULTATION-ID>_<slice>.md so a
+# later final RTS can be diffed against the consulted draft. One slice per draft.
+extract_slices:
+  - cdd-rts-art28                    # RTS on customer due diligence (Art 28(1) AMLR)
+  - business-relationships-rts-art19 # RTS on business-relationship/occasional/linked triggers (Art 19(9) AMLR)
+  - pecuniary-sanctions-rts-art53    # RTS on pecuniary sanctions etc. (Art 53(10) AMLD6)
+  - group-wide-rts-art16-17          # RTS on group-wide requirements (Arts 16(4)/17(3) AMLR)
+  - bwra-guidelines-art10            # Guidelines on business-wide risk assessment (Art 10(4) AMLR)
+  - ongoing-monitoring-guidelines    # Guidelines on ongoing monitoring (AMLR)
+  - supervisory-cooperation-its-art15 # ITS on supervisory-system cooperation (Art 15(3) AMLAR)
+
+# REPURPOSED: post-adoption there are no active co-legislators. These map to the
+# implementation actors surfaced in STATUS.md instead.
+co_legislators:
+  council:
+    config: "—  (adopted; Council role concluded)"
+  parliament:
+    committees_responsible: []
+    committees_opinion: []
+
+# REPURPOSED: bodies relevant to the live implementation phase.
+advisory_bodies: ["EBA (legacy AML mandates, transferred to AMLA end-2025)", "ECB"]
+
+# ============================================================================
+# Watchlist — the sources the daily tracker monitors. Consumed by
+# .claude/skills/resolve-tracker-issue and mirrored in ~/law-tracker/prompt-aml.md.
+# The live SPINE of this tracker is AMLA's consultations hub + regulatory-
+# instruments tracker; the secondary spine is NL transposition.
+# ============================================================================
+watchlist:
+  sources:
+    # --- Tier 1: institutional (EU — AMLA) ---------------------------------
+    T1-01:
+      tier: T1
+      kind: institutional
+      label: "AMLA — Public consultations hub"
+      url: "https://www.amla.europa.eu/policy/public-consultations_en"
+      affects: [STATUS.md, TIMELINE.md, docs/amla-pipeline.md, data/positions.csv, extracts/]
+      notes: "HIGHEST PRIORITY. A new/closed consultation or a published final report -> update the pipeline table; a new draft RTS/ITS/GL -> add an extracts/ slice."
+    T1-02:
+      tier: T1
+      kind: institutional
+      label: "AMLA — Regulatory instruments tracker"
+      url: "https://www.amla.europa.eu/policy/regulatory-instruments_en"
+      affects: [STATUS.md, TIMELINE.md, docs/amla-pipeline.md]
+      notes: "Forward index of the 40 mandates; benchmark = a final RTS submitted to the Commission / published in the OJ as a Delegated Regulation."
+    T1-03:
+      tier: T1
+      kind: institutional
+      label: "AMLA — News & press releases"
+      url: "https://www.amla.europa.eu/resources/news-articles_en"
+      affects: [STATUS.md, TIMELINE.md, docs/amla-pipeline.md]
+      notes: "Public hearings, appointments, milestones."
+    T1-04:
+      tier: T1
+      kind: institutional
+      label: "EUR-Lex — consolidated AMLA Regulation (EU) 2024/1620"
+      url: "https://eur-lex.europa.eu/eli/reg/2024/1620/oj/eng"
+      document_id: REG-2024-1620
+      affects: [docs/instruments/amla-2024-1620.md, STATUS.md]
+      notes: "Watch for new consolidated versions / corrigenda. EUR-Lex returns 202 to curl; use Cellar fallback."
+    # --- Tier 1: institutional (Netherlands transposition) -----------------
+    T1-05:
+      tier: T1
+      kind: institutional
+      label: "NL Wetgevingskalender — Iwt (WGK027204)"
+      url: "https://wetgevingskalender.overheid.nl/Regeling/WGK027204"
+      affects: [docs/netherlands.md, STATUS.md, TIMELINE.md]
+      notes: "Blocks automated fetching — verify manually. Next observable change: Raad van State advice + submission to the Tweede Kamer (a 36XXX Kamerstuk appears on submission)."
+    T1-06:
+      tier: T1
+      kind: institutional
+      label: "Eerste Kamer — Wet plan van aanpak witwassen (dossier 36.228)"
+      url: "https://www.eerstekamer.nl/wetsvoorstel/36228_wet_plan_van_aanpak"
+      affects: [docs/netherlands.md, STATUS.md, TIMELINE.md]
+    T1-07:
+      tier: T1
+      kind: institutional
+      label: "Internetconsultatie — Implementatiewet (Iwt)"
+      url: "https://www.internetconsultatie.nl/implementatiewettervoorkomingvanwitwassenenterrorismefinanciering/b1"
+      affects: [docs/netherlands.md, STATUS.md, TIMELINE.md]
+    T1-08:
+      tier: T1
+      kind: institutional
+      label: "DNB — Europees AML/CFT-kader hub"
+      url: "https://www.dnb.nl/voor-de-sector/open-boek-toezicht/wet-regelgeving/europees-amlcft-kader/"
+      affects: [docs/netherlands.md, STATUS.md]
+    # --- Tier 2: stakeholder / law firm / advisory -------------------------
+    T2-01:
+      tier: T2
+      kind: stakeholder
+      label: "A&O Shearman — finreg AML package tracker"
+      url: "https://finreg.aoshearman.com/Package-of-EU-Anti-Money-Laundering-Legislation-P"
+      affects: [docs/stakeholders.md, docs/amla-pipeline.md]
+    T2-02:
+      tier: T2
+      kind: stakeholder
+      label: "KPMG — AMLA single rulebook insights"
+      url: "https://kpmg.com/xx/en/our-insights/risk-and-regulation/kpmg-anti-money-laundering-authority-office-advisory-services.html"
+      affects: [docs/stakeholders.md, docs/amla-pipeline.md]
+    T2-03:
+      tier: T2
+      kind: stakeholder
+      label: "Nederlandse Vereniging van Banken (NVB) — AML/UBO positions"
+      url: "https://www.nvb.nl/themas/veilig-bankieren-fraude/witwassen/"
+      affects: [docs/stakeholders.md, docs/netherlands.md, docs/fault-lines.md]
+    # File-agnostic: mirrors Council/Commission outcomes that bot-block curl. Keep.
+    T2-04:
+      tier: T2
+      kind: stakeholder
+      label: "INSIGHT EU MONITORING — RSS"
+      url: "https://ieu-monitoring.com/feed/"
+      affects: [STATUS.md, TIMELINE.md, docs/amla-pipeline.md]
+      notes: "Filter on AMLR/AMLA/AMLD6/AML keywords; mirrors EU institutional outcomes invisible to direct polling."
