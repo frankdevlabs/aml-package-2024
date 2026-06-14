@@ -11,6 +11,7 @@ exclude = [
   "^https://oeil\\.europarl\\.europa\\.eu",          # bot-sensitive
   "^https://wetgevingskalender\\.overheid\\.nl",     # blocks automated fetching (NL Iwt dossier)
   "^https://ieu-monitoring\\.com",                   # slow host; times out for CI
+  "^https://zoek\\.officielebekendmakingen\\.nl",    # RSS watch-source (Kamervragen); not a live HTML link
   "^https://www\\.tweedekamer\\.nl",                 # bot-sensitive search URLs
   "^https://www\\.eerstekamer\\.nl",                 # slow host; times out for CI
   "^https://kpmg\\.com",                             # bot-blocks automated clients
