@@ -134,6 +134,18 @@ watchlist:
       label: "DNB — Europees AML/CFT-kader hub"
       url: "https://www.dnb.nl/voor-de-sector/open-boek-toezicht/wet-regelgeving/europees-amlcft-kader/"
       affects: [docs/netherlands.md, STATUS.md]
+    T1-09:
+      tier: T1
+      kind: institutional
+      label: "officielebekendmakingen.nl — Kamervragen (vragen + Aanhangsel) antiwitwas / AMLA / contantenlimiet"
+      url: "https://zoek.officielebekendmakingen.nl/rss?q=(c.product-area==%22officielepublicaties%22)and(((w.publicatienaam==%22Kamervragen+(Aanhangsel)%22)or(w.publicatienaam==%22Kamervragen+zonder+antwoord%22)))and((cql.textAndIndexes=%22AMLA%22)or(cql.textAndIndexes=%22antiwitwasverordening%22)or(cql.textAndIndexes=%22contantenlimiet%22)or(cql.textAndIndexes=%22witwaspakket%22))&svel=Publicatiedatum&svol=Aflopend"
+      affects: [docs/member-state-positions.md, STATUS.md, TIMELINE.md]
+      notes: >-
+        RSS, newest-first. Tweede Kamer Kamervragen on the EU AML package: antiwitwasverordening (AMLR), the
+        AMLA authority, AMLD6, and the EU cash-payment limit. The general witwassen-enforcement / financial-crime
+        debate is OUT of scope — only questions about the EU AML package or its NL implementation are a hit.
+        The €3000 contantenlimiet thread (NL 'wet plan van aanpak witwassen') is package-adjacent — flag for
+        manual check. kv-tk-…=question, ah-tk-…=answer. Filter on the <description> line.
     # --- Tier 2: stakeholder / law firm / advisory -------------------------
     T2-01:
       tier: T2
