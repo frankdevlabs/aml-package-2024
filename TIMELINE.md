@@ -42,7 +42,7 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-05-28 | BWRA guidelines public hearing | [pipeline](docs/amla-pipeline.md) |
 | 2026-06-03 | AMLA opens **ongoing-monitoring guidelines (Art 26(5))** consultation | [pipeline](docs/amla-pipeline.md) |
 | 2026-06-13 | **Tracker verification date** (`as of`) | [STATUS.md](STATUS.md) |
-| 2026-06-15 | Group-wide RTS consultation closes *(verify on next refresh)* | [pipeline](docs/amla-pipeline.md) |
+| 2026-06-15 | Group-wide RTS (Arts 16(4)/17(3)) consultation **closes** (confirmed on hub 16 Jun 2026) | [pipeline](docs/amla-pipeline.md) |
 
 ## Forward look (targets — not yet occurred)
 

@@ -19,16 +19,16 @@ delivers in **two phases — financial sector first, then non-financial sector**
 
 ## Consultation status table
 
-Verified against AMLA's consultations hub, **13 June 2026**. Operative drafts transcribed under
+Verified against AMLA's consultations hub, **16 June 2026**. Operative drafts transcribed under
 [`extracts/amla/`](../extracts/amla/); source PDFs in [`sources/README.md`](../sources/README.md).
 
-| # | Instrument | Legal basis | Type | Opened | Closes | Status (13 Jun 2026) | Final / submission target |
+| # | Instrument | Legal basis | Type | Opened | Closes | Status (16 Jun 2026) | Final / submission target |
 |---|---|---|---|---|---|---|---|
 | 1 | [Supervisory-system cooperation (direct supervision)](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md#section-1) | Art 15(3) AMLAR | ITS | 16 Dec 2025 | 27 Jan 2026 | **Closed** | — |
 | 2 | [Customer Due Diligence](../extracts/amla/RTS-cdd-art28-1_consultation-paper.md#article-1) | Art 28(1) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
 | 3 | [Business relationships / occasional / linked transactions & thresholds](../extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md#article-2) | Art 19(9) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
 | 4 | [Pecuniary sanctions, administrative measures & periodic penalty payments](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md#article-1) | Art 53(10) AMLD6 | RTS | 9 Feb 2026 | 9 Mar 2026 | **Closed** | To Commission by 10 Jul 2026 |
-| 5 | [Group-wide minimum requirements & third-country measures](../extracts/amla/RTS-group-wide-art16-17_consultation-paper.md#article-1) | Arts 16(4) & 17(3) AMLR | RTS | 16 Apr 2026 | 15 Jun 2026 | **Closing/closed** (hearing 20 May 2026) | Final draft to Commission by **30 Sep 2026** |
+| 5 | [Group-wide minimum requirements & third-country measures](../extracts/amla/RTS-group-wide-art16-17_consultation-paper.md#article-1) | Arts 16(4) & 17(3) AMLR | RTS | 16 Apr 2026 | 15 Jun 2026 | **Closed** (15 Jun 2026; hearing 20 May 2026) | Final draft to Commission by **30 Sep 2026** |
 | 6 | [Business-wide risk assessment](../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md#sec-2) | Art 10(4) AMLR | Guidelines | 16 Apr 2026 | 15 Jul 2026 | **Open** (hearing 28 May 2026) | Final GL expected **Q4 2026** |
 | 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (newest) | — |
 
@@ -67,7 +67,8 @@ to watch for thereafter: **publication of any final RTS in the OJ as a Commissio
 - **Pipeline counts vary by source.** AMLA's SPD says "24 of 40 mandates in 2026"; KPMG breaks this into 13
   RTS / 6 ITS / 20 GL; one secondary source counts "~26 instruments through Q1 2027". Use AMLA's primary
   figures; treat secondary tallies as approximate.
-- **Group-wide RTS (item 5)** — its 15 Jun 2026 closing date falls two days after this verification; treated
-  as "closing/closed", confirm closure on next refresh.
+- **Group-wide RTS (item 5)** — closure **confirmed** on the consultations hub (16 Jun 2026): the consultation
+  page reads "The consultation is closed. Results will follow." Final draft targeted to the Commission by
+  30 Sep 2026 (a planned date, not yet an event).
 - Forward-looking items ("final GL Q4 2026", "final draft by 30 Sep 2026", ~430 staff by end-2027, direct
   supervision from 2028) are **planned/targeted dates** from AMLA's SPD and press releases, not completed events.
