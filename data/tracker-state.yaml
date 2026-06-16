@@ -5,26 +5,26 @@
 # same T1-*/T2-*/T3-* codes. STATUS.md's "As of" date = this file's `last_run`.
 #
 # Ships EMPTY — the first tracker run populates it. Nothing to seed by hand.
-last_run: 2026-06-15T14:01:34Z
+last_run: 2026-06-16T14:07:16Z
 sources:
   T1-01:
-    last_seen_hash: "sha256:01683696cc78d30391d2c84b1118609a29d84b59a36d496ac8a6a1206361ac85"
-    last_seen_at: 2026-06-15T14:01:34Z
+    last_seen_hash: "sha256:7dbfb134501b889449e976da8c54b023e17e020488b614966c10203644835dbd"
+    last_seen_at: 2026-06-16T14:07:16Z
   T1-02:
-    last_seen_hash: "sha256:1fd111e06e0d79807c6dd2e363f2f50948831368e3c46d8ec49b1681ecf4a9a2"
-    last_seen_at: 2026-06-15T14:01:34Z
+    last_seen_hash: "sha256:1ae7bfe8454b10bd7db982eae9b039a7c96ebe368e70a1fe7ffe27914a3a3b2b"
+    last_seen_at: 2026-06-16T14:07:16Z
   T1-03:
-    last_seen_hash: "sha256:cf0f0da16dd220eb722ce1aaf98aa744a886ffddca7ed11563b7a92f3777771e"
-    last_seen_at: 2026-06-15T14:01:34Z
+    last_seen_hash: "sha256:1b3a6dac28800604b1a80c911964e00c079d0a73239c0ba26dbe0b0e3d98afb3"
+    last_seen_at: 2026-06-16T14:07:16Z
   T1-04:
-    last_seen_hash: "sha256:d1ef54a3bdf49416b6739cb09e34d72df6561ee8e5d1f1a1ea6a23c8b1f749da"
-    last_seen_at: 2026-06-15T14:01:34Z
+    last_seen_hash: "sha256:353f570520e7186af62aeb42c4e08aab015185342cd7e74ab0f24493d8aa6cb3"
+    last_seen_at: 2026-06-16T14:07:16Z
   T1-05:
     last_seen_hash: "sha256:a562c0730ed385ee4a5bf2eefd67183deafac077e06ca3d3d7903523cbaf40a1"
-    last_seen_at: 2026-06-15T14:01:34Z
+    last_seen_at: 2026-06-16T14:07:16Z
   T1-06:
     last_seen_hash: "sha256:68442040541c39dc293dd578b54848a1ada55be775648c4efb783def9450cc36"
-    last_seen_at: 2026-06-15T14:01:34Z
+    last_seen_at: 2026-06-16T14:07:16Z
   T1-07:
     last_seen_hash: "sha256:5444f15839155442308f178076c06f7037ac93477a75e680d523b86540e04e17"
     last_seen_at: 2026-06-15T14:01:34Z
@@ -32,11 +32,11 @@ sources:
     last_seen_hash: "sha256:dc70d22d330a7cd1cf766ed88f874a670c76479a1fd47ce91b5edeb9df9624cf"
     last_seen_at: 2026-06-15T14:01:34Z
   T2-01:
-    last_seen_hash: "sha256:f60f16381bc69a36a2edb7cfbc250dd578d2630d4deb25c1607a8bc38fae2fb0"
-    last_seen_at: 2026-06-15T14:01:34Z
+    last_seen_hash: "sha256:6b135d25725353f222916d8087090cde2957077999dc366d5bcbd7e2867ef614"
+    last_seen_at: 2026-06-16T14:07:16Z
   T2-02:
-    last_seen_hash: "sha256:665ecbd4f9dcae9bd99d8da1b94c3d4f5bf13b50c01a048b860600a30083a1a8"
-    last_seen_at: 2026-06-15T14:01:34Z
+    last_seen_hash: "sha256:881b4b80efbfeeb3df173ba969d5c7c44371593ffcac95c131faedc64386c010"
+    last_seen_at: 2026-06-16T14:07:16Z
   T2-04:
-    last_seen_hash: "sha256:13d798cfddfd9f2e5a4fd14400fb1bb6b0e06053f40221e8ecccda0d6570dd93"
-    last_seen_at: 2026-06-15T14:01:34Z
+    last_seen_hash: "sha256:9a2e1074a4c73666a048cdb773f16e8ce8effad3c22918931a65c01077e27a8e"
+    last_seen_at: 2026-06-16T14:07:16Z
