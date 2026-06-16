@@ -41,6 +41,8 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-05-20 | **Group-wide RTS public hearing** (650+ participants) | [AMLA](https://www.amla.europa.eu/amla-concludes-public-hearing-draft-rts-group-wide-requirements_en) |
 | 2026-05-28 | BWRA guidelines public hearing | [pipeline](docs/amla-pipeline.md) |
 | 2026-06-03 | AMLA opens **ongoing-monitoring guidelines (Art 26(5))** consultation | [pipeline](docs/amla-pipeline.md) |
+| 2026-06-09 | AMLA holds its **first conference** (Alte Oper, Frankfurt; 360+ in person, all 27 MS) | [AMLA](https://www.amla.europa.eu/amla-successfully-concludes-its-first-conference_en) |
+| 2026-06-10 | AMLA **direct-supervision eligibility webinar** (2,500+ participants); materials published 16 Jun 2026 | [AMLA](https://www.amla.europa.eu/webinar-materials-now-available-identifying-obliged-entities-eligible-direct-supervision_en) |
 | 2026-06-13 | **Tracker verification date** (`as of`) | [STATUS.md](STATUS.md) |
 | 2026-06-15 | Group-wide RTS consultation closes *(verify on next refresh)* | [pipeline](docs/amla-pipeline.md) |
 
