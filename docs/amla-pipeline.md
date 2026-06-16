@@ -49,6 +49,11 @@ Direct links to the consultation pages:
 - **Group-wide RTS public hearing** — **20 May 2026**, "over **650 participants**".
   — https://www.amla.europa.eu/amla-concludes-public-hearing-draft-rts-group-wide-requirements_en
 - **BWRA hearing** — **28 May 2026**.
+- **First AMLA conference** — **9 June 2026**, Alte Oper Frankfurt: *"Building Trust, Enhancing
+  Integrity: A New Chapter in the EU's Fight Against Financial Crime"* (360+ participants, all 27
+  Member States), with panels on **financial intelligence**, **supervision/cooperation** and
+  **technology** risks/opportunities. A communications/strategy milestone — **no new RTS/ITS/GL or
+  consultation** announced. — https://www.amla.europa.eu/amla-hosts-its-first-conference_en
 - The three 9-Feb RTS consultations have **closed**; AMLA is preparing final drafts for the Commission by
   10 July 2026 (Simont Braun; A&L Goodbody).
 - **Two RTS finalised end-2025** (building on transferred EBA work): RTS on the inherent/residual risk profile
