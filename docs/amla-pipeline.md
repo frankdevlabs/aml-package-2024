@@ -60,6 +60,15 @@ Direct links to the consultation pages:
   of obliged entities (**Art 40(2) AMLD6**, Final Report 16 Dec 2025, applies from 31 Dec 2027) and RTS on
   selection of obliged entities for direct supervision (**Art 12(7) AMLAR**). The data-collection exercise to
   calibrate the selection methodology began **March 2026**.
+- **Direct-supervision eligibility webinar** — **10 June 2026**, over **2,500 participants**. Operationalises
+  the Art 12(7) AMLAR selection methodology: how AMLA identifies obliged entities **eligible for direct
+  supervision (from 2028)** and the practical **eligibility-reporting** process. Materials published 16 Jun
+  2026 (video, slide deck, five pre-filled Excel reporting templates for solo/group structures; FAQ forthcoming).
+  — https://www.amla.europa.eu/webinar-materials-now-available-identifying-obliged-entities-eligible-direct-supervision_en
+- **AMLA's first conference** — **9 June 2026**, Alte Oper, Frankfurt; over **360 in-person guests** from all
+  27 Member States plus livestream. Theme "Building Trust, Enhancing Integrity"; keynote by Commissioner Maria
+  Luís Albuquerque. A flagship institutional milestone, not a regulatory act.
+  — https://www.amla.europa.eu/amla-successfully-concludes-its-first-conference_en
 
 ## Next benchmark
 
