@@ -70,6 +70,15 @@ If no URL/path is given, ask for one (or the document metadata) and stop.
    - `access` (omit = fully public). Allowed values seen in the file:
      `cite-only`, `screenshot-only`, `not-public`, `public-released`, `public-via-register`,
      `public-via-journalist`, `public-via-national-parliament`.
+   - `lead_source` (`>-` block, optional) — **credit the lead that surfaced the document** when it
+     reached the repo via something other than its own institutional feed. Here the lead is typically a
+     Tier-2/Tier-3 / external tip that flags an **AMLA consultation paper / draft RTS-ITS-GL** (or a
+     **member-state submission / transposition step**) ahead of the official AMLA / EUR-Lex / national
+     feed. Record: who/what flagged it (name + handle/outlet), the watchlist code (e.g. a `T3-*` Bluesky
+     source), the tip URL + date, and one clause on why it counts as the lead (e.g. "ahead of AMLA's own
+     consultations page"). Set it whenever the `register-document` run was triggered by a
+     `resolve-tracker-issue` Tier-2/Tier-3 hit, or by any external tip-off rather than a Tier-1
+     institutional source. Render it in the `sources/README.md` row as `lead: [@handle](tip-url) (\`code\`)`.
    - `notes` (`>-` block): what it is, the substantive stance in 2–4 sentences, cross-links to the
      digest/positions page. New `body` values (e.g. `Netherlands`) are allowed.
 

@@ -53,6 +53,19 @@ The entry point is the `/tracker-issue` command (or invoke this skill directly).
    (Watch foreign-language sources especially — check the file number, not just the topic.)
    If it is a `keep_apart` file or otherwise off-topic, the plan's recommendation is to
    **close the issue as not-relevant** — do not edit the repo.
+   - **A low-tier source can carry Tier-1-grade substance — upgrade to the matching playbook.** The
+     flagged source's tier sets *priority*, not the *type* of integration. If a Tier-2/Tier-3 item
+     (NGO / industry / law-firm / media / Bluesky) surfaces a **primary institutional document** (an AMLA
+     consultation paper / draft RTS-ITS-GL, an AMLA final instrument, a member-state transposition act/step),
+     do **not** stay on `stakeholder-social` — run the matching `institutional` / `amla-instrument`
+     playbook on the underlying document. (A Tier-3 Bluesky post can be the first signal of a new AMLA
+     consultation.)
+   - **Bot-blocked official sources (WAF workaround).** Some official hosts return an HTTP 202 / 403 with a
+     Cloudflare / AWS-WAF JS challenge to all non-browser clients — `curl`/WebFetch get 0 bytes. You can
+     confirm a document's **existence + metadata** via listing pages and registers, but you **cannot fetch
+     its operative text** server-side. Obtain the text via a **browser download** or a **non-WAF mirror**.
+     If only metadata / a cover page is confirmed, register **metadata only** and set
+     `pending_operative_text` (below) — do not assert per-provision content from a screenshot or a summary.
 
 3. **Run the matching playbook** (below) to determine the concrete edits.
 
@@ -106,6 +119,20 @@ Not a content change — a fetch problem. For each listed code:
 
 ### `run-summary` / `skip`
 Suppressed-hits summary issues need no integration — the helper already filters them out.
+
+## Follow-up trigger: `pending_operative_text`
+
+When a document is registered **metadata-only** because its operative text could not be retrieved (the
+bot-blocked / WAF case above, or no mirror available yet), leave a machine-detectable marker so the work
+re-surfaces instead of being silently lost:
+- In the `data/documents.yaml` entry, set `pending_operative_text: true` and `access: screenshot-only`
+  (or `cite-only`), with a `notes` line stating what is confirmed (cover-page metadata) vs pending
+  (per-provision content).
+- Add one **Next milestones to watch** line in `STATUS.md` naming the document and the retrieval
+  condition (e.g. "<doc-id> operative text — pending browser download / mirror").
+- The daily tracker / `--list` treats any `pending_operative_text: true` entry as actionable: when a
+  mirror appears or the file is supplied, run the matching playbook to build the extract, fill the
+  per-provision cells, and clear the flag.
 
 ## Plan file template
 

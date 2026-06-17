@@ -13,6 +13,8 @@
 #   url / celex   authoritative URL(s)
 #   local         committed file path
 #   legal_basis   the AMLR/AMLD6/AMLAR article the instrument implements (Level-2/3 docs)
+#   lead_source   credit for a Tier-2/3/external lead that surfaced the doc (name+handle, watchlist
+#                 code, tip URL+date) — set when a register run was triggered by a tip, not a Tier-1 feed
 #   notes         prose context (`>-` block)
 
 documents:
