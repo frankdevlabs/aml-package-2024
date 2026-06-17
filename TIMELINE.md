@@ -38,6 +38,7 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-04-16 | AMLA opens **group-wide RTS (Arts 16(4)/17(3))** and **BWRA guidelines (Art 10(4))** consultations | [pipeline](docs/amla-pipeline.md) |
 | 2026-04-24 | NL Council of Ministers approves sending the **Iwt to the Raad van State** for advice | [besluitenlijst](https://open.overheid.nl/documenten/16cf634e-a9e2-4411-b302-b1264198c3a5/) |
 | 2026-05-08 | CDD and business-relationships RTS consultations **close** | [pipeline](docs/amla-pipeline.md) |
+| 2026-05-11 | NL **Iwt consultatieverslag** published (46 responses, 44 public; status → "Resultaat gepubliceerd", detected 17 Jun 2026) | [`docs/netherlands.md`](docs/netherlands.md) |
 | 2026-05-20 | **Group-wide RTS public hearing** (650+ participants) | [AMLA](https://www.amla.europa.eu/amla-concludes-public-hearing-draft-rts-group-wide-requirements_en) |
 | 2026-05-28 | BWRA guidelines public hearing | [pipeline](docs/amla-pipeline.md) |
 | 2026-06-03 | AMLA opens **ongoing-monitoring guidelines (Art 26(5))** consultation | [pipeline](docs/amla-pipeline.md) |

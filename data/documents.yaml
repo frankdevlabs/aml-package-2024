@@ -183,6 +183,20 @@ documents:
       Transposes AMLD6; replaces the Wwft from 10 Jul 2027. Consultation 4 Jul – 29 Aug 2025. As of 13 Jun
       2026 at the Raad van State for advice; no Tweede Kamer dossier (36XXX) yet. See docs/netherlands.md.
 
+  - id: NL-IWT-CONSULTATIEVERSLAG
+    title: "Consultatieverslag — Implementatiewet ter voorkoming van witwassen en terrorismefinanciering (Iwt)"
+    body: Netherlands
+    date: 2026-05-11
+    limite: false
+    file: sources/nl/NL-IWT-CONSULTATIEVERSLAG_consultation-report_2026-05-11.pdf
+    url: https://www.internetconsultatie.nl/implementatiewettervoorkomingvanwitwassenenterrorismefinanciering/b1
+    access: public-released
+    notes: >-
+      Ministerie van Financiën consultatieverslag (11 May 2026) on the Iwt draft. Consultation 4 Jul – 29 Aug
+      2025 drew 46 responses (44 public). Reactions are addressed in §12 of the memorie van toelichting; the
+      bill has since been submitted to the Afdeling advisering van de Raad van State. internetconsultatie
+      status flipped to "Resultaat gepubliceerd" (detected 17 Jun 2026). See docs/netherlands.md.
+
   - id: NL-MR-BESLUITENLIJST-2026-04-24
     title: "Besluitenlijst ministerraad 24 april 2026 (Iwt naar Raad van State voor advies)"
     body: Netherlands
