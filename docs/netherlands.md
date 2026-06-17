@@ -11,8 +11,15 @@ national cash limit, the UBO threshold change, and the contested "lastenluw" fra
   transaction suspension). Because the AMLR is directly applicable, CDD/reporting obligations flow from the
   AMLR, not the Iwt.
 - **Consultation:** internet consultation ran **4 July – 29 August 2025**
-  (https://www.internetconsultatie.nl/implementatiewettervoorkomingvanwitwassenenterrorismefinanciering/b1);
-  consultation report published. Law-firm analysis: [Finnius](https://finnius.com/en/consultation-on-implementation-act-on-anti-money-laundering-and-anti-terrorist-financing/).
+  (https://www.internetconsultatie.nl/implementatiewettervoorkomingvanwitwassenenterrorismefinanciering/b1).
+  The **consultatieverslag** (Min. Financiën, **11 May 2026**) was published and the consultation status moved
+  to "Resultaat gepubliceerd" — [committed PDF](../sources/nl/NL-IWT-CONSULTATIEVERSLAG_consultation-report_2026-05-11.pdf)
+  (`NL-IWT-CONSULTATIEVERSLAG`). It drew **46 responses (44 public)** — from industry, the professions and
+  rights groups incl. NVB, NOvA, KNB, Loyens & Loeff, DUFAS, College voor de Rechten van de Mens, Stichting
+  Privacy First and Human Rights in Finance.EU — addressed in **§12 of the definitive memorie van toelichting**
+  (filed with the Raad van State milestone, not separately on internetconsultatie). The verslag confirms the
+  bill is **aanhangig bij de Afdeling advisering van de Raad van State**. Law-firm analysis:
+  [Finnius](https://finnius.com/en/consultation-on-implementation-act-on-anti-money-laundering-and-anti-terrorist-financing/).
 - **Current status (13 June 2026): NOT yet submitted (ingediend) to the Tweede Kamer.** The Council of
   Ministers approved on **24 April 2026** sending the bill to the **Afdeling advisering van de Raad van State**
   for advice — *"De minister van Financiën zal het voorstel om advies aanhangig doen maken bij de Afdeling

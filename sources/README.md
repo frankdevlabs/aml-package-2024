@@ -37,6 +37,7 @@
 | ID | Title | Date | Hosted file | Provenance |
 |---|---|---|---|---|
 | `NL-IWT-CONSULTATIE` | Implementatiewet (Iwt) — internet consultation | 2025-07-04 | link-only | [internetconsultatie](https://www.internetconsultatie.nl/implementatiewettervoorkomingvanwitwassenenterrorismefinanciering/b1) · [wetgevingskalender](https://wetgevingskalender.overheid.nl/Regeling/WGK027204) |
+| `NL-IWT-CONSULTATIEVERSLAG` | Consultatieverslag Iwt (Min. Financiën) | 2026-05-11 | `sources/nl/` | [PDF](nl/NL-IWT-CONSULTATIEVERSLAG_consultation-report_2026-05-11.pdf) · [internetconsultatie](https://www.internetconsultatie.nl/implementatiewettervoorkomingvanwitwassenenterrorismefinanciering/b1) |
 | `NL-MR-BESLUITENLIJST-2026-04-24` | Besluitenlijst ministerraad (Iwt → Raad van State) | 2026-04-24 | link-only | [open.overheid.nl](https://open.overheid.nl/documenten/16cf634e-a9e2-4411-b302-b1264198c3a5/) |
 | `NL-ATR4058` | ATR4058 — "niet lastenluw" | 2025-09-29 | link-only | [open.overheid.nl](https://open.overheid.nl/documenten/497b3bd5-6966-41e3-aa7a-7fb1e8a4870a/file) |
 | `NL-36228-CASHLIMIT` | Wet plan van aanpak witwassen (cash limit), dossier 36.228 | 2025-06-10 | link-only | [Eerste Kamer](https://www.eerstekamer.nl/wetsvoorstel/36228_wet_plan_van_aanpak) |
