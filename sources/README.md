@@ -31,6 +31,7 @@
 | `AMLA-RTS-GROUPWIDE-ART16-17` | Draft RTS — group-wide requirements (Arts 16(4)/17(3) AMLR) | 2026-04-16 | `sources/amla/` | [consultation](https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-group-wide-minimum-requirements-and-additional-measures-subsidiaries-and_en) · [extract](../extracts/amla/RTS-group-wide-art16-17_consultation-paper.md) |
 | `AMLA-GL-BWRA-ART10` | Draft Guidelines — business-wide risk assessment (Art 10(4) AMLR) | 2026-04-16 | `sources/amla/` | [consultation](https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-business-wide-risk-assessment_en) · [extract](../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md) |
 | `AMLA-GL-MONITORING-ART26` | Draft Guidelines — ongoing monitoring (Art 26(5) AMLR) | 2026-06-03 | `sources/amla/` | [consultation](https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-ongoing-monitoring-business-relationship_en) · [extract](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md) |
+| `AMLA-ADVISORY-MICAR` | Advisory note — ML/TF risks as the MiCAR transitional period ends | 2026-06-29 | `sources/amla/` | [AMLA](https://www.amla.europa.eu/advisory-note-money-laundering-risks-micar-transitional-period-ends_en) · [PDF](amla/AMLA-ADVISORY-MICAR_advisory-note_2026-06-29.pdf) |
 
 ## Netherlands (transposition)
 

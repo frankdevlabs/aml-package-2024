@@ -69,6 +69,17 @@ Direct links to the consultation pages:
   27 Member States plus livestream. Theme "Building Trust, Enhancing Integrity"; keynote by Commissioner Maria
   Luís Albuquerque. A flagship institutional milestone, not a regulatory act.
   — https://www.amla.europa.eu/amla-successfully-concludes-its-first-conference_en
+- **MiCAR-transition advisory note** — **29 June 2026**. AMLA published a stand-alone advisory note (not part
+  of the RTS/ITS/GL mandate pipeline) on the **ML/TF risks resulting from the end of the MiCAR transitional
+  period** (Art 143(3) Reg (EU) 2023/1114 grandfathering ends **1 July 2026**) and mitigating measures for the
+  four affected actors: **unauthorised VASPs** (structured, documented wind-down with AML/CFT governance and
+  enhanced monitoring until activities cease; maintain up-to-date CDD and STR reporting), **authorised CASPs**
+  (scalable transaction monitoring, effective CDD and risk integration when onboarding transferring customers —
+  **no blanket de-risking**, individual risk-based assessment with EDD where higher risks are identified),
+  **AML/CFT supervisors** (risk-based focus on wind-down/customer transfers, cross-border coordination to avoid
+  regulatory arbitrage) and **FIUs** (cross-border/domestic cooperation on flows linked to exiting VASPs and
+  receiving CASPs). Soft guidance, not a binding instrument; CASPs are AMLR obliged entities.
+  — [register](../sources/README.md) · https://www.amla.europa.eu/advisory-note-money-laundering-risks-micar-transitional-period-ends_en
 
 ## Next benchmark
 
