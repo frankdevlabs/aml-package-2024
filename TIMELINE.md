@@ -46,6 +46,7 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-06-10 | AMLA **direct-supervision eligibility webinar** (2,500+ participants); materials published 16 Jun 2026 | [AMLA](https://www.amla.europa.eu/webinar-materials-now-available-identifying-obliged-entities-eligible-direct-supervision_en) |
 | 2026-06-13 | **Tracker verification date** (`as of`) | [STATUS.md](STATUS.md) |
 | 2026-06-15 | Group-wide RTS (Arts 16(4)/17(3)) consultation **closes** (confirmed on hub 16 Jun 2026) | [pipeline](docs/amla-pipeline.md) |
+| 2026-06-29 | AMLA publishes **advisory note on ML/TF risks as the MiCAR transitional period ends** (1 Jul 2026): wind-down/CDD for exiting VASPs, risk-based onboarding (no blanket de-risking) for CASPs, supervisor & FIU coordination | [pipeline](docs/amla-pipeline.md) · [register](sources/README.md) |
 
 ## Forward look (targets — not yet occurred)
 

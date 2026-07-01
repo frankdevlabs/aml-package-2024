@@ -170,6 +170,22 @@ documents:
       Most recently opened consultation. 3 Jun – 3 Sep 2026 (open). Extract:
       extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md.
 
+  # --- AMLA — advisory notes / guidance (non-pipeline) --------------------
+  - id: AMLA-ADVISORY-MICAR
+    title: "Advisory note — ML/TF risks resulting from the end of the MiCAR transitional period and possible mitigating measures"
+    body: AMLA
+    date: 2026-06-29
+    limite: false
+    url: https://www.amla.europa.eu/advisory-note-money-laundering-risks-micar-transitional-period-ends_en
+    local: sources/amla/AMLA-ADVISORY-MICAR_advisory-note_2026-06-29.pdf
+    notes: >-
+      Stand-alone AMLA advisory note (29 Jun 2026), not part of the formal RTS/ITS/GL mandate pipeline. The
+      MiCAR transitional period (Art 143(3) Reg (EU) 2023/1114) ends 1 Jul 2026; unauthorised VASPs must exit
+      and customers move to authorised CASPs — obliged entities under AMLR. Sets out ML/TF risks and mitigating
+      measures for unauthorised VASPs, authorised CASPs, AML/CFT supervisors and FIUs (risk-based onboarding,
+      no blanket de-risking, wind-down AML/CFT controls, scalable transaction monitoring, supervisory
+      coordination, FIU information exchange). See docs/amla-pipeline.md.
+
   # --- Netherlands (transposition) ----------------------------------------
   - id: NL-IWT-CONSULTATIE
     title: "Implementatiewet ter voorkoming van witwassen en terrorismefinanciering (Iwt) — internet consultation"
