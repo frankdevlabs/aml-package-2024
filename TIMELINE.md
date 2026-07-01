@@ -47,6 +47,7 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-06-13 | **Tracker verification date** (`as of`) | [STATUS.md](STATUS.md) |
 | 2026-06-15 | Group-wide RTS (Arts 16(4)/17(3)) consultation **closes** (confirmed on hub 16 Jun 2026) | [pipeline](docs/amla-pipeline.md) |
 | 2026-06-29 | AMLA publishes **advisory note on ML/TF risks as the MiCAR transitional period ends** (1 Jul 2026): wind-down/CDD for exiting VASPs, risk-based onboarding (no blanket de-risking) for CASPs, supervisor & FIU coordination | [pipeline](docs/amla-pipeline.md) · [register](sources/README.md) |
+| 2026-07-01 | AMLA and **EDPB to develop joint Guidelines on information-sharing partnerships** (Art 75 AMLR) — announcement only; stakeholder event later 2026, public consultation expected H1 2027 | [pipeline](docs/amla-pipeline.md) |
 
 ## Forward look (targets — not yet occurred)
 
@@ -55,7 +56,9 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-07-10 | AMLA submits first-wave final draft RTS (CDD, business relationships, pecuniary sanctions) to the Commission |
 | 2026-07-15 | BWRA guidelines consultation closes |
 | 2026-09-03 | Ongoing-monitoring guidelines consultation closes |
+| 2026-H2 | AMLA/EDPB stakeholder event on the information-sharing-partnerships joint Guidelines (Art 75 AMLR) |
 | 2026-09-30 | Group-wide RTS final draft to the Commission |
+| 2027-H1 | AMLA/EDPB **public consultation** on the information-sharing-partnerships joint Guidelines (Art 75 AMLR) |
 | 2026-Q4 | Final BWRA guidelines expected |
 | 2027 | AMLA selects ~40 high-risk groups for direct supervision |
 | 2027-07-10 | **AMLR applies; AMLD6 general transposition deadline; Wwft replaced by the Iwt** |

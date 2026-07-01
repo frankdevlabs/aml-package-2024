@@ -40,7 +40,7 @@ Iwt sits at the Raad van State for advice (no Tweede Kamer dossier yet).
 
 ### AMLA — Authority for Anti-Money Laundering (the implementation engine)
 - **Stage:** Operational since 1 Jul 2025; building the single rulebook (Level-2/3) and preparing direct supervision.
-- **Latest act:** First-wave RTS consultations closed (CDD + business relationships 8 May 2026; pecuniary sanctions 9 Mar 2026); group-wide RTS closed 15 Jun 2026; BWRA + ongoing-monitoring guidelines open. AMLA also held its **first conference** (9 Jun 2026, Frankfurt) and published **direct-supervision eligibility-reporting webinar** materials (10 Jun 2026), and an **advisory note on ML/TF risks as the MiCAR transitional period ends** (29 Jun 2026; no blanket de-risking of transferring CASP customers). — [pipeline](docs/amla-pipeline.md) · [consultations hub](https://www.amla.europa.eu/policy/public-consultations_en)
+- **Latest act:** First-wave RTS consultations closed (CDD + business relationships 8 May 2026; pecuniary sanctions 9 Mar 2026); group-wide RTS closed 15 Jun 2026; BWRA + ongoing-monitoring guidelines open. AMLA also held its **first conference** (9 Jun 2026, Frankfurt) and published **direct-supervision eligibility-reporting webinar** materials (10 Jun 2026), and an **advisory note on ML/TF risks as the MiCAR transitional period ends** (29 Jun 2026; no blanket de-risking of transferring CASP customers). On **1 Jul 2026** AMLA and the **EDPB** announced a joint Level-3 workstream — **Guidelines on information-sharing partnerships** (Art 75 AMLR; consultation expected H1 2027). — [pipeline](docs/amla-pipeline.md) · [consultations hub](https://www.amla.europa.eu/policy/public-consultations_en)
 - **Owner:** Chair **Bruna Szego**; Executive Director **Nicolas Vasse**; Frankfurt (MesseTurm).
 - **Position:** Deliver 24 of 40 mandates in 2026 (financial sector first, then non-financial); ~430 staff "cruising capacity" by end-2027.
 - **Next:** Submit first-wave final draft RTS to the Commission by **10 Jul 2026**; select ~40 high-risk entities for direct supervision during 2027; direct supervision from **2028**. — [AMLA digest](docs/instruments/amla-2024-1620.md)
@@ -62,6 +62,7 @@ Iwt sits at the Raad van State for advice (no Tweede Kamer dossier yet).
 - [ ] **Final draft to Commission by 30 Sep 2026** — group-wide requirements RTS (Arts 16(4)/17(3) AMLR).
 - [ ] **Q4 2026** — final business-wide risk assessment guidelines (Art 10(4) AMLR).
 - [ ] **3 September 2026** — ongoing-monitoring guidelines consultation closes.
+- [ ] **H1 2027** — AMLA/EDPB public consultation on the **information-sharing-partnerships joint Guidelines** (Art 75 AMLR); stakeholder event expected later in 2026.
 - [ ] **NL Iwt** — Raad van State advice, then submission to the Tweede Kamer (a Kamerstuk **36XXX** number appears on submission). *Verify against the institution — wetgevingskalender blocks automated access.*
 - [ ] **NL implementatiebesluit** — secondary legislation under the Iwt, to be consulted separately.
 - [ ] Re-verify the [AMLA consultations hub](https://www.amla.europa.eu/policy/public-consultations_en) at least monthly (11 consultations were planned for Q2 2026 alone).
