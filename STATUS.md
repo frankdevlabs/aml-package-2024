@@ -7,7 +7,7 @@
 | **Legal basis** | Article 114 TFEU (all three) |
 | **Applies / transposes from** | **10 July 2027** (AMLR + AMLD6 general date); AMLR football sub-set from **10 July 2029**. **AMLA operational since 1 July 2025** (Frankfurt). |
 | **Latest live workstream** | AMLA **Level-2/3 pipeline** — first-wave draft RTS consultations closed; finals due to the Commission **10 July 2026**. See [AMLA pipeline](docs/amla-pipeline.md). |
-| **As of** | **2 July 2026** (= `data/tracker-state.yaml` `last_run`) |
+| **As of** | **6 July 2026** (= `data/tracker-state.yaml` `last_run`) |
 
 > Living snapshot — **not legal advice** ([`DISCLAIMER.md`](DISCLAIMER.md)). The three instruments are sourced
 > from [`docs/instruments/`](docs/instruments/) + EUR-Lex; the live implementation workstream from AMLA's
