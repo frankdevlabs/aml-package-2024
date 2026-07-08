@@ -76,6 +76,14 @@ Interacts with the KvK UBO-register; AMLD6 strengthens the KvK role and adds a d
   Art 40(2) AMLD6; institutions should adapt data registration and register cross-border activities from 2026
   ([DNB IRAP/AMLA notice](https://www.dnb.nl/nieuws-voor-de-sector/toezicht-2025/q4/wijzigingen-in-irap-door-komst-amla-bereid-u-voor-op-2026-en-2027/)).
   DNB's [European AML/CFT framework hub](https://www.dnb.nl/voor-de-sector/open-boek-toezicht/wet-regelgeving/europees-amlcft-kader/).
+- **DNB on AMLA's eligibility reporting package (13 May 2026):** AMLA published on **12 May 2026** its
+  *eligibility reporting package* — the data collection AMLA uses to determine which institutions fall
+  under **direct AMLA supervision**. DNB advises that **institutions under DNB supervision need take no
+  action**: DNB has already requested the relevant information for most of them via the **IRAP**, and
+  will approach the remainder directly; the AMLA package need not be independently completed or filed
+  with DNB ([DNB eligibility-reporting notice](https://www.dnb.nl/nieuws-voor-de-sector/toezicht-2026/q2/amla-eligibility-reporting-package-geen-actie-nodig-voor-instellingen-onder-dnb-toezicht/)).
+  This is the NL-supervisor counterpart to AMLA's direct-supervision **selection** process (~40 entities
+  chosen in 2027; direct supervision from 2028).
 - DNB represents the Dutch Wwft supervisors on the AMLA General Board (supervisory composition). DNB notes
   AMLA's risk-based approach may diverge from existing DNB Q&As/Good Practices Wwft and the NVB Risk-Based
   Industry Baselines ([Deloitte analysis](https://www.deloitte.com/nl/nl/services/consulting-financial/perspectives/amla-and-amlr-a-blessing-or-curse-for-dutch-financial-institutions.html)).
