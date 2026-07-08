@@ -80,6 +80,15 @@ Direct links to the consultation pages:
   regulatory arbitrage) and **FIUs** (cross-border/domestic cooperation on flows linked to exiting VASPs and
   receiving CASPs). Soft guidance, not a binding instrument; CASPs are AMLR obliged entities.
   — [register](../sources/README.md) · https://www.amla.europa.eu/advisory-note-money-laundering-risks-micar-transitional-period-ends_en
+- **AMLA + EDPB joint Guidelines on information-sharing partnerships — announced 1 July 2026.** AMLA and the
+  European Data Protection Board will jointly develop Level-3 Guidelines clarifying how obliged entities can
+  share information to fight financial crime while protecting personal data, under **Art 75 AMLR**
+  (information-sharing partnerships; applies **10 July 2027**). A first cross-authority (AMLA + EDPB) Level-3
+  workstream — announcement only, **no draft instrument or consultation open yet**. Planned: a joint drafting
+  team, a stakeholder event **later in 2026** and a formal **public consultation in H1 2027**. Not yet in the
+  consultation-status table above; add a slice under [`../extracts/amla/`](../extracts/amla/) once the
+  consultation paper opens.
+  — https://www.amla.europa.eu/amla-and-edpb-develop-joint-guidelines-partnerships-information-sharing_en
 
 ## Next benchmark
 
