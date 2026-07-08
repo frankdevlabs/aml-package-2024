@@ -66,6 +66,7 @@ Iwt sits at the Raad van State for advice (no Tweede Kamer dossier yet).
 - [ ] **NL Iwt** — Raad van State advice, then submission to the Tweede Kamer (a Kamerstuk **36XXX** number appears on submission). *Verify against the institution — wetgevingskalender blocks automated access.*
 - [ ] **NL implementatiebesluit** — secondary legislation under the Iwt, to be consulted separately.
 - [ ] Re-verify the [AMLA consultations hub](https://www.amla.europa.eu/policy/public-consultations_en) at least monthly (11 consultations were planned for Q2 2026 alone).
+- [ ] **Retrieve draft text** for three instruments AMLA's [regulatory-instruments index](https://www.amla.europa.eu/policy/regulatory-instruments_en) lists as *closed* but that never appeared on the consultations hub — **EPPO-reporting ITS** (Art 81(1) AMLR / 41(2) AMLAR), **FIU-to-FIU ITS** (Art 31(2) AMLD6), **Home-Host RTS** (Art 46(4) AMLD6). Register + transcribe once a consultation page or PDF surfaces. — [pipeline](docs/amla-pipeline.md#additional-index-listed-instruments-regulatory-instruments-tracker-not-on-the-consultations-hub)
 - [ ] **2027** — AMLA selects ~40 high-risk financial groups for direct supervision; **2028** — direct supervision begins.
 - [ ] **10 July 2029** — AMLR football-agents/clubs sub-set applies; AMLD6 Article 18 deadline.
 

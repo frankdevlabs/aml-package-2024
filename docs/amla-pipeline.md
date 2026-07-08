@@ -41,6 +41,24 @@ Direct links to the consultation pages:
 - Business-wide risk assessment GL (Art 10(4)): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-business-wide-risk-assessment_en
 - Ongoing monitoring GL (Art 26(5)): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-ongoing-monitoring-business-relationship_en
 
+## Additional index-listed instruments (regulatory-instruments tracker, not on the consultations hub)
+
+AMLA's [regulatory-instruments index](https://www.amla.europa.eu/policy/regulatory-instruments_en) (checked
+**1 July 2026**; page "Last update" 3 Jun 2026) lists three further draft instruments in its "under
+consultation / consultations closed" table — all marked **Consultation closed** — that are **not** on the
+[public-consultations hub](https://www.amla.europa.eu/policy/public-consultations_en) (re-checked 1 Jul 2026,
+still the seven above). No consultation page, no open/close dates and no draft PDF are reachable for them yet,
+so only their existence, legal basis and closed status are confirmed — **draft text pending retrieval**.
+
+| Instrument | Legal basis | Type | Index status (1 Jul 2026) |
+|---|---|---|---|
+| FIU and AMLA reporting to the EPPO | Art 81(1) AMLR; Art 41(2) AMLAR | ITS | **Closed** — paper/dates/text pending |
+| FIU-to-FIU exchanges | Art 31(2) AMLD6 | ITS | **Closed** — paper/dates/text pending |
+| Home-Host Supervisory Cooperation | Art 46(4) AMLD6 | RTS | **Closed** — paper/dates/text pending |
+
+When a consultation page or draft PDF surfaces for any of these, register the document and add its
+[`extracts/amla/`](../extracts/amla/) slice, then move it into the status table above.
+
 ## Verified events (anchored "as of 13 June 2026")
 
 - **First public hearing** — **24 March 2026** on the CDD and business-relationships draft RTS; "over **1600
