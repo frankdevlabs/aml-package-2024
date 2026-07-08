@@ -19,10 +19,10 @@ delivers in **two phases — financial sector first, then non-financial sector**
 
 ## Consultation status table
 
-Verified against AMLA's consultations hub, **22 June 2026** (all 7 statuses re-checked, unchanged). Operative drafts transcribed under
+Verified against AMLA's consultations hub, **1 July 2026** (all 7 statuses re-checked, unchanged; the 1 Jul hub page-body change carried no visible list/status delta — see [triage #26](triage/2026-07-01-issue-26.md)). Operative drafts transcribed under
 [`extracts/amla/`](../extracts/amla/); source PDFs in [`sources/README.md`](../sources/README.md).
 
-| # | Instrument | Legal basis | Type | Opened | Closes | Status (22 Jun 2026) | Final / submission target |
+| # | Instrument | Legal basis | Type | Opened | Closes | Status (1 Jul 2026) | Final / submission target |
 |---|---|---|---|---|---|---|---|
 | 1 | [Supervisory-system cooperation (direct supervision)](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md#section-1) | Art 15(3) AMLAR | ITS | 16 Dec 2025 | 27 Jan 2026 | **Closed** | — |
 | 2 | [Customer Due Diligence](../extracts/amla/RTS-cdd-art28-1_consultation-paper.md#article-1) | Art 28(1) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
