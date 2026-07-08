@@ -134,6 +134,7 @@ watchlist:
       label: "DNB — Europees AML/CFT-kader hub"
       url: "https://www.dnb.nl/voor-de-sector/open-boek-toezicht/wet-regelgeving/europees-amlcft-kader/"
       affects: [docs/netherlands.md, STATUS.md]
+      notes: "DNB serves an Akamai 'Access Denied' to plain curl since ~25 Jun 2026 — on a block, refetch via ~/law-tracker/lib/fetch_blocked_doc.py (curl-impersonate tier passes it; verified 2026-07-08) before logging unreachable."
     T1-09:
       tier: T1
       kind: institutional
@@ -162,9 +163,10 @@ watchlist:
     T2-03:
       tier: T2
       kind: stakeholder
-      label: "Nederlandse Vereniging van Banken (NVB) — AML/UBO positions"
-      url: "https://www.nvb.nl/themas/veilig-bankieren-fraude/witwassen/"
+      label: "Nederlandse Vereniging van Banken (NVB) — AML/UBO positions (via sitemap)"
+      url: "https://www.nvb.nl/sitemap.xml"
       affects: [docs/stakeholders.md, docs/netherlands.md, docs/fault-lines.md]
+      notes: "Extract <loc> URLs matching witwas/aml/ubo/wwft (case-insensitive); a new matching /nieuws/ URL = a hit — fetch that article for the substance. Switched 2026-07-08: the old theme page /themas/veilig-bankieren-fraude/witwassen/ 404s after an NVB site restructure (no direct replacement; the new /nieuws/ index is client-rendered)."
     # File-agnostic: mirrors Council/Commission outcomes that bot-block curl. Keep.
     T2-04:
       tier: T2
