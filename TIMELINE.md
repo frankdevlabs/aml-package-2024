@@ -52,8 +52,8 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-07-01 | AMLA and **EDPB to develop joint Guidelines on information-sharing partnerships** (Art 75 AMLR) — announcement only; stakeholder event later 2026, public consultation expected H1 2027 | [pipeline](docs/amla-pipeline.md) |
 | 2026-07-01 | AMLA **regulatory-instruments index** surfaces three further draft instruments (all "Consultation closed", not on the consultations hub): **EPPO-reporting ITS** (Art 81(1) AMLR / Art 41(2) AMLAR), **FIU-to-FIU ITS** (Art 31(2) AMLD6), **Home-Host RTS** (Art 46(4) AMLD6); draft text pending | [pipeline](docs/amla-pipeline.md#additional-index-listed-instruments-regulatory-instruments-tracker-not-on-the-consultations-hub) |
 | 2026-07-02 | AMLA **concludes the public hearing on the ongoing-monitoring guidelines** (Art 26(5) AMLR — consultation #7, open, closes 3 Sep 2026) | [AMLA](https://www.amla.europa.eu/press-release-amla-concludes-public-hearing-draft-guidelines-ongoing-monitoring-business_en) |
-| 2026-07-02 | AMLA opens **reporting-format ITS (Art 69(3) AMLR)** consultation (closes 20 Sep 2026) | [pipeline](docs/amla-pipeline.md) |
-| 2026-07-06 | AMLA opens **FIU cross-border-exchange RTS (Art 31(3) AMLD6)** consultation (closes 6 Oct 2026) | [pipeline](docs/amla-pipeline.md) |
+| 2026-07-02 | AMLA opens **ITS on the format for reporting suspicions & providing transaction records (Art 69(3) AMLR)** consultation (to 20 Sep 2026; public hearing 9 Sep 2026) | [extract](extracts/amla/ITS-reporting-format-art69-3_consultation-paper.md) · [pipeline](docs/amla-pipeline.md) |
+| 2026-07-06 | AMLA opens **RTS on cross-border information exchange between FIUs (Art 31(3) AMLD6)** consultation (to 6 Oct 2026) — XBR/XBD relevance & selection criteria over FIU.net | [extract](extracts/amla/RTS-fiu-cross-border-art31-3_consultation-paper.md) · [pipeline](docs/amla-pipeline.md) |
 | 2026-07-08 | AMLA introduces a **common EU approach to enforcing AML/CFT rules** — first harmonised, consistent supervisory enforcement of breaches across the EU, finalising the **pecuniary-sanctions RTS** (Art 53(10) AMLD6): four-step methodology, four gravity levels, all sectors | [AMLA](https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en) |
 | 2026-07-08 | **Regulatory-instruments tracker** ("Last update" 8 Jul 2026): six mandates move to **Final report published** — pecuniary-sanctions RTS (Art 53(10) AMLD6), EPPO-reporting ITS (Art 81(1) AMLR / 41(2) AMLAR), FIU-to-FIU ITS (Art 31(2) AMLD6), plus the two end-2025 RTS (Art 40(2), Art 12(7)) now reflected; status confirmed only, final-report PDFs pending | [pipeline](docs/amla-pipeline.md) · [triage #41](docs/triage/2026-07-08-issue-41.md) |
 | 2026-07-09 | AMLA publishes **consultation feedback** on the pecuniary-sanctions RTS (Art 53(10) AMLD6); final RTS to the Commission — operative text (Commission Delegated Regulation) pending | [pipeline](docs/amla-pipeline.md) · [register](sources/README.md) |
@@ -65,6 +65,9 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-07-10 | AMLA submits first-wave final draft RTS (CDD, business relationships, pecuniary sanctions) to the Commission |
 | 2026-07-15 | BWRA guidelines consultation closes |
 | 2026-09-03 | Ongoing-monitoring guidelines consultation closes |
+| 2026-09-09 | Public hearing on the reporting-format ITS (Art 69(3) AMLR) |
+| 2026-09-20 | Reporting-format ITS (Art 69(3) AMLR) consultation closes |
+| 2026-10-06 | Cross-border FIU information-exchange RTS (Art 31(3) AMLD6) consultation closes |
 | 2026-H2 | AMLA/EDPB stakeholder event on the information-sharing-partnerships joint Guidelines (Art 75 AMLR) |
 | 2026-09-30 | Group-wide RTS final draft to the Commission |
 | 2027-H1 | AMLA/EDPB **public consultation** on the information-sharing-partnerships joint Guidelines (Art 75 AMLR) |
