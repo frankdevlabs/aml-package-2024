@@ -122,6 +122,26 @@ documents:
       First-wave RTS. Consultation 9 Feb – 9 Mar 2026 (closed). Extract:
       extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md.
 
+  - id: AMLA-RTS-SANCTIONS-ART53-FEEDBACK
+    title: "Consultation feedback — draft RTS on pecuniary sanctions, administrative measures & periodic penalty payments (Art 53(10) AMLD6)"
+    body: AMLA
+    date: 2026-07-09
+    limite: false
+    legal_basis: Art 53(10) AMLD6
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-pecuniary-sanctions-administrative-measures-and-periodic-penalty-payments_en
+    local: sources/amla/RTS-pecuniary-sanctions-art53-10_consultation-feedback_2026-07-09.pdf
+    pending_operative_text: true
+    access: cite-only
+    notes: >-
+      Consultation outcome for the Art 53(10) AMLD6 RTS. AMLA published the feedback compendium (respondents +
+      AMLA replies) on 9 Jul 2026 and a press release "AMLA introduces a common EU approach to enforcing
+      anti-money laundering rules" on 8 Jul 2026 (four-step methodology; four gravity levels). This document is
+      the feedback only — it contains no operative annex. CONFIRMED: the consultation is finalised and the final
+      RTS goes to the Commission (first-wave deadline 10 Jul 2026). PENDING (pending_operative_text): the final
+      RTS operative text — the Commission Delegated Regulation supplementing AMLD6 — is not yet published; when
+      it appears (OJ) build extracts/amla/RTS-pecuniary-sanctions-art53-10_final.md against the consulted draft
+      and clear this flag. See docs/amla-pipeline.md and docs/triage/2026-07-10-issue-50.md.
+
   - id: AMLA-ITS-SUPCOOP-ART15
     title: "Consultation paper — draft ITS on cooperation within the AML/CFT supervisory system (Art 15(3) AMLAR)"
     body: AMLA
