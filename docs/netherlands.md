@@ -14,7 +14,9 @@ national cash limit, the UBO threshold change, and the contested "lastenluw" fra
   (https://www.internetconsultatie.nl/implementatiewettervoorkomingvanwitwassenenterrorismefinanciering/b1).
   The **consultatieverslag** (Min. Financiën, **11 May 2026**) was published and the consultation status moved
   to "Resultaat gepubliceerd" — [committed PDF](../sources/nl/NL-IWT-CONSULTATIEVERSLAG_consultation-report_2026-05-11.pdf)
-  (`NL-IWT-CONSULTATIEVERSLAG`). It drew **46 responses (44 public)** — from industry, the professions and
+  (`NL-IWT-CONSULTATIEVERSLAG`). It drew **46 responses (44 public)** per the verslag (the internetconsultatie page publishes reactions on
+  rolling consent and now displays **45 openbaar** — a live page-count tick, not a change to the recorded
+  total; the authoritative figure is the verslag's 46 received / 44 public) — from industry, the professions and
   rights groups incl. NVB, NOvA, KNB, Loyens & Loeff, DUFAS, College voor de Rechten van de Mens, Stichting
   Privacy First and Human Rights in Finance.EU — addressed in **§12 of the definitive memorie van toelichting**
   (filed with the Raad van State milestone, not separately on internetconsultatie). The verslag confirms the
