@@ -39,7 +39,22 @@ documents:
     url: https://eur-lex.europa.eu/eli/reg/2024/1620/2025-11-10/eng
     notes: >-
       Establishes AMLA (Frankfurt). Digest: docs/instruments/amla-2024-1620.md. Operational since 1 Jul 2025.
-      Consolidated version dated 10 Nov 2025.
+      Amended by Reg (EU) 2025/2088 (Art 7; in force 10 Nov 2025) — reporting-simplification omnibus; the
+      10 Nov 2025 consolidated version (02024R1620-20251110) incorporates it. See REG-2025-2088.
+
+  - id: REG-2025-2088
+    title: "Reg (EU) 2025/2088 — reporting-requirements simplification omnibus (amends AMLAR, Art 7)"
+    body: Commission
+    date: 2025-10-08
+    limite: false
+    celex: https://eur-lex.europa.eu/eli/reg/2025/2088/oj
+    url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2088
+    notes: >-
+      Omnibus amending seven acts on financial-services reporting requirements. Art 7 amends AMLA Regulation
+      (EU) 2024/1620: new Art 5(1)(k) and Art 55(1) subparagraphs (reporting-requirement review), new Art
+      88(3a) (professional-secrecy carve-out) and new Art 92a (inter-authority information exchange). In force
+      10 Nov 2025 (20th day after OJ publication 21 Oct 2025); incorporated in the 02024R1620-20251110
+      consolidation. Link-only (EUR-Lex). Digest: docs/instruments/amla-2024-1620.md#amendments-in-force.
 
   - id: DIR-2024-1640
     title: "AMLD6 — Directive (EU) 2024/1640 (mechanisms for Member States; amends/repeals 2015/849)"

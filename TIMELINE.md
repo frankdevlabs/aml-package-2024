@@ -22,6 +22,7 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2025-07-01 | **AMLA operational** in Frankfurt; Executive Director Nicolas Vasse appointed | [governance](https://www.amla.europa.eu/governance_en) |
 | 2025-07-04 – 08-29 | NL **Iwt** internet consultation | [internetconsultatie](https://www.internetconsultatie.nl/implementatiewettervoorkomingvanwitwassenenterrorismefinanciering/b1) |
 | 2025-09-29 | **ATR4058** — "Implementatie Europees antiwitwaspakket niet lastenluw" | [`docs/netherlands.md`](docs/netherlands.md) |
+| 2025-10-21 | **Reg (EU) 2025/2088** (reporting-simplification omnibus) published (OJ L, 21.10.2025); its Art 7 amends AMLAR Arts 5(1), 55(1), 88 + inserts new Art 92a — in force / consolidated **10 Nov 2025** | [AMLA digest](docs/instruments/amla-2024-1620.md#amendments-in-force) |
 | 2025-11-03 | NL cash-limit inwerkingtredings-KB (Staatsblad 2025, 362) | [`docs/netherlands.md`](docs/netherlands.md) |
 | 2025-12-16 | AMLA opens first consultation — **supervisory-cooperation ITS (Art 15(3) AMLAR)** | [pipeline](docs/amla-pipeline.md) |
 | 2025-12 | RTS on selection (Art 12(7) AMLAR) and risk profile (Art 40(2) AMLD6) finalised; EBA AML mandates transferred to AMLA | [pipeline](docs/amla-pipeline.md) |
