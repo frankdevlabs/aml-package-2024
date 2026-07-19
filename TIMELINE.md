@@ -49,6 +49,8 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-06-29 | AMLA publishes **advisory note on ML/TF risks as the MiCAR transitional period ends** (1 Jul 2026): wind-down/CDD for exiting VASPs, risk-based onboarding (no blanket de-risking) for CASPs, supervisor & FIU coordination | [pipeline](docs/amla-pipeline.md) · [register](sources/README.md) |
 | 2026-07-01 | AMLA and **EDPB to develop joint Guidelines on information-sharing partnerships** (Art 75 AMLR) — announcement only; stakeholder event later 2026, public consultation expected H1 2027 | [pipeline](docs/amla-pipeline.md) |
 | 2026-07-01 | AMLA **regulatory-instruments index** surfaces three further draft instruments (all "Consultation closed", not on the consultations hub): **EPPO-reporting ITS** (Art 81(1) AMLR / Art 41(2) AMLAR), **FIU-to-FIU ITS** (Art 31(2) AMLD6), **Home-Host RTS** (Art 46(4) AMLD6); draft text pending | [pipeline](docs/amla-pipeline.md#additional-index-listed-instruments-regulatory-instruments-tracker-not-on-the-consultations-hub) |
+| 2026-07-02 | AMLA **concludes the public hearing on the ongoing-monitoring guidelines** (Art 26(5) AMLR — consultation #7, open, closes 3 Sep 2026) | [AMLA](https://www.amla.europa.eu/press-release-amla-concludes-public-hearing-draft-guidelines-ongoing-monitoring-business_en) |
+| 2026-07-08 | AMLA introduces a **common EU approach to enforcing AML/CFT rules** — first harmonised, consistent supervisory enforcement of breaches across the EU; ties to the final pecuniary-sanctions RTS (Art 53(10) AMLD6) | [AMLA](https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en) |
 
 ## Forward look (targets — not yet occurred)
 

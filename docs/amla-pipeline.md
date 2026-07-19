@@ -30,7 +30,7 @@ Verified against AMLA's consultations hub, **1 July 2026** (all 7 statuses re-ch
 | 4 | [Pecuniary sanctions, administrative measures & periodic penalty payments](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md#article-1) | Art 53(10) AMLD6 | RTS | 9 Feb 2026 | 9 Mar 2026 | **Closed** | To Commission by 10 Jul 2026 |
 | 5 | [Group-wide minimum requirements & third-country measures](../extracts/amla/RTS-group-wide-art16-17_consultation-paper.md#article-1) | Arts 16(4) & 17(3) AMLR | RTS | 16 Apr 2026 | 15 Jun 2026 | **Closed** (15 Jun 2026; hearing 20 May 2026) | Final draft to Commission by **30 Sep 2026** |
 | 6 | [Business-wide risk assessment](../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md#sec-2) | Art 10(4) AMLR | Guidelines | 16 Apr 2026 | 15 Jul 2026 | **Open** (hearing 28 May 2026; re-confirmed open 22 Jun 2026) | Final GL expected **Q4 2026** |
-| 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (newest) | — |
+| 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (public hearing concluded 2 Jul 2026) | — |
 
 Direct links to the consultation pages:
 - CDD (Art 28(1)): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-customer-due-diligence_en
@@ -107,6 +107,17 @@ When a consultation page or draft PDF surfaces for any of these, register the do
   consultation-status table above; add a slice under [`../extracts/amla/`](../extracts/amla/) once the
   consultation paper opens.
   — https://www.amla.europa.eu/amla-and-edpb-develop-joint-guidelines-partnerships-information-sharing_en
+- **Ongoing-monitoring guidelines public hearing concluded — 2 July 2026.** AMLA held and concluded the
+  public hearing on the draft Guidelines on ongoing monitoring of a business relationship (**Art 26(5)
+  AMLR**, consultation #7 above — open, closes 3 Sep 2026). A hearing event in the same series as the CDD,
+  group-wide and BWRA hearings; no change to the consultation's open status or dates.
+  — https://www.amla.europa.eu/press-release-amla-concludes-public-hearing-draft-guidelines-ongoing-monitoring-business_en
+- **Common EU approach to enforcing AML/CFT rules — 8 July 2026.** AMLA announced a first harmonised,
+  consistent approach for EU supervisors to enforce breaches of AML/CFT rules — a supervisory-policy
+  framework that ties to the final **pecuniary-sanctions RTS** (Art 53(10) AMLD6, consultation #4 above;
+  finalisation tracked under the regulatory-instruments index). A policy-framework press release, not a new
+  RTS/ITS/GL or consultation — cited by URL, no new consultation-table entry.
+  — https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en
 
 ## Next benchmark
 
