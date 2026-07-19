@@ -30,7 +30,7 @@ Operative drafts transcribed under
 | 1 | [Supervisory-system cooperation (direct supervision)](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md#section-1) | Art 15(3) AMLAR | ITS | 16 Dec 2025 | 27 Jan 2026 | **Closed** | — |
 | 2 | [Customer Due Diligence](../extracts/amla/RTS-cdd-art28-1_consultation-paper.md#article-1) | Art 28(1) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
 | 3 | [Business relationships / occasional / linked transactions & thresholds](../extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md#article-2) | Art 19(9) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
-| 4 | [Pecuniary sanctions, administrative measures & periodic penalty payments](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md#article-1) | Art 53(10) AMLD6 | RTS | 9 Feb 2026 | 9 Mar 2026 | **Final report published** (8 Jul 2026; [PDF registered](../sources/README.md), `_final.md` extract pending) | To Commission by 10 Jul 2026 |
+| 4 | [Pecuniary sanctions, administrative measures & periodic penalty payments](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md#article-1) | Art 53(10) AMLD6 | RTS | 9 Feb 2026 | 9 Mar 2026 | **Final report published** (8 Jul 2026; [PDF registered](../sources/README.md), `_final.md` extract pending) — feedback published 9 Jul 2026 | **Finalised → to Commission** (press release 8 Jul 2026); operative Commission Delegated Regulation pending |
 | 5 | [Group-wide minimum requirements & third-country measures](../extracts/amla/RTS-group-wide-art16-17_consultation-paper.md#article-1) | Arts 16(4) & 17(3) AMLR | RTS | 16 Apr 2026 | 15 Jun 2026 | **Closed** (15 Jun 2026; hearing 20 May 2026) | Final draft to Commission by **30 Sep 2026** |
 | 6 | [Business-wide risk assessment](../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md#sec-2) | Art 10(4) AMLR | Guidelines | 16 Apr 2026 | 15 Jul 2026 | **Open** (hearing 28 May 2026; re-confirmed open 22 Jun 2026) | Final GL expected **Q4 2026** |
 | 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (public hearing concluded 2 Jul 2026) | — |
@@ -89,6 +89,16 @@ move it into the status table above.
   consultation** announced. — https://www.amla.europa.eu/amla-hosts-its-first-conference_en
 - The three 9-Feb RTS consultations have **closed**; AMLA is preparing final drafts for the Commission by
   10 July 2026 (Simont Braun; A&L Goodbody).
+- **Pecuniary-sanctions RTS finalised (Art 53(10) AMLD6, item 4) — 8–9 July 2026.** AMLA issued a press release
+  *"AMLA introduces a common EU approach to enforcing anti-money laundering rules"* (8 Jul 2026) and published the
+  **consultation feedback** (9 Jul 2026), finalising the enforcement RTS for submission to the Commission. The
+  instrument sets a **four-step methodology**: shared gravity indicators → classification into **four gravity
+  levels** → common criteria for choosing the enforcement outcome → applied across all financial and non-financial
+  sectors, so the same breach in the same circumstances yields the same outcome across Member States. The final
+  **operative RTS text** (Commission Delegated Regulation) is **not yet published** — the feedback document has no
+  operative annex — so no `_final.md` extract yet; the [consulted draft](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md#article-1)
+  stays the diff baseline and the register entry carries `pending_operative_text` until the final text appears in
+  the OJ. — [register](../sources/README.md) · [triage #50](triage/2026-07-10-issue-50.md)
 - **Two RTS finalised end-2025** (building on transferred EBA work): RTS on the inherent/residual risk profile
   of obliged entities (**Art 40(2) AMLD6**, Final Report 16 Dec 2025, applies from 31 Dec 2027) and RTS on
   selection of obliged entities for direct supervision (**Art 12(7) AMLAR**). The data-collection exercise to
