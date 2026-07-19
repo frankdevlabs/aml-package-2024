@@ -170,6 +170,85 @@ documents:
       Most recently opened consultation. 3 Jun – 3 Sep 2026 (open). Extract:
       extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md.
 
+  - id: AMLA-RTS-SANCTIONS-ART53-FINAL
+    title: "Final report — draft RTS on pecuniary sanctions, administrative measures & periodic penalty payments (Art 53(10) AMLD6)"
+    body: AMLA
+    date: 2026-07-08
+    limite: false
+    legal_basis: Art 53(10) AMLD6
+    url: https://www.amla.europa.eu/document/download/9bf678c2-a39b-4d6a-a12c-8cc6d5aca59c_en
+    local: sources/amla/RTS-pecuniary-sanctions-art53-10_final-report_2026-07-08.pdf
+    notes: >-
+      Final report on the first-wave pecuniary-sanctions RTS, published via the regulatory-instruments
+      tracker ("Final report published", tracker update 8 Jul 2026; PDF fetched 19 Jul 2026) — ahead of
+      the 10 Jul 2026 submission deadline to the Commission. Sibling of the consultation paper
+      AMLA-RTS-SANCTIONS-ART53. Final-report extract pending: extracts/amla/
+      RTS-pecuniary-sanctions-art53-10_final.md. Next benchmark: Commission Delegated Regulation in the OJ.
+
+  - id: AMLA-ITS-FIU-EPPO-ART81-FINAL
+    title: "Final report — draft ITS on the format for FIU reporting to the EPPO (Art 81(1) AMLR)"
+    body: AMLA
+    date: 2026-07-08
+    limite: false
+    legal_basis: Art 81(1) AMLR
+    url: https://www.amla.europa.eu/document/download/180688e2-9cbc-4b40-84ea-1f9121f4d32f_en
+    local: sources/amla/ITS-fiu-eppo-reporting-art81-1_final-report_2026-07-08.pdf
+    notes: >-
+      Final report for an index-listed instrument that never appeared on the consultations hub
+      (consultation ran off-hub; tracker showed "Consultation closed" until 8 Jul 2026). First
+      primary text held for this mandate. Extract pending: extracts/amla/
+      ITS-fiu-eppo-reporting-art81-1_final.md.
+
+  - id: AMLA-ITS-AMLA-EPPO-ART41-FINAL
+    title: "Final report — draft ITS on the format for AMLA reporting to the EPPO (Art 41(2) AMLAR)"
+    body: AMLA
+    date: 2026-07-08
+    limite: false
+    legal_basis: Art 41(2) AMLAR
+    url: https://www.amla.europa.eu/document/download/993e4d38-eeef-4d9d-a3ec-85ff59f82d61_en
+    local: sources/amla/ITS-amla-eppo-reporting-art41-2_final-report_2026-07-08.pdf
+    notes: >-
+      Final report for an index-listed instrument (off-hub consultation). First primary text held for
+      this mandate. Extract pending: extracts/amla/ITS-amla-eppo-reporting-art41-2_final.md.
+
+  - id: AMLA-ITS-FIU-TO-FIU-ART31-FINAL
+    title: "Final report — draft ITS on the format for FIU-to-FIU information exchange (Art 31(2) AMLD6)"
+    body: AMLA
+    date: 2026-07-08
+    limite: false
+    legal_basis: Art 31(2) AMLD6
+    url: https://www.amla.europa.eu/document/download/db186a43-0976-4aab-aee5-f5a2dcf560e5_en
+    local: sources/amla/ITS-fiu-to-fiu-art31-2_final-report_2026-07-08.pdf
+    notes: >-
+      Final report for an index-listed instrument (off-hub consultation). First primary text held for
+      this mandate. Extract pending: extracts/amla/ITS-fiu-to-fiu-art31-2_final.md.
+
+  - id: AMLA-ITS-REPORTING-FORMAT-ART69
+    title: "Consultation paper — draft ITS on the format for reporting suspicions and providing transaction records (Art 69(3) AMLR)"
+    body: AMLA
+    date: 2026-07-02
+    limite: false
+    legal_basis: Art 69(3) AMLR
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-its-format-reporting-suspicions-and-providing-transaction-records_en
+    local: sources/amla/ITS-reporting-format-art69-3_consultation-paper_2026-07-02.pdf
+    notes: >-
+      Consultation 2 Jul – 20 Sep 2026 (open). NB the AMLA download filename mislabels it "RTS";
+      the cover page confirms Implementing Technical Standards. Extract pending:
+      extracts/amla/ITS-reporting-format-art69-3_consultation-paper.md.
+
+  - id: AMLA-RTS-FIU-CROSS-BORDER-ART31-3
+    title: "Consultation paper — draft RTS on relevance & selection criteria for cross-border FIU report dissemination (Art 31(3) AMLD6)"
+    body: AMLA
+    date: 2026-07-06
+    limite: false
+    legal_basis: Art 31(3) AMLD6
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-cross-border-information-exchange-between-financial-intelligence-units_en
+    local: sources/amla/RTS-fiu-cross-border-exchange-art31-3_consultation-paper_2026-07-06.pdf
+    notes: >-
+      Consultation 6 Jul – 6 Oct 2026 (open). Criteria for when a report submitted under Art 69(1)(a)
+      AMLR concerns another Member State. Extract pending:
+      extracts/amla/RTS-fiu-cross-border-exchange-art31-3_consultation-paper.md.
+
   # --- AMLA — advisory notes / guidance (non-pipeline) --------------------
   - id: AMLA-ADVISORY-MICAR
     title: "Advisory note — ML/TF risks resulting from the end of the MiCAR transitional period and possible mitigating measures"

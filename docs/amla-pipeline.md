@@ -30,15 +30,17 @@ Operative drafts transcribed under
 | 1 | [Supervisory-system cooperation (direct supervision)](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md#section-1) | Art 15(3) AMLAR | ITS | 16 Dec 2025 | 27 Jan 2026 | **Closed** | — |
 | 2 | [Customer Due Diligence](../extracts/amla/RTS-cdd-art28-1_consultation-paper.md#article-1) | Art 28(1) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
 | 3 | [Business relationships / occasional / linked transactions & thresholds](../extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md#article-2) | Art 19(9) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
-| 4 | [Pecuniary sanctions, administrative measures & periodic penalty payments](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md#article-1) | Art 53(10) AMLD6 | RTS | 9 Feb 2026 | 9 Mar 2026 | **Final report published** (8 Jul 2026) | To Commission by 10 Jul 2026 |
+| 4 | [Pecuniary sanctions, administrative measures & periodic penalty payments](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md#article-1) | Art 53(10) AMLD6 | RTS | 9 Feb 2026 | 9 Mar 2026 | **Final report published** (8 Jul 2026; [PDF registered](../sources/README.md), `_final.md` extract pending) | To Commission by 10 Jul 2026 |
 | 5 | [Group-wide minimum requirements & third-country measures](../extracts/amla/RTS-group-wide-art16-17_consultation-paper.md#article-1) | Arts 16(4) & 17(3) AMLR | RTS | 16 Apr 2026 | 15 Jun 2026 | **Closed** (15 Jun 2026; hearing 20 May 2026) | Final draft to Commission by **30 Sep 2026** |
 | 6 | [Business-wide risk assessment](../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md#sec-2) | Art 10(4) AMLR | Guidelines | 16 Apr 2026 | 15 Jul 2026 | **Open** (hearing 28 May 2026; re-confirmed open 22 Jun 2026) | Final GL expected **Q4 2026** |
 | 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (public hearing concluded 2 Jul 2026) | — |
-| 8 | Format for reporting suspicions & providing transaction records | Art 69(3) AMLR | ITS | 2 Jul 2026 | 20 Sep 2026 | **Open** — draft text pending transcription | — |
-| 9 | Cross-border information exchange between FIUs | Art 31(3) AMLD6 | RTS | 6 Jul 2026 | 6 Oct 2026 | **Open** (newest) — draft text pending transcription | — |
+| 8 | Format for reporting suspicions & providing transaction records | Art 69(3) AMLR | ITS | 2 Jul 2026 | 20 Sep 2026 | **Open** — [consultation paper registered](../sources/README.md), transcription pending | — |
+| 9 | Cross-border information exchange between FIUs | Art 31(3) AMLD6 | RTS | 6 Jul 2026 | 6 Oct 2026 | **Open** (newest) — [consultation paper registered](../sources/README.md), transcription pending | — |
 
-Items 8–9 opened early July 2026 (confirmed on the consultations hub, 8 Jul 2026); their draft PDFs are not
-yet downloaded/transcribed, so no `extracts/amla/` slice exists yet — register + transcribe when retrieved.
+Items 8–9 opened early July 2026 (confirmed on the consultations hub, 8 Jul 2026); their consultation papers
+were downloaded and registered 19 Jul 2026 ([register](../sources/README.md)) — no `extracts/amla/` slice
+exists yet, transcribe next. NB: the Art 69(3) instrument is an **ITS** per its cover page; AMLA's download
+filename mislabels it "RTS".
 
 Direct links to the consultation pages:
 - CDD (Art 28(1)): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-customer-due-diligence_en
@@ -57,15 +59,15 @@ AMLA's [regulatory-instruments index](https://www.amla.europa.eu/policy/regulato
 **8 July 2026**; page "Last update" 8 Jul 2026) lists further draft instruments not on the
 [public-consultations hub](https://www.amla.europa.eu/policy/public-consultations_en). On 8 Jul 2026 three of
 them advanced to **Final report published** (per [triage #41](triage/2026-07-08-issue-41.md)); the Home-Host
-RTS remains **Consultation closed**. For the finalised ITS, the tracker confirms the *status* only — the
-final-report PDFs are not yet retrieved, so per-provision content is still pending (add the `..._final.md`
-[`extracts/amla/`](../extracts/amla/) siblings once the documents surface).
+RTS remains **Consultation closed**. The three finalised ITS final reports were **retrieved and registered
+19 Jul 2026** ([register](../sources/README.md)); transcription into `..._final.md`
+[`extracts/amla/`](../extracts/amla/) siblings is still pending, so do not assert per-provision content yet.
 
 | Instrument | Legal basis | Type | Index status (8 Jul 2026) |
 |---|---|---|---|
-| FIU reporting to the EPPO | Art 81(1) AMLR | ITS | **Final report published** — final-report text pending |
-| AMLA reporting to the EPPO | Art 41(2) AMLAR | ITS | **Final report published** — final-report text pending |
-| FIU-to-FIU exchanges | Art 31(2) AMLD6 | ITS | **Final report published** — final-report text pending |
+| FIU reporting to the EPPO | Art 81(1) AMLR | ITS | **Final report published** — [PDF registered](../sources/README.md), extract pending |
+| AMLA reporting to the EPPO | Art 41(2) AMLAR | ITS | **Final report published** — [PDF registered](../sources/README.md), extract pending |
+| FIU-to-FIU exchanges | Art 31(2) AMLD6 | ITS | **Final report published** — [PDF registered](../sources/README.md), extract pending |
 | Home-Host Supervisory Cooperation | Art 46(4) AMLD6 | RTS | **Consultation closed** — paper/dates/text pending |
 
 When a final-report or draft PDF surfaces for any of these, register the document and add its
@@ -137,8 +139,10 @@ move it into the status table above.
   (Art 40(2) AMLD6) and **selection-for-direct-supervision** (Art 12(7) AMLAR) — which were already recorded as
   finalised and now simply appear on the tracker with that status. Same update: **two new consultations opened**
   — reporting-format ITS (Art 69(3) AMLR, 2 Jul → 20 Sep 2026) and FIU cross-border-exchange RTS (Art 31(3)
-  AMLD6, 6 Jul → 6 Oct 2026), both added to the status table above. Status confirmed only — final-report and
-  draft PDFs not yet retrieved. — https://www.amla.europa.eu/policy/regulatory-instruments_en · [triage #41](triage/2026-07-08-issue-41.md)
+  AMLD6, 6 Jul → 6 Oct 2026), both added to the status table above. **Follow-up completed 19 Jul 2026:** the
+  four new-to-final final-report PDFs (Art 53(10), 81(1), 41(2), 31(2)) and both new consultation papers were
+  retrieved from the AMLA site and [registered](../sources/README.md); `extracts/amla/` transcription pending.
+  — https://www.amla.europa.eu/policy/regulatory-instruments_en · [triage #41](triage/2026-07-08-issue-41.md)
 
 ## Next benchmark
 
