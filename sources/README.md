@@ -17,6 +17,7 @@
 | `REG-2024-1620` | AMLA Regulation (EU) 2024/1620 | 2024-05-31 | link-only | [EUR-Lex ELI](https://eur-lex.europa.eu/eli/reg/2024/1620/oj/eng) · [digest](../docs/instruments/amla-2024-1620.md) |
 | `DIR-2024-1640` | AMLD6 — Directive (EU) 2024/1640 | 2024-05-31 | link-only | [EUR-Lex ELI](https://eur-lex.europa.eu/eli/dir/2024/1640/oj/eng) · [digest](../docs/instruments/amld6-2024-1640.md) |
 | `REG-2023-1113` | Transfer of Funds Regulation (recast) | 2023-05-31 | link-only | [EUR-Lex ELI](https://eur-lex.europa.eu/eli/reg/2023/1113/oj/eng) · [digest](../docs/instruments/tfr-2023-1113.md) |
+| `REG-2025-2088` | Reg (EU) 2025/2088 — reporting-simplification omnibus (amends AMLAR, Art 7) | 2025-10-08 | link-only | [EUR-Lex ELI](https://eur-lex.europa.eu/eli/reg/2025/2088/oj) · [digest](../docs/instruments/amla-2024-1620.md#amendments-in-force) |
 
 ## AMLA — strategic programming & Level-2/3 consultation papers
 
