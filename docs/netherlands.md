@@ -22,12 +22,16 @@ national cash limit, the UBO threshold change, and the contested "lastenluw" fra
   (filed with the Raad van State milestone, not separately on internetconsultatie). The verslag confirms the
   bill is **aanhangig bij de Afdeling advisering van de Raad van State**. Law-firm analysis:
   [Finnius](https://finnius.com/en/consultation-on-implementation-act-on-anti-money-laundering-and-anti-terrorist-financing/).
-- **Current status (13 June 2026): NOT yet submitted (ingediend) to the Tweede Kamer.** The Council of
+- **Current status (15 July 2026): NOT yet submitted (ingediend) to the Tweede Kamer.** The Council of
   Ministers approved on **24 April 2026** sending the bill to the **Afdeling advisering van de Raad van State**
   for advice — *"De minister van Financiën zal het voorstel om advies aanhangig doen maken bij de Afdeling
   advisering van de Raad van State"* ([Besluitenlijst ministerraad 24 april 2026](https://open.overheid.nl/documenten/16cf634e-a9e2-4411-b302-b1264198c3a5/)).
-  **No Kamerstuk dossier number (36XXX) exists yet** — one is assigned only on submission. Current pipeline
-  marker: **"at the Raad van State for advice."**
+  The wetgevingskalender (WGK027204) now dates the formal lodging: the **adviesaanvraag was aanhangig bij de
+  Raad van State on 7 May 2026** (milestone "Adviesaanvraag aanhangig bij Raad van State", 07-05-2026). The RvS
+  advice has **not yet been uitgebracht** (delivered) — the "Advies Raad van State uitgebracht" label on the
+  page is help text for the adviesaanvraag element, carrying no date — and **no Kamerstuk dossier number
+  (36XXX) exists yet** (one is assigned only on submission). Current pipeline marker: **"at the Raad van State
+  for advice."**
 - **Lead ministry:** Financiën, with Justitie en Veiligheid and Economische Zaken co-responsible. Only a
   *concept* memorie van toelichting exists (the consultation version); the definitive MvT appears with the
   Kamerstuk on submission. The Iwt will be elaborated further in a separate **implementatiebesluit** (to be
