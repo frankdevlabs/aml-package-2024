@@ -57,6 +57,8 @@ extract_slices:
   - bwra-guidelines-art10            # Guidelines on business-wide risk assessment (Art 10(4) AMLR)
   - ongoing-monitoring-guidelines    # Guidelines on ongoing monitoring (AMLR)
   - supervisory-cooperation-its-art15 # ITS on supervisory-system cooperation (Art 15(3) AMLAR)
+  - reporting-format-its-art69       # ITS on the format for reporting suspicions / transaction records (Art 69(3) AMLR)
+  - fiu-cross-border-rts-art31       # RTS on cross-border information exchange between FIUs (Art 31(3) AMLD6)
 
 # REPURPOSED: post-adoption there are no active co-legislators. These map to the
 # implementation actors surfaced in STATUS.md instead.
