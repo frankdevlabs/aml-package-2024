@@ -55,7 +55,6 @@ Direct links to the consultation pages:
 - Reporting-format ITS (Art 69(3) AMLR): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-its-format-reporting-suspicions-and-providing-transaction-records_en
 - Cross-border FIU exchange RTS (Art 31(3) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-cross-border-information-exchange-between-financial-intelligence-units_en
 - Inherent & residual risk profile — non-financial sector (Art 40(2) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-assessment-inherent-and-residual-risk-profile-obliged-entities-non-financial_en
->>>>>>> 0ae36a3 (triage: integrate #54 — RTS non-financial-sector risk profile (Art 40(2) AMLD6) (T1-01))
 
 ## Additional index-listed instruments (regulatory-instruments tracker, not on the consultations hub)
 

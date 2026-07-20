@@ -63,12 +63,9 @@ Iwt sits at the Raad van State for advice (no Tweede Kamer dossier yet).
 - [ ] **Final draft to Commission by 30 Sep 2026** — group-wide requirements RTS (Arts 16(4)/17(3) AMLR).
 - [ ] **Q4 2026** — final business-wide risk assessment guidelines (Art 10(4) AMLR).
 - [ ] **3 September 2026** — ongoing-monitoring guidelines consultation closes.
-<<<<<<< HEAD
 - [ ] **9 September 2026** — public hearing on the **reporting-format ITS** (Art 69(3) AMLR); **consultation closes 20 September 2026**.
-- [ ] **6 October 2026** — **cross-border FIU information-exchange RTS** (Art 31(3) AMLD6) consultation closes.
-=======
 - [ ] **10 September 2026** — public hearing on the non-financial-sector risk-profile RTS (Art 40(2) AMLD6); **27 September 2026** — its consultation closes.
->>>>>>> 0ae36a3 (triage: integrate #54 — RTS non-financial-sector risk profile (Art 40(2) AMLD6) (T1-01))
+- [ ] **6 October 2026** — **cross-border FIU information-exchange RTS** (Art 31(3) AMLD6) consultation closes.
 - [ ] **H1 2027** — AMLA/EDPB public consultation on the **information-sharing-partnerships joint Guidelines** (Art 75 AMLR); stakeholder event expected later in 2026.
 - [ ] **NL Iwt** — Raad van State advice, then submission to the Tweede Kamer (a Kamerstuk **36XXX** number appears on submission). *Verify against the institution — wetgevingskalender blocks automated access.*
 - [ ] **NL implementatiebesluit** — secondary legislation under the Iwt, to be consulted separately.
