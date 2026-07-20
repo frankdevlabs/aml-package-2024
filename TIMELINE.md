@@ -57,6 +57,7 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-07-08 | AMLA introduces a **common EU approach to enforcing AML/CFT rules** — first harmonised, consistent supervisory enforcement of breaches across the EU, finalising the **pecuniary-sanctions RTS** (Art 53(10) AMLD6): four-step methodology, four gravity levels, all sectors | [AMLA](https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en) |
 | 2026-07-08 | **Regulatory-instruments tracker** ("Last update" 8 Jul 2026): six mandates move to **Final report published** — pecuniary-sanctions RTS (Art 53(10) AMLD6), EPPO-reporting ITS (Art 81(1) AMLR / 41(2) AMLAR), FIU-to-FIU ITS (Art 31(2) AMLD6), plus the two end-2025 RTS (Art 40(2), Art 12(7)) now reflected; status confirmed only, final-report PDFs pending | [pipeline](docs/amla-pipeline.md) · [triage #41](docs/triage/2026-07-08-issue-41.md) |
 | 2026-07-09 | AMLA publishes **consultation feedback** on the pecuniary-sanctions RTS (Art 53(10) AMLD6); final RTS to the Commission — operative text (Commission Delegated Regulation) pending | [pipeline](docs/amla-pipeline.md) · [register](sources/README.md) |
+| 2026-07-13 | AMLA opens consultation on **draft RTS — inherent & residual risk profile of the non-financial sector** (Art 40(2) AMLD6; 13 Jul – 27 Sep 2026, hearing 10 Sep 2026); non-financial companion to the financial-sector Art 40(2) RTS (draft Dec 2025) | [pipeline](docs/amla-pipeline.md) · [extract](extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md) |
 
 ## Forward look (targets — not yet occurred)
 
@@ -66,7 +67,9 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-07-15 | BWRA guidelines consultation closes |
 | 2026-09-03 | Ongoing-monitoring guidelines consultation closes |
 | 2026-09-09 | Public hearing on the reporting-format ITS (Art 69(3) AMLR) |
+| 2026-09-10 | Public hearing on the non-financial-sector risk-profile RTS (Art 40(2) AMLD6) |
 | 2026-09-20 | Reporting-format ITS (Art 69(3) AMLR) consultation closes |
+| 2026-09-27 | Non-financial-sector risk-profile RTS consultation closes |
 | 2026-10-06 | Cross-border FIU information-exchange RTS (Art 31(3) AMLD6) consultation closes |
 | 2026-H2 | AMLA/EDPB stakeholder event on the information-sharing-partnerships joint Guidelines (Art 75 AMLR) |
 | 2026-09-30 | Group-wide RTS final draft to the Commission |

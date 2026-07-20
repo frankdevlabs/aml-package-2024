@@ -288,6 +288,20 @@ documents:
       (XBDs) between FIUs via FIU.net (Ma³tch full-hit; receiving FIU assesses relevance). Distinct from the
       index-listed FIU-to-FIU ITS under Art 31(2) AMLD6. Extract:
       extracts/amla/RTS-fiu-cross-border-art31-3_consultation-paper.md.
+  - id: AMLA-RTS-NONFIN-RISK-ART40
+    title: "Consultation paper — draft RTS on the inherent & residual risk profile of the non-financial sector (Art 40(2) AMLD6)"
+    body: AMLA
+    date: 2026-07-13
+    limite: false
+    legal_basis: Art 40(2) AMLD6 (Dir (EU) 2024/1640)
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-assessment-inherent-and-residual-risk-profile-obliged-entities-non-financial_en
+    local: sources/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper_2026-07-13.pdf
+    notes: >-
+      Most recently opened consultation. 13 Jul – 27 Sep 2026 (open); public hearing 10 Sep 2026. Non-financial
+      sector companion to the financial-sector Art 40(2) RTS (draft published Dec 2025) — keep apart. Applies from
+      31 Dec 2028 (football clubs/agents from 31 Dec 2029). Data-point Annexes I & II ship as a separate PDF
+      (sources/amla/RTS-nonfin-risk-profile-art40-2_annex-data-points_2026-07-13.pdf). Extract:
+      extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md.
 
   # --- AMLA — advisory notes / guidance (non-pipeline) --------------------
   - id: AMLA-ADVISORY-MICAR

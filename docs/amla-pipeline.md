@@ -19,9 +19,10 @@ delivers in **two phases — financial sector first, then non-financial sector**
 
 ## Consultation status table
 
-Verified against AMLA's consultations hub, **8 July 2026** (hub now lists **9** consultations — the ITS on
+Verified against AMLA's consultations hub, **13 July 2026** (hub now lists **10** consultations — the ITS on
 reporting format (Art 69(3) AMLR) and the RTS on cross-border FIU information exchange (Art 31(3) AMLD6)
-opened early July, added as items 8–9 below ([triage #40](triage/2026-07-08-issue-40.md)); the
+opened early July, items 8–9 below ([triage #40](triage/2026-07-08-issue-40.md)); the non-financial-sector
+risk-profile RTS (Art 40(2) AMLD6) opened 13 Jul, item 10 ([triage #54](triage/2026-07-13-issue-54.md)); the
 pecuniary-sanctions RTS (item 4) moved to **Final report published** per the regulatory-instruments tracker —
 see [triage #41](triage/2026-07-08-issue-41.md)). Operative drafts transcribed under
 [`extracts/amla/`](../extracts/amla/); source PDFs in [`sources/README.md`](../sources/README.md).
@@ -36,11 +37,12 @@ see [triage #41](triage/2026-07-08-issue-41.md)). Operative drafts transcribed u
 | 6 | [Business-wide risk assessment](../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md#sec-2) | Art 10(4) AMLR | Guidelines | 16 Apr 2026 | 15 Jul 2026 | **Open** (hearing 28 May 2026; re-confirmed open 22 Jun 2026) | Final GL expected **Q4 2026** |
 | 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (public hearing concluded 2 Jul 2026) | — |
 | 8 | [Format for reporting suspicions & providing transaction records](../extracts/amla/ITS-reporting-format-art69-3_consultation-paper.md#article-1) | Art 69(3) AMLR | ITS | 2 Jul 2026 | 20 Sep 2026 | **Open** (public hearing 9 Sep 2026) | — |
-| 9 | [Cross-border information exchange between FIUs](../extracts/amla/RTS-fiu-cross-border-art31-3_consultation-paper.md#article-1) | Art 31(3) AMLD6 | RTS | 6 Jul 2026 | 6 Oct 2026 | **Open** (newest) | — |
+| 9 | [Cross-border information exchange between FIUs](../extracts/amla/RTS-fiu-cross-border-art31-3_consultation-paper.md#article-1) | Art 31(3) AMLD6 | RTS | 6 Jul 2026 | 6 Oct 2026 | **Open** | — |
+| 10 | [Inherent & residual risk profile — non-financial sector](../extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md#article-2) | Art 40(2) AMLD6 | RTS | 13 Jul 2026 | 27 Sep 2026 | **Open** (newest; hearing 10 Sep 2026) | — |
 
-Items 8–9 opened early July 2026 (confirmed on the consultations hub, 8 Jul 2026); consultation papers
-registered and transcribed under [`extracts/amla/`](../extracts/amla/). NB: the Art 69(3) instrument is an
-**ITS** per its cover page; AMLA's download filename mislabels it "RTS".
+Items 8–9 opened early July 2026 (confirmed on the consultations hub, 8 Jul 2026) and item 10 on 13 Jul 2026;
+consultation papers registered and transcribed under [`extracts/amla/`](../extracts/amla/). NB: the Art 69(3)
+instrument is an **ITS** per its cover page; AMLA's download filename mislabels it "RTS".
 
 Direct links to the consultation pages:
 - CDD (Art 28(1)): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-customer-due-diligence_en
@@ -52,6 +54,7 @@ Direct links to the consultation pages:
 - Ongoing monitoring GL (Art 26(5)): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-ongoing-monitoring-business-relationship_en
 - Reporting-format ITS (Art 69(3) AMLR): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-its-format-reporting-suspicions-and-providing-transaction-records_en
 - Cross-border FIU exchange RTS (Art 31(3) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-cross-border-information-exchange-between-financial-intelligence-units_en
+- Inherent & residual risk profile — non-financial sector (Art 40(2) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-assessment-inherent-and-residual-risk-profile-obliged-entities-non-financial_en
 
 ## Additional index-listed instruments (regulatory-instruments tracker, not on the consultations hub)
 
@@ -106,7 +109,9 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
 - **Two RTS finalised end-2025** (building on transferred EBA work): RTS on the inherent/residual risk profile
   of obliged entities (**Art 40(2) AMLD6**, Final Report 16 Dec 2025, applies from 31 Dec 2027) and RTS on
   selection of obliged entities for direct supervision (**Art 12(7) AMLAR**). The data-collection exercise to
-  calibrate the selection methodology began **March 2026**.
+  calibrate the selection methodology began **March 2026**. Note: that Dec-2025 Art 40(2) instrument covers the
+  **financial** sector; AMLA delivers the mandate through **two** RTS, and the **non-financial-sector** companion
+  RTS opened for consultation **13 Jul 2026** (item 8 above) — same legal basis, distinct instrument.
 - **Direct-supervision eligibility webinar** — **10 June 2026**, over **2,500 participants**. Operationalises
   the Art 12(7) AMLAR selection methodology: how AMLA identifies obliged entities **eligible for direct
   supervision (from 2028)** and the practical **eligibility-reporting** process. Materials published 16 Jun
