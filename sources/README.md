@@ -41,6 +41,7 @@
 | `AMLA-ITS-FIU-EPPO-ART81-FINAL` | **Final report** — FIU→EPPO reporting-format ITS (Art 81(1) AMLR) | 2026-07-08 | `sources/amla/` | [tracker](https://www.amla.europa.eu/policy/regulatory-instruments_en) · [PDF](amla/ITS-fiu-eppo-reporting-art81-1_final-report_2026-07-08.pdf) |
 | `AMLA-ITS-AMLA-EPPO-ART41-FINAL` | **Final report** — AMLA→EPPO reporting-format ITS (Art 41(2) AMLAR) | 2026-07-08 | `sources/amla/` | [tracker](https://www.amla.europa.eu/policy/regulatory-instruments_en) · [PDF](amla/ITS-amla-eppo-reporting-art41-2_final-report_2026-07-08.pdf) |
 | `AMLA-ITS-FIU-TO-FIU-ART31-FINAL` | **Final report** — FIU-to-FIU exchange-format ITS (Art 31(2) AMLD6) | 2026-07-08 | `sources/amla/` | [tracker](https://www.amla.europa.eu/policy/regulatory-instruments_en) · [PDF](amla/ITS-fiu-to-fiu-art31-2_final-report_2026-07-08.pdf) |
+| `AMLA-ITS-SUPCOOP-ART15-FINAL` | **Final report** — supervisory-cooperation ITS, direct supervision (Art 15(3) AMLAR) | 2026-07-21 | `sources/amla/` | [press release](https://www.amla.europa.eu/press-release-amla-finalises-standards-supervisory-cooperation-direct-supervision_en) · [extract](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md) |
 
 ## Netherlands (transposition)
 
