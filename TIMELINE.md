@@ -59,6 +59,7 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-07-09 | AMLA publishes **consultation feedback** on the pecuniary-sanctions RTS (Art 53(10) AMLD6); final RTS to the Commission — operative text (Commission Delegated Regulation) pending | [pipeline](docs/amla-pipeline.md) · [register](sources/README.md) |
 | 2026-07-13 | AMLA opens consultation on **draft RTS — inherent & residual risk profile of the non-financial sector** (Art 40(2) AMLD6; 13 Jul – 27 Sep 2026, hearing 10 Sep 2026); non-financial companion to the financial-sector Art 40(2) RTS (draft Dec 2025) | [pipeline](docs/amla-pipeline.md) · [extract](extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md) |
 | 2026-07-15 | AMLA Chair **Bruna Szego presents the 2025 Consolidated Annual Activity Report** to the European Parliament (ECON/LIBE) | [AMLA](https://www.amla.europa.eu/news-media/news-articles/amla-chair-presents-2025-consolidated-annual-activity-report-european-parliament_en) |
+| 2026-07-15 | **BWRA guidelines consultation closes** (Art 10(4) AMLR; open since 16 Apr 2026, hearing 28 May 2026) — status flip to *Closed* observed on the consultations hub 21 Jul 2026; final Guidelines still expected Q4 2026 | [pipeline](docs/amla-pipeline.md) · [extract](extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md) · [triage #60](docs/triage/2026-07-21-issue-60.md) |
 | 2026-07-20 | **EBA reporting framework 4.3** publishes the updated data model & taxonomy supporting AMLA's **2027 risk-assessment data collection** for entities eligible for direct supervision (preparation only — not for submissions; v4.4 expected Sep 2026) | [pipeline](docs/amla-pipeline.md) · [AMLA](https://www.amla.europa.eu/news-media/news-articles/updated-taxonomy-2027-risk-assessment-data-collection_en) |
 | 2026-07-21 | AMLA **finalises the supervisory-cooperation ITS (Art 15(3) AMLAR)** — final report published with the full operative draft Commission Implementing Regulation (20 recitals, 16 articles); its first-ever consultation (16 Dec 2025 – 27 Jan 2026) closes the loop | [extract](extracts/amla/ITS-supervisory-cooperation-art15-3_final.md) · [triage #61](docs/triage/2026-07-21-issue-61.md) |
 
@@ -67,7 +68,6 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | Date | Expected event |
 |---|---|
 | 2026-07-10 | AMLA submits first-wave final draft RTS (CDD, business relationships, pecuniary sanctions) to the Commission |
-| 2026-07-15 | BWRA guidelines consultation closes |
 | 2026-09-03 | Ongoing-monitoring guidelines consultation closes |
 | 2026-09-09 | Public hearing on the reporting-format ITS (Art 69(3) AMLR) |
 | 2026-09-10 | Public hearing on the non-financial-sector risk-profile RTS (Art 40(2) AMLD6) |

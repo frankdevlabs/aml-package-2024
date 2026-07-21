@@ -27,14 +27,14 @@ pecuniary-sanctions RTS (item 4) moved to **Final report published** per the reg
 see [triage #41](triage/2026-07-08-issue-41.md)). Operative drafts transcribed under
 [`extracts/amla/`](../extracts/amla/); source PDFs in [`sources/README.md`](../sources/README.md).
 
-| # | Instrument | Legal basis | Type | Opened | Closes | Status (8 Jul 2026) | Final / submission target |
+| # | Instrument | Legal basis | Type | Opened | Closes | Status (21 Jul 2026) | Final / submission target |
 |---|---|---|---|---|---|---|---|
 | 1 | [Supervisory-system cooperation (direct supervision)](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md#section-1) | Art 15(3) AMLAR | ITS | 16 Dec 2025 | 27 Jan 2026 | **Finalised** (21 Jul 2026) — [final report registered](../sources/README.md), [`_final.md` extract](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md) | **Finalised → to Commission** (press release 21 Jul 2026); Commission Implementing Regulation pending |
 | 2 | [Customer Due Diligence](../extracts/amla/RTS-cdd-art28-1_consultation-paper.md#article-1) | Art 28(1) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
 | 3 | [Business relationships / occasional / linked transactions & thresholds](../extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md#article-2) | Art 19(9) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
 | 4 | [Pecuniary sanctions, administrative measures & periodic penalty payments](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md#article-1) | Art 53(10) AMLD6 | RTS | 9 Feb 2026 | 9 Mar 2026 | **Final report published** (8 Jul 2026; [PDF registered](../sources/README.md), `_final.md` extract pending) — feedback published 9 Jul 2026 | **Finalised → to Commission** (press release 8 Jul 2026); operative Commission Delegated Regulation pending |
 | 5 | [Group-wide minimum requirements & third-country measures](../extracts/amla/RTS-group-wide-art16-17_consultation-paper.md#article-1) | Arts 16(4) & 17(3) AMLR | RTS | 16 Apr 2026 | 15 Jun 2026 | **Closed** (15 Jun 2026; hearing 20 May 2026) | Final draft to Commission by **30 Sep 2026** |
-| 6 | [Business-wide risk assessment](../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md#sec-2) | Art 10(4) AMLR | Guidelines | 16 Apr 2026 | 15 Jul 2026 | **Open** (hearing 28 May 2026; re-confirmed open 22 Jun 2026) | Final GL expected **Q4 2026** |
+| 6 | [Business-wide risk assessment](../extracts/amla/GL-business-wide-risk-assessment-art10-4_consultation-paper.md#sec-2) | Art 10(4) AMLR | Guidelines | 16 Apr 2026 | 15 Jul 2026 | **Closed** (15 Jul 2026; hearing 28 May 2026) | Final GL expected **Q4 2026** |
 | 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (public hearing concluded 2 Jul 2026) | — |
 | 8 | [Format for reporting suspicions & providing transaction records](../extracts/amla/ITS-reporting-format-art69-3_consultation-paper.md#article-1) | Art 69(3) AMLR | ITS | 2 Jul 2026 | 20 Sep 2026 | **Open** (public hearing 9 Sep 2026) | — |
 | 9 | [Cross-border information exchange between FIUs](../extracts/amla/RTS-fiu-cross-border-art31-3_consultation-paper.md#article-1) | Art 31(3) AMLD6 | RTS | 6 Jul 2026 | 6 Oct 2026 | **Open** | — |
@@ -197,6 +197,13 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
 - **AMLA Chair presents the 2025 Consolidated Annual Activity Report to the European Parliament — 15 July
   2026.** Chair Bruna Szego appeared before ECON/LIBE. Accountability milestone, no regulatory act.
   — https://www.amla.europa.eu/news-media/news-articles/amla-chair-presents-2025-consolidated-annual-activity-report-european-parliament_en
+- **BWRA guidelines consultation closed — 15 July 2026 (item 6).** The consultations hub flipped the draft
+  Guidelines on business-wide risk assessment (**Art 10(4) AMLR**) from *Open* to *Closed* on its 15 Jul 2026
+  deadline; corroborated by the regulatory-instruments tracker ("Last update" 21 Jul 2026), which shows the
+  same mandate as *Consultation closed*. Hub count unchanged at **10**, leaving **four** open consultations
+  (items 7–10). No new document — the consulted draft is already transcribed; the `..._final.md` sibling waits
+  on the final Guidelines, still expected **Q4 2026**.
+  — https://www.amla.europa.eu/policy/public-consultations_en · [triage #60](triage/2026-07-21-issue-60.md)
 
 ## Next benchmark
 
