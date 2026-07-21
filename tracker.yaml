@@ -109,7 +109,15 @@ watchlist:
       url: "https://eur-lex.europa.eu/eli/reg/2024/1620/oj/eng"
       document_id: REG-2024-1620
       affects: [docs/instruments/amla-2024-1620.md, STATUS.md]
-      notes: "Watch for new consolidated versions / corrigenda. EUR-Lex returns 202 to curl; use Cellar fallback."
+      notes: >-
+        Watch for new consolidated versions / corrigenda. EUR-Lex returns 202 to curl; use the Cellar
+        fallback https://publications.europa.eu/resource/celex/32024R1620 — it answers 303, so follow it
+        (curl -L) AND keep the header: curl -sSL -H 'Accept: application/xml;notice=object'. GUARD (added
+        2026-07-21 after #62): before hashing, assert the response content-type contains `notice=object`
+        and the payload is ~561 KB; drop the header and the same URL returns ~755 KB of
+        application/rdf+xml (the FMX act body) instead, which hashes as a spurious diff. On mismatch retry
+        once, then log unreachable — never hash an off-spec response. Verified 2026-07-21: three
+        consecutive guarded fetches are byte-identical (561,243 B).
     # --- Tier 1: institutional (Netherlands transposition) -----------------
     T1-05:
       tier: T1
@@ -168,12 +176,25 @@ watchlist:
       label: "Nederlandse Vereniging van Banken (NVB) — AML/UBO positions (via sitemap)"
       url: "https://www.nvb.nl/sitemap.xml"
       affects: [docs/stakeholders.md, docs/netherlands.md, docs/fault-lines.md]
-      notes: "Extract <loc> URLs matching witwas/aml/ubo/wwft (case-insensitive); a new matching /nieuws/ URL = a hit — fetch that article for the substance. Switched 2026-07-08: the old theme page /themas/veilig-bankieren-fraude/witwassen/ 404s after an NVB site restructure (no direct replacement; the new /nieuws/ index is client-rendered)."
+      notes: >-
+        Extract <loc> URLs matching witwas/aml/ubo/wwft (case-insensitive); a new matching /nieuws/ URL =
+        a hit — fetch that article for the substance. The stored hash is over that FILTERED URL list, not
+        the raw sitemap (43 matching entries as of 2026-07-21) — the 2026-07-21 diff was this hash-basis
+        change, not new content. Switched 2026-07-08: the old theme page
+        /themas/veilig-bankieren-fraude/witwassen/ 404s after an NVB site restructure (no direct
+        replacement; the new /nieuws/ index is client-rendered).
     # File-agnostic: mirrors Council/Commission outcomes that bot-block curl. Keep.
     T2-04:
       tier: T2
       kind: stakeholder
-      label: "INSIGHT EU MONITORING — RSS"
-      url: "https://ieu-monitoring.com/feed/"
+      label: "European Commission — press corner RSS (all press releases)"
+      url: "https://ec.europa.eu/commission/presscorner/api/rss?language=en&pagesize=50"
       affects: [STATUS.md, TIMELINE.md, docs/amla-pipeline.md]
-      notes: "Filter on AMLR/AMLA/AMLD6/AML keywords; mirrors EU institutional outcomes invisible to direct polling."
+      notes: >-
+        Filter titles/descriptions on AMLR/AMLA/AMLD6/anti-money laundering/single rulebook/RTS; mirrors EU
+        institutional outcomes invisible to direct polling. A match on a Commission Delegated Regulation
+        adopting an AMLA RTS is a Tier-1-grade signal — label it `commission`. pagesize=50 keeps the window
+        deep enough that a weekday poll cannot skip an item. REPLACED 2026-07-21 (#62): the previous source
+        https://ieu-monitoring.com/feed/ now returns HTTP 503 from Wordfence (Block Reason "Accessed a
+        banned URL"), whose block page requires a commercial licence for any bot / crawler / AI / data
+        aggregation access. That is publisher policy, not a rate limit — do NOT re-add it.
