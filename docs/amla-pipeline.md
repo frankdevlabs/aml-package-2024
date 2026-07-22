@@ -115,8 +115,12 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
 - **Direct-supervision eligibility webinar** — **10 June 2026**, over **2,500 participants**. Operationalises
   the Art 12(7) AMLAR selection methodology: how AMLA identifies obliged entities **eligible for direct
   supervision (from 2028)** and the practical **eligibility-reporting** process. Materials published 16 Jun
-  2026 (video, slide deck, five pre-filled Excel reporting templates for solo/group structures; FAQ forthcoming).
-  — https://www.amla.europa.eu/webinar-materials-now-available-identifying-obliged-entities-eligible-direct-supervision_en
+  2026 (video, slide deck, five pre-filled Excel reporting templates for solo/group structures). The promised
+  FAQ followed on **22 Jul 2026**: a **FAQ on the reporting package for identifying provisionally eligible
+  entities** — an operational Q&A compiling queries received from national financial supervisors (interpretation,
+  operational clarifications, practical implementation) to support the **national-level data collections**;
+  guidance, not a new instrument. — https://www.amla.europa.eu/webinar-materials-now-available-identifying-obliged-entities-eligible-direct-supervision_en
+  · https://www.amla.europa.eu/news-media/news-articles/frequently-asked-questions-reporting-package-identifying-provisionally-eligible-entities_en
 - **AMLA's first conference** — **9 June 2026**, Alte Oper, Frankfurt; over **360 in-person guests** from all
   27 Member States plus livestream. Theme "Building Trust, Enhancing Integrity"; keynote by Commissioner Maria
   Luís Albuquerque. A flagship institutional milestone, not a regulatory act.
