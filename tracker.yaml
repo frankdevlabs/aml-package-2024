@@ -149,6 +149,11 @@ watchlist:
         debate is OUT of scope — only questions about the EU AML package or its NL implementation are a hit.
         The €3000 contantenlimiet thread (NL 'wet plan van aanpak witwassen') is package-adjacent — flag for
         manual check. kv-tk-…=question, ah-tk-…=answer. Filter on the <description> line.
+        The RSS backend is intermittently flaky: the same (correct) query flips between HTTP 200 (valid feed)
+        and HTTP 500 ("Er is iets mis gegaan") on repeated requests — a transient server-side error, not a
+        stale/moved URL (malformed queries return 400, not 500). A single-run 500 (e.g. 2026-08-04) is
+        expected noise; treat as unreachable that run without updating the hash, and only consider auto-pause
+        after failures on consecutive weekly runs.
     # --- Tier 2: stakeholder / law firm / advisory -------------------------
     T2-01:
       tier: T2
