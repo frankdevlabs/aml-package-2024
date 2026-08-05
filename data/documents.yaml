@@ -303,6 +303,24 @@ documents:
       (sources/amla/RTS-nonfin-risk-profile-art40-2_annex-data-points_2026-07-13.pdf). Extract:
       extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md.
 
+  - id: AMLA-ITS-SUPCOOP-ART15-FINAL
+    title: "Final report — draft ITS on cooperation within the AML/CFT supervisory system for the purposes of direct supervision (Art 15(3) AMLAR)"
+    body: AMLA
+    date: 2026-07-21
+    limite: false
+    legal_basis: Art 15(3) AMLAR
+    url: https://www.amla.europa.eu/press-release-amla-finalises-standards-supervisory-cooperation-direct-supervision_en
+    local: sources/amla/ITS-supervisory-cooperation-art15-3_final-report_2026-07-21.pdf
+    notes: >-
+      Final report on AMLA's first-ever consultation (sibling of AMLA-ITS-SUPCOOP-ART15, consulted
+      16 Dec 2025 – 27 Jan 2026), announced by press release 21 Jul 2026. Contains the full operative draft
+      Commission Implementing Regulation (20 recitals, 6 sections, 16 articles) — transcribed at
+      extracts/amla/ITS-supervisory-cooperation-art15-3_final.md. Main change vs the consulted draft: a new
+      Article 1 (Definitions) shifts every article by +1; adds the Art 4(2) proportionality exemption, the
+      year X-1/year X submission calendar and the Art 6 data-quality regime. Not yet adopted by the
+      Commission; next benchmark is the Commission Implementing Regulation in the OJ.
+      See docs/amla-pipeline.md and docs/triage/2026-07-21-issue-61.md.
+
   # --- AMLA — advisory notes / guidance (non-pipeline) --------------------
   - id: AMLA-ADVISORY-MICAR
     title: "Advisory note — ML/TF risks resulting from the end of the MiCAR transitional period and possible mitigating measures"

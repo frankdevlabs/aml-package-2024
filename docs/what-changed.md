@@ -35,4 +35,4 @@ moved**. Because the package is adopted, each row traces **current law (AMLD4 / 
 
 | Provision | Before | AMLA Regulation | Level-2/3 detail |
 |---|---|---|---|
-| [**Supervision**](provisions/amla-direct-supervision.md) | National supervisors only | EU-level direct supervision of ~40 high-risk groups (selected 2027, supervised 2028) | Selection RTS Art 12(7) (finalised end-2025); [supervisory-cooperation ITS Art 15(3)](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md#section-1) |
+| [**Supervision**](provisions/amla-direct-supervision.md) | National supervisors only | EU-level direct supervision of ~40 high-risk groups (selected 2027, supervised 2028) | Selection RTS Art 12(7) (finalised end-2025); [supervisory-cooperation ITS Art 15(3)](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md#article-1) (finalised 21 Jul 2026) |

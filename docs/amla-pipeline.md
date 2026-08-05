@@ -29,7 +29,7 @@ see [triage #41](triage/2026-07-08-issue-41.md)). Operative drafts transcribed u
 
 | # | Instrument | Legal basis | Type | Opened | Closes | Status (8 Jul 2026) | Final / submission target |
 |---|---|---|---|---|---|---|---|
-| 1 | [Supervisory-system cooperation (direct supervision)](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md#section-1) | Art 15(3) AMLAR | ITS | 16 Dec 2025 | 27 Jan 2026 | **Closed** | — |
+| 1 | [Supervisory-system cooperation (direct supervision)](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md#section-1) | Art 15(3) AMLAR | ITS | 16 Dec 2025 | 27 Jan 2026 | **Finalised** (21 Jul 2026) — [final report registered](../sources/README.md), [`_final.md` extract](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md) | **Finalised → to Commission** (press release 21 Jul 2026); Commission Implementing Regulation pending |
 | 2 | [Customer Due Diligence](../extracts/amla/RTS-cdd-art28-1_consultation-paper.md#article-1) | Art 28(1) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
 | 3 | [Business relationships / occasional / linked transactions & thresholds](../extracts/amla/RTS-business-relationships-art19-9_consultation-paper.md#article-2) | Art 19(9) AMLR | RTS | 9 Feb 2026 | 8 May 2026 | **Closed** | To Commission by 10 Jul 2026 |
 | 4 | [Pecuniary sanctions, administrative measures & periodic penalty payments](../extracts/amla/RTS-pecuniary-sanctions-art53-10_consultation-paper.md#article-1) | Art 53(10) AMLD6 | RTS | 9 Feb 2026 | 9 Mar 2026 | **Final report published** (8 Jul 2026; [PDF registered](../sources/README.md), `_final.md` extract pending) — feedback published 9 Jul 2026 | **Finalised → to Commission** (press release 8 Jul 2026); operative Commission Delegated Regulation pending |
@@ -162,6 +162,41 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
   four new-to-final final-report PDFs (Art 53(10), 81(1), 41(2), 31(2)) and both new consultation papers were
   retrieved from the AMLA site and [registered](../sources/README.md); `extracts/amla/` transcription pending.
   — https://www.amla.europa.eu/policy/regulatory-instruments_en · [triage #41](triage/2026-07-08-issue-41.md)
+- **Supervisory-cooperation ITS finalised (Art 15(3) AMLAR, item 1) — 21 July 2026.** Press release *"AMLA
+  finalises standards for supervisory cooperation in direct supervision"*, closing the loop on AMLA's
+  **first-ever consultation** (16 Dec 2025 – 27 Jan 2026). Unlike the pecuniary-sanctions final report, this one
+  **contains the full operative draft Commission Implementing Regulation** — 20 recitals, 6 sections, 16
+  articles — now transcribed as
+  [`ITS-supervisory-cooperation-art15-3_final.md`](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md)
+  (`git diff` against the [consulted draft](../extracts/amla/ITS-supervisory-cooperation-art15-3_consultation-paper.md#section-1)).
+  Main changes vs the consulted draft: a new **[Article 1 Definitions](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md#article-1)**
+  shifts every article by **+1** and Section 1 is retitled "General provisions"; a **proportionality exemption**
+  lets home-supervisors excuse clearly non-eligible institutions from submitting eligibility information
+  ([Art 4(2)](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md#article-4)); an explicit **year X-1 /
+  year X calendar** of deadlines (15 Aug / 25 Aug / 30 Sep of X-1; 31 Mar / 31 May / 31 Jul / 30 Sep of X) runs
+  through [Arts 4–5](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md#article-5) and
+  [7](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md#article-7); a **data-quality regime**
+  (validation / quality / plausibility checks, no alteration of supervisor data, resubmission on significant
+  revision) in [Art 6](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md#article-6); a three-year
+  minimum **inventory** on transfer of supervisory tasks
+  ([Art 10(2)](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md#article-10)) and working
+  arrangements for **pending supervisory procedures or investigations**
+  ([Art 11](../extracts/amla/ITS-supervisory-cooperation-art15-3_final.md#article-11)). The instrument keys off
+  the **Art 12(7) AMLAR** selection RTS (cited throughout as "Delegated Regulation (EU) XXXX/XXX"), confirming
+  the first selection process starts **no later than 1 July 2027** on a **2026 dedicated data collection**
+  (cut-off 31 Dec 2025), with the second in **2030**. Not yet adopted — the Commission Implementing Regulation
+  in the OJ remains the status-changing event.
+  — [register](../sources/README.md) · https://www.amla.europa.eu/press-release-amla-finalises-standards-supervisory-cooperation-direct-supervision_en
+- **EBA reporting framework 4.3 — updated taxonomy for the 2027 risk-assessment data collection, 20 July 2026.**
+  The EBA published an updated data model and taxonomy supporting AMLA's risk assessment of entities **eligible
+  for direct supervision** — the data-collection side of the **Art 12(7) AMLAR** selection methodology (and the
+  data points the Art 15(3) ITS above routes through financial supervisors). The v4.3 components are for
+  **preparation only** and must not be used for submissions; **v4.4 is expected September 2026**, distinguishing
+  unavailable information from zero values and adding two data points. Infrastructure, not a new mandate.
+  — https://www.amla.europa.eu/news-media/news-articles/updated-taxonomy-2027-risk-assessment-data-collection_en
+- **AMLA Chair presents the 2025 Consolidated Annual Activity Report to the European Parliament — 15 July
+  2026.** Chair Bruna Szego appeared before ECON/LIBE. Accountability milestone, no regulatory act.
+  — https://www.amla.europa.eu/news-media/news-articles/amla-chair-presents-2025-consolidated-annual-activity-report-european-parliament_en
 
 ## Next benchmark
 
