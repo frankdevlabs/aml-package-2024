@@ -1,6 +1,7 @@
 # Link-checker config. Internal relative links (incl. the committed PDFs) are checked normally.
 # External hosts that bot-block or that we cite by number rather than assert as live are excluded.
-accept = [200, 202, 206, 403, 429]
+# 415 = WAF rejecting lychee's HEAD probe (the host serves the page fine to a GET/browser).
+accept = [200, 202, 206, 403, 415, 429]
 max_retries = 3
 retry_wait_time = 2
 timeout = 30
@@ -17,4 +18,6 @@ exclude = [
   "^https://kpmg\\.com",                             # bot-blocks automated clients
   "^https://www\\.deloitte\\.com",                   # bot-blocks automated clients
   "^https://www\\.loyensloeff\\.com",                # bot-blocks automated clients
+  "^https://open\\.overheid\\.nl",                   # NL government document host; intermittent TLS failures for CI (sibling repos already exclude it)
+  "^https://finnius\\.com",                          # law-firm blog; WAF rejects HEAD (415)
 ]
