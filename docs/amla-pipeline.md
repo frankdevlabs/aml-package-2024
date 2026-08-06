@@ -195,8 +195,9 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
   The EBA published an updated data model and taxonomy supporting AMLA's risk assessment of entities **eligible
   for direct supervision** — the data-collection side of the **Art 12(7) AMLAR** selection methodology (and the
   data points the Art 15(3) ITS above routes through financial supervisors). The v4.3 components are for
-  **preparation only** and must not be used for submissions; **v4.4 is expected September 2026**, distinguishing
-  unavailable information from zero values and adding two data points. Infrastructure, not a new mandate.
+  **preparation only** and must not be used for submissions; **v4.4** (distinguishing unavailable information
+  from zero values and adding two data points) was expected September 2026 but its **draft in fact published
+  4 Aug 2026** — see below. Infrastructure, not a new mandate.
   — https://www.amla.europa.eu/news-media/news-articles/updated-taxonomy-2027-risk-assessment-data-collection_en
 - **AMLA Chair presents the 2025 Consolidated Annual Activity Report to the European Parliament — 15 July
   2026.** Chair Bruna Szego appeared before ECON/LIBE. Accountability milestone, no regulatory act.
@@ -208,6 +209,23 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
   (items 7–10). No new document — the consulted draft is already transcribed; the `..._final.md` sibling waits
   on the final Guidelines, still expected **Q4 2026**.
   — https://www.amla.europa.eu/policy/public-consultations_en · [triage #60](triage/2026-07-21-issue-60.md)
+- **EBA reporting framework 4.4 — draft for the 2027 eligibility data collection, 4 August 2026.** The EBA
+  published **release 4.4** of its reporting framework: a **public working draft** of the data model and taxonomy
+  supporting the 2027 collection of data on entities **eligible for direct supervision by AMLA** (the **Art
+  12(7) AMLAR** selection methodology, and the data points the Art 15(3) ITS routes through financial
+  supervisors). The collection gathers data from entities identified as **provisionally eligible in 2026** to
+  confirm whether they still meet the criteria on **31 December 2026**, the selection-exercise reference date.
+  Preparation only; feedback via the EBA feedback form by **24 Aug 2026**. This is the v4.4 release trailed under
+  the 20 Jul 2026 v4.3 entry above, arriving ahead of the earlier "September 2026" expectation. Infrastructure,
+  not a new mandate.
+  — https://www.amla.europa.eu/news-media/news-articles/eba-publishes-draft-reporting-framework-2027-eligibility-data-collection_en
+- **AMLA survey on Central Contact Points — 6 August 2026.** AMLA launched a survey inviting **Electronic Money
+  Institutions (EMIs)** and **Payment Service Providers (PSPs)** — with a separate survey for national competent
+  authorities — to give feedback on their experience with the current **Central Contact Point (CCP)** framework
+  (**Art 45(9) AMLD** and **Delegated Regulation (EU) 2018/1108**). The responses inform AMLA's preparatory work
+  on future Level-2 CCP standards under the new package. An **operational survey**, not a new RTS/ITS/GL
+  consultation; closes **15 September 2026** — no entry in the consultation-status table above.
+  — https://www.amla.europa.eu/news-media/news-articles/amla-launches-survey-central-contact-points_en
 
 ## Next benchmark
 
