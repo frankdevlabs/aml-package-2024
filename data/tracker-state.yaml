@@ -5,7 +5,7 @@
 # same T1-*/T2-*/T3-* codes. STATUS.md's "As of" date = this file's `last_run`.
 #
 # Ships EMPTY — the first tracker run populates it. Nothing to seed by hand.
-last_run: 2026-10-08T14:07:57Z
+last_run: 2026-10-09T14:05:36Z
 sources:
   T1-01:
     last_seen_hash: "sha256:d4600a9e07ba7b80efe050210cbe1d3781aac655557b61dd85ed70c81218cdd8"
@@ -14,8 +14,8 @@ sources:
     last_seen_hash: "sha256:c0ab6f85da5cd4d0f5757b3e7f3b77e0f12de4b74416057504f2c619d62391eb"
     last_seen_at: 2026-10-08T14:07:57Z
   T1-03:
-    last_seen_hash: "sha256:258296976239c245b64a3c402b21d6393af18a5b86110c40650eaa19f5b2a178"
-    last_seen_at: 2026-10-08T14:07:57Z
+    last_seen_hash: "sha256:0b6f8227d4eec38caf862552a64264055cf7693efc15ad12b8161cedd1763b8a"
+    last_seen_at: 2026-10-09T14:05:36Z
   T1-04:
     last_seen_hash: "sha256:93c7187a818c88a55c8f488e6c76b1e25d42e4ebc54a4da5ba4333d43f92ca34"
     last_seen_at: 2026-10-08T14:07:57Z
@@ -26,8 +26,8 @@ sources:
     last_seen_hash: "sha256:3e50a6ab8fc4caf7a352a8cb34bcee34a71b11ac1875696afbc6852a7468925f"
     last_seen_at: 2026-10-07T14:05:00Z
   T1-07:
-    last_seen_hash: "sha256:0b4c1c6a2a5cd7b212494568f75b446c30d673ca328b6a7a6aa2df8b0dce858f"
-    last_seen_at: 2026-10-08T14:07:57Z
+    last_seen_hash: "sha256:0d0345e9c692b1ebb2fd4af2127da008050dd94d3dc5a134558e5e084c88b6a3"
+    last_seen_at: 2026-10-09T14:05:36Z
     note: "unstable normalized hash (rotating content not stripped); diffs are false positives — see issue #88"
   T1-08:
     last_seen_hash: "sha256:b4b1e90ca22cf0227747a809e5ff97d24f937a4711746461ad1c22fa2017cfa7"
@@ -36,15 +36,15 @@ sources:
     last_seen_hash: "sha256:942159b23a97caeb2c9cc0ba0467d366da3f8d42564610edd4ff4c96b133101c"
     last_seen_at: 2026-10-07T14:05:00Z
   T2-01:
-    last_seen_hash: "sha256:1f71cb418ee9ed97148b4e77999d9fe1697e1122894a3eeb432a8ae83fc994ed"
-    last_seen_at: 2026-10-08T14:07:57Z
+    last_seen_hash: "sha256:2596e93c9eebf8f2f22de9b1bd43e09eee347f5434fe9a27c96f06132ba69c76"
+    last_seen_at: 2026-10-09T14:05:36Z
   T2-02:
     last_seen_hash: "sha256:ace0b362dc6b15aa7686e220f78e8fc8ff6e0e5bdd5be8cda55fed25ef5a6eab"
     last_seen_at: 2026-10-08T14:07:57Z
   T2-03:
-    last_seen_hash: "sha256:41546ba14ebd91d5a2dba4079b0ae3877f3763630e87d1d814e1c2400924d5f6"
-    last_seen_at: 2026-10-08T14:07:57Z
-    note: "hash basis = sorted list of sitemap <loc> matching witwas|aml|ubo|wwft (new /nieuws-en-verhalen/ paths); see issue #95"
+    last_seen_hash: "sha256:febaa10d08f8e5a1b9d137b24ec0fb17ef1f1780191bb2bd028d64593fbf4039"
+    last_seen_at: 2026-10-09T14:05:36Z
+    note: "hash basis = sorted list of sitemap <loc> matching witwas|aml|ubo|wwft; NVB restructured again 2026-10-09 (/nieuws/ -> /nieuws-en-verhalen/ + /position-papers-en-consultaties/, matching count 43 -> 6) — basis re-baselined, not a substantive hit; see issues #95, #108"
   T2-04:
-    last_seen_hash: "sha256:857b016bc6642d0f993542fc4af2c382a6b6162734f0ea00a5874c042b65bf46"
-    last_seen_at: 2026-10-08T14:07:57Z
+    last_seen_hash: "sha256:60610606f74c184512eaf29447d748bae8ac23e12c705b83392cfb44ff06b27b"
+    last_seen_at: 2026-10-09T14:05:36Z
