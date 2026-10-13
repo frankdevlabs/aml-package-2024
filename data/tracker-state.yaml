@@ -5,7 +5,7 @@
 # same T1-*/T2-*/T3-* codes. STATUS.md's "As of" date = this file's `last_run`.
 #
 # Ships EMPTY — the first tracker run populates it. Nothing to seed by hand.
-last_run: 2026-10-12T14:04:27Z
+last_run: 2026-10-13T14:03:04Z
 sources:
   T1-01:
     last_seen_hash: "sha256:d4600a9e07ba7b80efe050210cbe1d3781aac655557b61dd85ed70c81218cdd8"
@@ -26,8 +26,8 @@ sources:
     last_seen_hash: "sha256:3e50a6ab8fc4caf7a352a8cb34bcee34a71b11ac1875696afbc6852a7468925f"
     last_seen_at: 2026-10-07T14:05:00Z
   T1-07:
-    last_seen_hash: "sha256:ea8351edc0b985ed58ced7397d409ee92cfec6d10f233dc80b6efb42fd543318"
-    last_seen_at: 2026-10-12T14:04:27Z
+    last_seen_hash: "sha256:46a748d548710745b48a450db8e2bc5f4cb61b8230c9c99c81524d5a4c131386"
+    last_seen_at: 2026-10-13T14:03:04Z
     note: "unstable normalized hash (rotating content not stripped); diffs are false positives — see issue #88"
   T1-08:
     last_seen_hash: "sha256:b4b1e90ca22cf0227747a809e5ff97d24f937a4711746461ad1c22fa2017cfa7"
@@ -47,5 +47,6 @@ sources:
     last_seen_at: 2026-10-12T14:04:27Z
     note: "hash basis = sorted list of sitemap <loc> matching witwas|aml|ubo|wwft; NVB restructured again 2026-10-09 (/nieuws/ -> /nieuws-en-verhalen/ + /position-papers-en-consultaties/, matching count 43 -> 6) — basis re-baselined, not a substantive hit; see issues #95, #108"
   T2-04:
-    last_seen_hash: "sha256:9c3c4077e9681d9e6216906d1956a91d6390c686e28bbc683266323c4436ba25"
-    last_seen_at: 2026-10-12T14:04:27Z
+    last_seen_hash: "sha256:d6584ab317a53450db93ae277e98656d97e61f115e091d93b76859045960d8dd"
+    last_seen_at: 2026-10-13T14:03:04Z
+    note: "RSS feed hash rotates with the 50-item Commission presscorner window; diff with 0 package-keyword matches is not a hit — re-baselined"
