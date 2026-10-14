@@ -5,48 +5,49 @@
 # same T1-*/T2-*/T3-* codes. STATUS.md's "As of" date = this file's `last_run`.
 #
 # Ships EMPTY — the first tracker run populates it. Nothing to seed by hand.
-last_run: 2026-10-13T14:03:04Z
+last_run: 2026-10-14T14:06:54Z
 sources:
   T1-01:
-    last_seen_hash: "sha256:d4600a9e07ba7b80efe050210cbe1d3781aac655557b61dd85ed70c81218cdd8"
-    last_seen_at: 2026-10-08T14:07:57Z
+    last_seen_hash: "sha256:78f0a18e74ab131e7135c318b6d047c2b4a426b5b79f563ead73b614901d22ad"
+    last_seen_at: 2026-10-14T14:06:54Z
   T1-02:
-    last_seen_hash: "sha256:c0ab6f85da5cd4d0f5757b3e7f3b77e0f12de4b74416057504f2c619d62391eb"
-    last_seen_at: 2026-10-08T14:07:57Z
+    last_seen_hash: "sha256:6956d6b8946a4b73d8b41f5eb37a1ea1cf1eb32a85751d54c01fcdf7aea530bc"
+    last_seen_at: 2026-10-14T14:06:54Z
   T1-03:
-    last_seen_hash: "sha256:0b6f8227d4eec38caf862552a64264055cf7693efc15ad12b8161cedd1763b8a"
-    last_seen_at: 2026-10-09T14:05:36Z
+    last_seen_hash: "sha256:c8aa14910614f719db35268ad6a92d72ced7d6fcd41be8fedfe118133131d7c1"
+    last_seen_at: 2026-10-14T14:06:54Z
   T1-04:
     last_seen_hash: "sha256:93c7187a818c88a55c8f488e6c76b1e25d42e4ebc54a4da5ba4333d43f92ca34"
     last_seen_at: 2026-10-08T14:07:57Z
+    note: "off-spec (lean 5.6 KB object notice) 2026-10-14; not hashed per guard — see #109"
   T1-05:
     last_seen_hash: "sha256:5628905bb5173813f3c2835e10a4395ae6d54bfa27f3f2fe5d072a46a3d1aa8a"
-    last_seen_at: 2026-10-07T14:05:00Z
+    last_seen_at: 2026-10-14T14:06:54Z
   T1-06:
     last_seen_hash: "sha256:3e50a6ab8fc4caf7a352a8cb34bcee34a71b11ac1875696afbc6852a7468925f"
-    last_seen_at: 2026-10-07T14:05:00Z
+    last_seen_at: 2026-10-14T14:06:54Z
   T1-07:
-    last_seen_hash: "sha256:46a748d548710745b48a450db8e2bc5f4cb61b8230c9c99c81524d5a4c131386"
-    last_seen_at: 2026-10-13T14:03:04Z
+    last_seen_hash: "sha256:7cd1af91e016dfc426bd80e32264ae745f30bb35130b7fdbecaeb88161885042"
+    last_seen_at: 2026-10-14T14:06:54Z
     note: "unstable normalized hash (rotating content not stripped); diffs are false positives — see issue #88"
   T1-08:
-    last_seen_hash: "sha256:b4b1e90ca22cf0227747a809e5ff97d24f937a4711746461ad1c22fa2017cfa7"
-    last_seen_at: 2026-10-08T14:07:57Z
+    last_seen_hash: "sha256:444b2408194d695a039836dd2a6f980ea28d5cd7da40cc9e0c3061b60721e227"
+    last_seen_at: 2026-10-14T14:06:54Z
   T1-09:
     last_seen_hash: "sha256:942159b23a97caeb2c9cc0ba0467d366da3f8d42564610edd4ff4c96b133101c"
-    last_seen_at: 2026-10-07T14:05:00Z
+    last_seen_at: 2026-10-14T14:06:54Z
   T2-01:
-    last_seen_hash: "sha256:5a0d8d33ea9a0d2b897a54bf9fb7c3bda6730f2887371c1f395b52c40384a1cb"
-    last_seen_at: 2026-10-12T14:04:27Z
+    last_seen_hash: "sha256:42fff47f8d34ae252885be575891279ba288289dc23b197051237bde49831e92"
+    last_seen_at: 2026-10-14T14:06:54Z
     note: "unstable normalized hash (site-wide month-archive + recent-developments nav not stripped); diffs are false positives — see issue #84"
   T2-02:
-    last_seen_hash: "sha256:ace0b362dc6b15aa7686e220f78e8fc8ff6e0e5bdd5be8cda55fed25ef5a6eab"
-    last_seen_at: 2026-10-08T14:07:57Z
+    last_seen_hash: "sha256:344273abe832a021c35d8280dc67e1c16ca875ee62ea6e42484554f64d1db785"
+    last_seen_at: 2026-10-14T14:06:54Z
   T2-03:
     last_seen_hash: "sha256:41546ba14ebd91d5a2dba4079b0ae3877f3763630e87d1d814e1c2400924d5f6"
-    last_seen_at: 2026-10-12T14:04:27Z
+    last_seen_at: 2026-10-14T14:06:54Z
     note: "hash basis = sorted list of sitemap <loc> matching witwas|aml|ubo|wwft; NVB restructured again 2026-10-09 (/nieuws/ -> /nieuws-en-verhalen/ + /position-papers-en-consultaties/, matching count 43 -> 6) — basis re-baselined, not a substantive hit; see issues #95, #108"
   T2-04:
-    last_seen_hash: "sha256:d6584ab317a53450db93ae277e98656d97e61f115e091d93b76859045960d8dd"
-    last_seen_at: 2026-10-13T14:03:04Z
+    last_seen_hash: "sha256:979499418b98631558c7bce4342cdc890c98a3c3199ea335943bfeb56883dc92"
+    last_seen_at: 2026-10-14T14:06:54Z
     note: "RSS feed hash rotates with the 50-item Commission presscorner window; diff with 0 package-keyword matches is not a hit — re-baselined"
