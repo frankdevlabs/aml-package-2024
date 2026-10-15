@@ -32,6 +32,18 @@ national cash limit, the UBO threshold change, and the contested "lastenluw" fra
   page is help text for the adviesaanvraag element, carrying no date — and **no Kamerstuk dossier number
   (36XXX) exists yet** (one is assigned only on submission). Current pipeline marker: **"at the Raad van State
   for advice."**
+- **Submission expected before end-2026; two member-state-option choices confirmed (3 Sep 2026).** In written
+  answers to Kamervragen on the Albanian-resort / Dutch letterbox-firm reporting (min. Heinen, Financiën;
+  [Aanhangsel Handelingen II 2025/26 nr. 2923](../sources/nl/NL-KAMERVRAGEN-2923_albania-letterbox-firms-aml-package_2026-09-03.pdf),
+  kenmerk 2026Z13066, received 3 Sep 2026 — `NL-KAMERVRAGEN-2923`), the minister states the Iwt "wetsvoorstel
+  voor de implementatie van het anti-witwaspakket" is expected to be **submitted to the Tweede Kamer before the
+  end of the calendar year (2026)**. Two concrete member-state-option choices: (i) the cabinet **will use** a
+  lidstaatoptie requiring **verscherpt cliëntenonderzoek (EDD)** for **domicilieverleners and broader trust-service
+  providers** given their inherent risks (necessity to be re-evaluated some time after entry into force; the
+  option is *not* lastenluw, it adds burden — cf. [ATR4058](fault-lines.md)); and (ii) the cabinet **declines**
+  the option to lower the UBO threshold to **15%** in high-risk situations, "in lijn met de kabinetsinzet om
+  administratieve lasten te verminderen" (see §c). The minister also notes NL pushed during negotiations for a
+  **registration duty for domicilieverleners**, which is now part of the package.
 - **Lead ministry:** Financiën, with Justitie en Veiligheid and Economische Zaken co-responsible. Only a
   *concept* memorie van toelichting exists (the consultation version); the definitive MvT appears with the
   Kamerstuk on submission. The Iwt will be elaborated further in a separate **implementatiebesluit** (to be
@@ -62,7 +74,10 @@ AMLR lowers the beneficial-ownership threshold from "**more than 25%**" to "**25
 direct and indirect interests; the Commission may set a lower threshold of 15% — or lower — for high-risk
 sectors). Confirmed for NL by [Loyens & Loeff](https://www.loyensloeff.com/insights/news--events/news/new-eu-legislation-for-the-identification-and-registration-of-ubos/).
 Interacts with the KvK UBO-register; AMLD6 strengthens the KvK role and adds a discrepancy-reporting duty
-(14 days under the AMLR). See the [UBO provision](provisions/ubo-threshold.md).
+(14 days under the AMLR). **NL will not lower the threshold to 15% for high-risk situations:** the cabinet
+**declines** that member-state option "in lijn met de kabinetsinzet om administratieve lasten te verminderen"
+(min. Heinen, Aanhangsel nr. 2923, 3 Sep 2026 — `NL-KAMERVRAGEN-2923`; see §a), keeping the standard "25% or
+more" test with risk-based supervision. See the [UBO provision](provisions/ubo-threshold.md).
 
 ## d. "Lastenluw" / risk-based approach — contested
 

@@ -383,6 +383,21 @@ documents:
       Adviescollege toetsing regeldruk; contests the cabinet's 'lastenluw' framing. See docs/netherlands.md §d
       and docs/fault-lines.md. (URL is the cabinet's 'lastenluwe implementatiekeuzes' overzicht, 2025D2115.)
 
+  - id: NL-KAMERVRAGEN-2923
+    title: "Aanhangsel Handelingen II 2025/26 nr. 2923 — antwoorden min. Heinen (Financiën) over Albanees resort / Nederlandse brievenbusfirma's"
+    body: Netherlands
+    date: 2026-09-03
+    limite: false
+    file: sources/nl/NL-KAMERVRAGEN-2923_albania-letterbox-firms-aml-package_2026-09-03.pdf
+    url: https://zoek.officielebekendmakingen.nl/ah-1267259.html
+    access: public-released
+    notes: >-
+      Written answers (kenmerk 2026Z13066, received 3 Sep 2026) confirming NL implementation choices for the
+      EU AML package: NL will use a member-state option requiring verscherpt cliëntenonderzoek (EDD) for
+      domicilieverleners and broader trust-service providers, but declines the option to lower the UBO
+      threshold to 15% in high-risk situations (lastenluw). The Iwt implementation bill is expected to be
+      submitted to the Tweede Kamer before end-2026. See docs/netherlands.md.
+
   - id: NL-36228-CASHLIMIT
     title: "Wet plan van aanpak witwassen (cash limit) — dossier 36.228"
     body: Netherlands
