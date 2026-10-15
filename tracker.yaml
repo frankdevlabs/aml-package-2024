@@ -182,12 +182,14 @@ watchlist:
       url: "https://www.nvb.nl/sitemap.xml"
       affects: [docs/stakeholders.md, docs/netherlands.md, docs/fault-lines.md]
       notes: >-
-        Extract <loc> URLs matching witwas/aml/ubo/wwft (case-insensitive); a new matching /nieuws/ URL =
-        a hit — fetch that article for the substance. The stored hash is over that FILTERED URL list, not
-        the raw sitemap (43 matching entries as of 2026-07-21) — the 2026-07-21 diff was this hash-basis
-        change, not new content. Switched 2026-07-08: the old theme page
-        /themas/veilig-bankieren-fraude/witwassen/ 404s after an NVB site restructure (no direct
-        replacement; the new /nieuws/ index is client-rendered).
+        Extract <loc> URLs matching witwas/aml/ubo/wwft (case-insensitive); a new matching URL under
+        /nieuws-en-verhalen/ or /position-papers-en-consultaties/ = a hit — fetch that article for the
+        substance. The stored hash is over that FILTERED URL list, not the raw sitemap (~6 matching
+        entries as of 2026-09-24) — the 2026-09-24 diff was a hash-basis change (NVB sitemap restructure),
+        not new content. History: switched 2026-07-08 when the old theme page
+        /themas/veilig-bankieren-fraude/witwassen/ 404'd after a first restructure; on 2026-09-24 the
+        /nieuws/ path was retired for /nieuws-en-verhalen/ + /position-papers-en-consultaties/ (43 matching
+        entries as of 2026-07-21 → ~6 as of 2026-09-24; the drop is structural, not deleted articles).
     # File-agnostic: mirrors Council/Commission outcomes that bot-block curl. Keep.
     T2-04:
       tier: T2
