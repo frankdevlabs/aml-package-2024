@@ -72,6 +72,7 @@ RTS remains **Consultation closed**. The three finalised ITS final reports were 
 | AMLA reporting to the EPPO | Art 41(2) AMLAR | ITS | **Final report published** — [PDF registered](../sources/README.md), extract pending |
 | FIU-to-FIU exchanges | Art 31(2) AMLD6 | ITS | **Final report published** — [PDF registered](../sources/README.md), extract pending |
 | Home-Host Supervisory Cooperation | Art 46(4) AMLD6 | RTS | **Consultation closed** — paper/dates/text pending |
+| Central contact points — criteria for appointment (amending Del. Reg (EU) 2018/1108) | Art 45(9) AMLD | RTS | **To be adopted by the Commission and published in the OJEU** (advanced 17 Aug 2026) — final draft RTS with the Commission, awaiting a Commission Delegated Regulation in the OJ; never on the consultations hub, no operative text on the index |
 
 When a final-report or draft PDF surfaces for any of these, register the document and add its
 [`extracts/amla/`](../extracts/amla/) slice (a `..._final.md` sibling for the finalised instruments), then
@@ -226,6 +227,18 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
   on future Level-2 CCP standards under the new package. An **operational survey**, not a new RTS/ITS/GL
   consultation; closes **15 September 2026** — no entry in the consultation-status table above.
   — https://www.amla.europa.eu/news-media/news-articles/amla-launches-survey-central-contact-points_en
+- **CCP RTS advances to Commission-adoption stage — regulatory-instruments tracker, 17 August 2026.** AMLA's
+  regulatory-instruments index now shows the **draft RTS amending Delegated Regulation (EU) 2018/1108** (criteria
+  for appointing a **central contact point**; basis Art 45(9) AMLD) at status **"To be adopted by the Commission
+  and published in the OJEU"** — a final draft RTS submitted to the Commission, awaiting a **Commission Delegated
+  Regulation** in the OJ. This is **distinct from and more advanced than** the operational **CCP survey** (6 Aug
+  2026, above): the survey feeds *future* Level-2 CCP standards, whereas this RTS updates the *existing* 2018/1108
+  appointment criteria and is one Commission act away from the OJ. The index's **"Final report published"** count
+  is **unchanged at 7** (all already tracked). No consultation paper / operative text is on the index (this
+  instrument never appeared on the consultations hub), so **no `extracts/amla/` slice** yet; the status-changing
+  event to watch is the Commission Delegated Regulation in the OJ. (Legal-basis nuance: the instrument amends the
+  legacy Del. Reg (EU) 2018/1108 under Directive (EU) 2015/849 — verify the exact new-package mandate before
+  relying.) — https://www.amla.europa.eu/policy/regulatory-instruments_en · [triage #83](triage/2026-08-17-issue-83.md)
 
 ## Next benchmark
 
