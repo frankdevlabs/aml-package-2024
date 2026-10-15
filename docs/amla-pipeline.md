@@ -38,7 +38,8 @@ see [triage #41](triage/2026-07-08-issue-41.md)). Operative drafts transcribed u
 | 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (public hearing concluded 2 Jul 2026) | — |
 | 8 | [Format for reporting suspicions & providing transaction records](../extracts/amla/ITS-reporting-format-art69-3_consultation-paper.md#article-1) | Art 69(3) AMLR | ITS | 2 Jul 2026 | 20 Sep 2026 | **Open** (public hearing 9 Sep 2026) | — |
 | 9 | [Cross-border information exchange between FIUs](../extracts/amla/RTS-fiu-cross-border-art31-3_consultation-paper.md#article-1) | Art 31(3) AMLD6 | RTS | 6 Jul 2026 | 6 Oct 2026 | **Open** | — |
-| 10 | [Inherent & residual risk profile — non-financial sector](../extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md#article-2) | Art 40(2) AMLD6 | RTS | 13 Jul 2026 | 27 Sep 2026 | **Open** (newest; hearing 10 Sep 2026) | — |
+| 10 | [Inherent & residual risk profile — non-financial sector](../extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md#article-2) | Art 40(2) AMLD6 | RTS | 13 Jul 2026 | 27 Sep 2026 | **Open** (hearing 10 Sep 2026) | — |
+| 11 | [AML/CFT central database](../extracts/amla/RTS-central-database-art11-6_consultation-paper.md#article-1) | Art 11(6) AMLAR | RTS | 7 Oct 2026 | 3 Nov 2026 | **Open** (newest; consulted via public hearing 3 Nov 2026) | — |
 
 Items 8–9 opened early July 2026 (confirmed on the consultations hub, 8 Jul 2026) and item 10 on 13 Jul 2026;
 consultation papers registered and transcribed under [`extracts/amla/`](../extracts/amla/). NB: the Art 69(3)
@@ -55,6 +56,7 @@ Direct links to the consultation pages:
 - Reporting-format ITS (Art 69(3) AMLR): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-its-format-reporting-suspicions-and-providing-transaction-records_en
 - Cross-border FIU exchange RTS (Art 31(3) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-cross-border-information-exchange-between-financial-intelligence-units_en
 - Inherent & residual risk profile — non-financial sector (Art 40(2) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-assessment-inherent-and-residual-risk-profile-obliged-entities-non-financial_en
+- AML/CFT central database (Art 11(6) AMLAR): https://www.amla.europa.eu/policy/public-consultations/consultation-public-hearing-draft-rts-establishing-central-amlcft-database_en
 
 ## Additional index-listed instruments (regulatory-instruments tracker, not on the consultations hub)
 
@@ -226,6 +228,19 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
   on future Level-2 CCP standards under the new package. An **operational survey**, not a new RTS/ITS/GL
   consultation; closes **15 September 2026** — no entry in the consultation-status table above.
   — https://www.amla.europa.eu/news-media/news-articles/amla-launches-survey-central-contact-points_en
+- **New consultation opened — draft RTS on the AML/CFT central database (Art 11(6) AMLAR), 7 October 2026
+  (item 11).** AMLA opened a public consultation, held via a **public hearing on 3 November 2026**, on the draft
+  RTS specifying the supervisory information transmitted to the **central AML/CFT database** and the procedures,
+  formats and timelines of transmission (7 Oct – 3 Nov 2026). The hub count rose to **11** and a press release
+  accompanied the launch (*"AMLA consults on draft standards for an EU-wide AML/CFT database"*). The draft (11
+  operative articles + Annex I categories of obliged entities + Annex II data points) has supervisors transmit
+  three streams: data on **themselves** (powers, tasks, staffing/budget), on **obliged entities** (inherent /
+  residual risk profile and the underlying data points, drawn from the **Art 40(2) AMLD6** RTS — explicitly **no
+  new reporting burden** on obliged entities), and on **sanctions, authorisations and advice/opinions**. First
+  financial-sector submissions phase in from **15 Jul 2027**; non-financial-sector transmission is **voluntary
+  until 27 Jun 2028** (Art 106(1) AMLAR), with deferred dates for football clubs/agents. Registered and
+  transcribed — [consultation paper extract](../extracts/amla/RTS-central-database-art11-6_consultation-paper.md#article-1).
+  — [register](../sources/README.md) · https://www.amla.europa.eu/policy/public-consultations/consultation-public-hearing-draft-rts-establishing-central-amlcft-database_en · [triage #106](triage/2026-10-07-issue-106.md)
 
 ## Next benchmark
 
