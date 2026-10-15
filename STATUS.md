@@ -23,7 +23,8 @@ been operational in Frankfurt since **1 July 2025**. The live action is no longe
 Level-2/3 single-rulebook pipeline** — the first three draft RTS consultations have closed and finals are due to
 the Commission by **10 July 2026**, with three further consultations (group-wide RTS, business-wide risk
 assessment GL, ongoing-monitoring GL) open or just closed — plus **national transposition**, where the Dutch
-Iwt sits at the Raad van State for advice (no Tweede Kamer dossier yet).
+Iwt has its Raad van State advice (uitgebracht 13 Aug 2026) and awaits submission to the Tweede Kamer (no
+dossier yet).
 
 ## Where each institution stands
 
@@ -53,7 +54,7 @@ Iwt sits at the Raad van State for advice (no Tweede Kamer dossier yet).
 | Body | Latest act (date) | Position |
 |---|---|---|
 | **EBA** | AML/CFT mandates & functions transferred to AMLA (end-Dec 2025 / Jan 2026) | Legacy EBA AML guidelines remain valid until replaced (Art 54(5) AMLAR) |
-| **Netherlands** | Iwt at the Raad van State for advice (adviesaanvraag aanhangig 7 May 2026; advice not yet issued); cash limit €3,000 for goods in force 1 Jan 2026 | Transposing via the **Iwt** (replaces the Wwft 10 Jul 2027); "lastenluw" intent contested by ATR — [`docs/netherlands.md`](docs/netherlands.md) |
+| **Netherlands** | Iwt — Raad van State advice **uitgebracht 13 Aug 2026** (W06.26.00123/III); awaiting submission to the Tweede Kamer (no 36XXX dossier yet); cash limit €3,000 for goods in force 1 Jan 2026 | Transposing via the **Iwt** (replaces the Wwft 10 Jul 2027); "lastenluw" intent contested by ATR — [`docs/netherlands.md`](docs/netherlands.md) |
 
 ## Next milestones to watch
 
@@ -70,7 +71,7 @@ Iwt sits at the Raad van State for advice (no Tweede Kamer dossier yet).
 - [ ] **10 September 2026** — public hearing on the non-financial-sector risk-profile RTS (Art 40(2) AMLD6); **27 September 2026** — its consultation closes.
 - [ ] **6 October 2026** — **cross-border FIU information-exchange RTS** (Art 31(3) AMLD6) consultation closes.
 - [ ] **H1 2027** — AMLA/EDPB public consultation on the **information-sharing-partnerships joint Guidelines** (Art 75 AMLR); stakeholder event expected later in 2026.
-- [ ] **NL Iwt** — Raad van State advice, then submission to the Tweede Kamer (a Kamerstuk **36XXX** number appears on submission). *Verify against the institution — wetgevingskalender blocks automated access.*
+- [ ] **NL Iwt** — Raad van State advice **uitgebracht 13 Aug 2026** (W06.26.00123/III); next: the government's **nader rapport** and submission to the Tweede Kamer (a Kamerstuk **36XXX** number appears on submission). *Verify against the institution — wetgevingskalender blocks automated access.*
 - [ ] **NL implementatiebesluit** — secondary legislation under the Iwt, to be consulted separately.
 - [ ] Re-verify the [AMLA consultations hub](https://www.amla.europa.eu/policy/public-consultations_en) at least monthly (11 consultations were planned for Q2 2026 alone).
 - [ ] **Transcribe the retrieved final reports / consultation drafts** into `extracts/amla/`. On **19 Jul 2026** the four new-to-final final reports — **pecuniary-sanctions RTS** (Art 53(10) AMLD6), **EPPO-reporting ITS** (Art 81(1) AMLR / 41(2) AMLAR), **FIU-to-FIU ITS** (Art 31(2) AMLD6) — and the two new consultation papers (ITS Art 69(3) AMLR; RTS Art 31(3) AMLD6) were retrieved and [registered](sources/README.md); the `..._final.md` / `..._consultation-paper.md` extract siblings are still to be written. The **Home-Host RTS** (Art 46(4) AMLD6) remains **Consultation closed** with no text published — register + transcribe once a PDF surfaces. — [pipeline](docs/amla-pipeline.md#additional-index-listed-instruments-regulatory-instruments-tracker-not-on-the-consultations-hub)
