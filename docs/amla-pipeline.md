@@ -226,6 +226,13 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
   on future Level-2 CCP standards under the new package. An **operational survey**, not a new RTS/ITS/GL
   consultation; closes **15 September 2026** — no entry in the consultation-status table above.
   — https://www.amla.europa.eu/news-media/news-articles/amla-launches-survey-central-contact-points_en
+- **AMLA leadership speeches — September 2026.** Three external speaking engagements by AMLA leadership,
+  confirmed on the news page: Chair **Bruna Szego** at the **Central Bank of Montenegro 25th Anniversary
+  Conference** (**4 Sep 2026**); Executive Board Member **Simonas Krepšta** addressing the **Global Conference
+  on Criminal Finances and Cryptoassets** in Luxembourg (**15 Sep 2026**); and **Rikke-Louise Petersen** at the
+  **Nordic Financial Crime & Sanctions Forum** (**15 Sep 2026**). Communications / outreach milestones — **no
+  new RTS/ITS/GL or consultation**, no change to the pipeline; the newest regulatory items remain the July 2026
+  ones tracked above. — https://www.amla.europa.eu/resources/news-articles_en · [triage #93](triage/2026-09-24-issue-93.md)
 
 ## Next benchmark
 
