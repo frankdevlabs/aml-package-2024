@@ -5,54 +5,57 @@
 # same T1-*/T2-*/T3-* codes. STATUS.md's "As of" date = this file's `last_run`.
 #
 # Ships EMPTY — the first tracker run populates it. Nothing to seed by hand.
-last_run: 2026-10-15T14:06:44Z
+last_run: 2026-10-16T14:06:12Z
 sources:
   T1-01:
-    last_seen_hash: "sha256:4725af5eb0787f5fde212c863fe0a3a18a53196caa5789f0f821f3f1f61c7671"
-    last_seen_at: 2026-10-15T14:06:44Z
-    note: "AMLA Drupal page: form_build_id / data-drupal-selector are cache-keyed tokens that rotate on cache rebuild (not stripped by normalization) -> periodic non-substantive hash diffs. 2026-10-15 diff re-baselined; no new/closed consultation (newest = central AML/CFT database RTS, opened 2026-10-07, #106)"
+    last_seen_hash: "sha256:064aa5ba8adf5e6a09992fc455e0fb84be399ad2271d6e0e1a0e2798060cdba5"
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "AMLA Drupal page: form_build_id / data-drupal-selector are cache-keyed tokens that rotate on cache rebuild (not stripped by normalization) -> periodic non-substantive hash diffs. 2026-10-16 diff re-baselined; 11 consultations, newest still the central AML/CFT database RTS (Open, opened 2026-10-07, deadline 2026-11-03, #106); no new/newly-closed consultation vs 10-15"
   T1-02:
-    last_seen_hash: "sha256:839ea1525c47d8a7bb753f09b88191b178304f8273256013471af1cfefe3caa8"
-    last_seen_at: 2026-10-15T14:06:44Z
-    note: "AMLA Drupal cache-token churn (see T1-01 note). 2026-10-15 diff re-baselined; no new 'to be adopted' / OJ-published instrument"
+    last_seen_hash: "sha256:0e92341c2619bbe1bfe7bdf75eae7db4b5c63d99c9e0b00021d5fb1d6fc279bb"
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "AMLA Drupal cache-token churn (see T1-01 note). 2026-10-16 diff re-baselined; last update 7 Oct 2026, central AML/CFT database RTS still 'Registration for public hearing open', no new 'to be adopted' / OJ-published instrument"
   T1-03:
-    last_seen_hash: "sha256:b9bb8d3c0b62458ea29701587fa1e614f030e69c89f667b7f980ebfb611a5c1a"
-    last_seen_at: 2026-10-15T14:06:44Z
-    note: "AMLA Drupal cache-token churn (see T1-01 note). 2026-10-15 diff re-baselined; newest news item dated 7 Oct 2026 (pre-dates 10-14 run), nothing new"
+    last_seen_hash: "sha256:2d9a4f038eb6ba11b7fb6ca45d2851e63527db74cb435f1019469c300f417d83"
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "AMLA Drupal cache-token churn (see T1-01 note). 2026-10-16 diff re-baselined; newest news item dated 7 Oct 2026 (Szego/MLB interview, MiCA priorities) — pre-dates this run, nothing new"
   T1-04:
-    last_seen_hash: "sha256:bcf801fab3a1e3f2d9044279be1d85a5d23e8faf50c3508144c9753e9bef85c2"
-    last_seen_at: 2026-10-15T14:06:44Z
-    note: "on-spec object notice restored 2026-10-15 (561,455 B, content-type notice=object). Metadata-only change, no new consolidation (still 02024R1620-20240619 + -20251110), lastmod 2026-09-04 — re-baselined per #79 pattern. Supersedes the 10-14 off-spec note (#109)"
+    last_seen_hash: "sha256:82536eeb416bb24fb81012a9e66aedb01579afbe1e8acdb4855073b5acf33a10"
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "on-spec object notice (561,455 B, content-type notice=object). Metadata-only change, no new consolidation (still 02024R1620-20240619 + -20251110), lastmod 2026-09-04 — re-baselined per #79 pattern"
   T1-05:
     last_seen_hash: "sha256:5628905bb5173813f3c2835e10a4395ae6d54bfa27f3f2fe5d072a46a3d1aa8a"
-    last_seen_at: 2026-10-15T14:06:44Z
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "unchanged this run"
   T1-06:
     last_seen_hash: "sha256:3e50a6ab8fc4caf7a352a8cb34bcee34a71b11ac1875696afbc6852a7468925f"
-    last_seen_at: 2026-10-15T14:06:44Z
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "unchanged this run"
   T1-07:
-    last_seen_hash: "sha256:2daf2fe1e04626fafa5dda891281320738875329613468d3f0582e2359da83cc"
-    last_seen_at: 2026-10-15T14:06:44Z
-    note: "unstable normalized hash (rotating published-reactions block not stripped); diffs are false positives — see issue #88. 2026-10-15: consultation still Gesloten (04-07-2025 -> 29-08-2025), 'Resultaat gepubliceerd' has no date yet — no new milestone"
+    last_seen_hash: "sha256:54929890b813abf00495cf7fb5fdff0a3cc3771b9055b82e6ba896c5dbc62b0a"
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "unstable normalized hash (rotating published-reactions block not stripped); diffs are false positives — see issue #88. 2026-10-16: consultation still Gesloten (04-07-2025 -> 29-08-2025), Status 'Resultaat gepubliceerd' with no date — no new milestone, re-baselined"
   T1-08:
-    last_seen_hash: "sha256:444b2408194d695a039836dd2a6f980ea28d5cd7da40cc9e0c3061b60721e227"
-    last_seen_at: 2026-10-15T14:06:44Z
-    note: "curl 403 Akamai -> fetched via fetch_blocked_doc.py curl-impersonate tier (real page titled 'AMLA'); body unchanged this run"
+    last_seen_hash: "sha256:48a97e4e5812507cb919447a0e18d259ad7f06dfacce25659b5257b3b58fff98"
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "curl 403 Akamai -> fetched via fetch_blocked_doc.py curl-impersonate tier (real page titled 'AMLA'). 2026-10-16: genuine byte-stable content change since 10-15 (two back-to-back fetches identical, 261,897 B) BUT in-scope <main> AML content unchanged (inwerkingtreding 10 juli 2027; Nieuwsberichten still the 2 items from closed #43, newest Q2 2026) -> likely off-topic chrome (fraud-warning banner). Re-baselined; recurrence logged to open manual-review issue #103"
   T1-09:
     last_seen_hash: "sha256:942159b23a97caeb2c9cc0ba0467d366da3f8d42564610edd4ff4c96b133101c"
-    last_seen_at: 2026-10-15T14:06:44Z
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "unchanged this run"
   T2-01:
-    last_seen_hash: "sha256:5a59c0cdc0390e0f2359c78607038d3ec337323634eef0650e28e0445a0b84a7"
-    last_seen_at: 2026-10-15T14:06:44Z
-    note: "unstable normalized hash (site-wide month-archive + recent-developments nav not stripped); diffs are false positives — see issue #84. 2026-10-15 re-baselined, no new AML-package content"
+    last_seen_hash: "sha256:5a0d8d33ea9a0d2b897a54bf9fb7c3bda6730f2887371c1f395b52c40384a1cb"
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "unstable normalized hash (site-wide month-archive + topic/jurisdiction nav not stripped; 'All Months' now leads with October 2026); diffs are false positives — see issue #84. 2026-10-16 re-baselined, no new AML-package content in the post"
   T2-02:
-    last_seen_hash: "sha256:986a8ccffb49bd70a60bce58c1356edebf5149d71d7b8205333fcd8130ccc3c2"
-    last_seen_at: 2026-10-15T14:06:44Z
-    note: "unstable normalized hash (KPMG promo/insights carousel rotates — Anthropic/Microsoft/Verdantix tiles); diffs are false positives — see issue #89. 2026-10-15 re-baselined, newest AMLA insight still the May newsletter"
+    last_seen_hash: "sha256:b60602c114c93cef5cc468d275718e2c0c8e45e21d1d811c05bedc9cab5b8189"
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "unstable normalized hash (KPMG promo/insights carousel rotates); diffs are false positives — see issue #89. 2026-10-16 page loaded OK (not a challenge, AMLA content present), re-baselined; no new AMLA insight"
   T2-03:
-    last_seen_hash: "sha256:febaa10d08f8e5a1b9d137b24ec0fb17ef1f1780191bb2bd028d64593fbf4039"
-    last_seen_at: 2026-10-15T14:06:44Z
-    note: "hash basis = sorted list of sitemap <loc> matching witwas|aml|ubo|wwft (6 entries post-2026-10-09 restructure; see #95, #108). 2026-10-15 basis hash shifted but all 6 URLs carry Aug-2026 lastmod — no new /nieuws-en-verhalen/ or /position-papers/ article, re-baselined"
+    last_seen_hash: "sha256:58c5dd0329bb3fd625623841902cad9d471e3f74bf477c7290ba600128d0a953"
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "hash basis = sha256 of sorted newline-joined sitemap <loc> matching witwas|aml|ubo|wwft (6 entries post-2026-10-09 restructure; see #95, #108). 2026-10-16 basis hash shifted but all 6 URLs carry Aug-2026 lastmod — no new /nieuws-en-verhalen/ or /position-papers/ article, re-baselined"
   T2-04:
-    last_seen_hash: "sha256:2f0a9d3270466144090b8e54c29b1f73c3f9e7ea07cd8b748e7607a253ca85ab"
-    last_seen_at: 2026-10-15T14:06:44Z
-    note: "RSS feed hash rotates with the 50-item Commission presscorner window; 2026-10-15 window had 0 package-keyword matches — not a hit, re-baselined"
+    last_seen_hash: "sha256:ff5e8212799265ede93490008144b549252cdd51c20fa48872575de41e669aa5"
+    last_seen_at: 2026-10-16T14:06:12Z
+    note: "RSS feed hash rotates with the 50-item Commission presscorner window; 2026-10-16 window had 0 package-keyword matches (AMLR/AMLA/AMLD6/anti-money laundering/single rulebook/RTS) — not a hit, re-baselined"
