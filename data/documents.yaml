@@ -297,11 +297,33 @@ documents:
     url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-assessment-inherent-and-residual-risk-profile-obliged-entities-non-financial_en
     local: sources/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper_2026-07-13.pdf
     notes: >-
-      Most recently opened consultation. 13 Jul – 27 Sep 2026 (open); public hearing 10 Sep 2026. Non-financial
+      Consultation opened 13 Jul 2026. 13 Jul – 27 Sep 2026 (closed); public hearing 10 Sep 2026. Non-financial
       sector companion to the financial-sector Art 40(2) RTS (draft published Dec 2025) — keep apart. Applies from
       31 Dec 2028 (football clubs/agents from 31 Dec 2029). Data-point Annexes I & II ship as a separate PDF
       (sources/amla/RTS-nonfin-risk-profile-art40-2_annex-data-points_2026-07-13.pdf). Extract:
       extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md.
+
+  - id: AMLA-RTS-CENTRAL-DB-ART11
+    title: "Consultation paper — draft RTS on the AML/CFT central database (Art 11(6) AMLAR)"
+    body: AMLA
+    date: 2026-10-07
+    limite: false
+    legal_basis: Art 11(6) AMLAR (Reg (EU) 2024/1620)
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-public-hearing-draft-rts-establishing-central-amlcft-database_en
+    local: sources/amla/RTS-central-database-art11-6_consultation-paper_2026-10-07.pdf
+    notes: >-
+      Most recently opened consultation (hub count now 11). Consulted via a public hearing: 7 Oct – 3 Nov 2026
+      (open); public hearing 3 Nov 2026, 14:00–16:00 CET. Mandate under Art 11(6) AMLAR to specify the type of
+      supervisory information transmitted to the central AML/CFT database and the procedures, formats and
+      timelines. Draft RTS: 11 operative articles (the final entry-into-force clause is mislabelled "Article 3"
+      in the source) + Annex I (categories of obliged entities) + Annex II (data points per article). Supervisors
+      transmit data on themselves (powers/tasks/resources), on obliged entities (ML/TF risk profile and data
+      points drawn from the Art 40(2) AMLD6 RTS — no new reporting burden on obliged entities), and on sanctions,
+      authorisations and fit-and-proper assessments. First financial-sector submissions phased from 15 Jul 2027;
+      non-financial-sector transmission voluntary until 27 Jun 2028 (Art 106(1) AMLAR); deferred dates for
+      football clubs/agents (AMLR applies to them from 10 Jul 2029). Extract:
+      extracts/amla/RTS-central-database-art11-6_consultation-paper.md. See docs/amla-pipeline.md and
+      docs/triage/2026-10-07-issue-106.md.
 
   - id: AMLA-ITS-SUPCOOP-ART15-FINAL
     title: "Final report — draft ITS on cooperation within the AML/CFT supervisory system for the purposes of direct supervision (Art 15(3) AMLAR)"
