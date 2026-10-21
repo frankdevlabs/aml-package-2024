@@ -392,3 +392,21 @@ documents:
     tweede_kamer: https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel:36228
     notes: >-
       €3,000 cash-payment ban for goods in force 1 Jan 2026 (Staatsblad 2025, 362). See docs/netherlands.md §b.
+
+  - id: NL-KAMERVRAGEN-117
+    title: "Aanhangsel Handelingen II 2026/27, nr. 117 — antwoorden crypto-betalingen online kindermisbruik (AML-pakket)"
+    body: Netherlands
+    date: 2026-09-25
+    limite: false
+    file: sources/nl/NL-KAMERVRAGEN-117_crypto-csam-aml-package_2026-09-25.pdf
+    url: https://zoek.officielebekendmakingen.nl/ah-1270488.html
+    access: public-released
+    notes: >-
+      Kamervragen answer (kenmerk 2026Z13645), min. Van Weel (Justitie en Veiligheid) mede namens Financiën,
+      received 25 Sep 2026, to questions by leden Inge van Dijk and Van den Brink on FIU-Nederland's finding of
+      rising crypto payments for online CSAM. Subject is CSAM, but the answers engage the tracked AML package:
+      names AMLD6 (Dir 2024/1640) + AMLR (Reg 2024/1624) as the AML-pakket replacing AMLD5 from Jul 2027
+      ("implementatie ... wordt op dit moment gewerkt"); the AMLR information-sharing legal basis for gatekeepers
+      from 10 Jul 2027; AMLA's crypto-priority role, JATs and FIU coordination; CASP supervision under MiCAR
+      passporting + the TFR travel rule (AFM); NL C7 coalition. Not the criminal-law Dir 2018/1673 sibling.
+      See docs/netherlands.md §e and TIMELINE 2026-09-25.

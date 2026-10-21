@@ -76,7 +76,7 @@ Interacts with the KvK UBO-register; AMLD6 strengthens the KvK role and adds a d
   noodzakelijk is."* Record "lastenluw" as the government's stated **intent**, not an uncontested outcome.
   See [`fault-lines.md`](fault-lines.md).
 
-## e. Other Dutch developments (to June 2026)
+## e. Other Dutch developments (to September 2026)
 
 - **DNB:** from 2027, DNB will calculate institutions' risk scores using the AMLA methodology in the RTS under
   Art 40(2) AMLD6; institutions should adapt data registration and register cross-border activities from 2026
@@ -94,3 +94,22 @@ Interacts with the KvK UBO-register; AMLD6 strengthens the KvK role and adds a d
   AMLA's risk-based approach may diverge from existing DNB Q&As/Good Practices Wwft and the NVB Risk-Based
   Industry Baselines ([Deloitte analysis](https://www.deloitte.com/nl/nl/services/consulting-financial/perspectives/amla-and-amlr-a-blessing-or-curse-for-dutch-financial-institutions.html)).
 - The NVB filed a position paper on UBO/CDD: https://www.nvb.nl/media/5168/nvb-aml-ubo-position-paper.pdf
+- **Kamervragen crypto/CSAM (25 Sep 2026):** answering questions by leden Inge van Dijk and Van den Brink on
+  FIU-Nederland's finding of rising crypto payments for online child sexual abuse material, min. Van Weel
+  (Justitie en Veiligheid), mede namens Financiën, situates the AML package in the crypto/CASP context
+  (Aanhangsel Handelingen II 2026/27, nr. **117**; kenmerk 2026Z13645 —
+  [committed PDF](../sources/nl/NL-KAMERVRAGEN-117_crypto-csam-aml-package_2026-09-25.pdf), `NL-KAMERVRAGEN-117`).
+  No new transposition-*option* choice, but four dated confirmations for the tracked file:
+  1. **Implementation ongoing:** AMLD5 is "in juli 2027 vervangen door de zesde antiwitwasrichtlijn (AMLD6) en
+     de antiwitwasverordening (AMLR) ... Aan de implementatie van de AMLD6 en AMLR wordt op dit moment gewerkt."
+  2. **AMLR information-sharing legal basis:** a wettelijke grondslag for information-sharing between gatekeepers
+     (incl. CASPs) is currently absent; "de nieuwe Europese anti-witwasverordening die per 10 juli 2027 in
+     werking treedt, creëert nieuwe mogelijkheden tot het delen van gegevens" (Art 75 AMLR territory —
+     cf. the AMLA/EDPB information-sharing-partnerships Guidelines in [`amla-pipeline.md`](amla-pipeline.md)).
+  3. **AMLA crypto-priority role:** AMLA coordinates FIU **Joint Analysis Teams (JAT's)**, uniformises FIU
+     information exchange, and flags crypto/CASPs as a prominent priority in its work programme; NL is closely
+     involved via FIU-Nederland and the AML supervisors, and is part of the **C7 coalition** (with BE, DE, FR,
+     IT, ES, SE) against organised crime.
+  4. **CASP supervision context:** under MiCAR passporting, CASPs report unusual transactions only to the FIU of
+     the licensing Member State (recovered via FIU-to-FIU exchange), and the **TFR travel rule** applies with the
+     **AFM** supervising risk-based measures against non-compliant foreign providers.
