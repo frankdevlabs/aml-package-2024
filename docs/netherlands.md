@@ -75,6 +75,10 @@ Interacts with the KvK UBO-register; AMLD6 strengthens the KvK role and adds a d
   aantal onderdelen niet gebeurt. Dat maakt de Nederlandse regelgeving meer belastend dan vanuit Europa
   noodzakelijk is."* Record "lastenluw" as the government's stated **intent**, not an uncontested outcome.
   See [`fault-lines.md`](fault-lines.md).
+- Minister Heinen **reaffirmed the "lastenluw" intent for the new UBO rules** in a Kamervragen answer of
+  **5 November 2026** (Aanhangsel 556, 2026Z21934): *"Op 10 juli 2027 treden de zesde antiwitwasrichtlijn en de
+  antiwitwasverordening in werking. Hierin staan gedetailleerdere regels op het gebied van UBO's. Ik zorg
+  ervoor dat deze nieuwe Europese regels lastenluw worden geïmplementeerd."* (See §e.)
 
 ## e. Other Dutch developments (to June 2026)
 
@@ -94,3 +98,17 @@ Interacts with the KvK UBO-register; AMLD6 strengthens the KvK role and adds a d
   AMLA's risk-based approach may diverge from existing DNB Q&As/Good Practices Wwft and the NVB Risk-Based
   Industry Baselines ([Deloitte analysis](https://www.deloitte.com/nl/nl/services/consulting-financial/perspectives/amla-and-amlr-a-blessing-or-curse-for-dutch-financial-institutions.html)).
 - The NVB filed a position paper on UBO/CDD: https://www.nvb.nl/media/5168/nvb-aml-ubo-position-paper.pdf
+- **UBO-register enforcement — DFEI (from 1 Jan 2026).** In a Kamervragen answer of **5 November 2026**
+  (Aanhangsel 556, question 2026Z21934 by lid Flach; `NL-KV-AH556-UBO-HANDHAVING`), minister Heinen set out how
+  the UBO register is enforced for **verenigingen and stichtingen**. Per **1 January 2026** the **Bureau
+  Economische Handhaving (BEH)** and the **Bureau Toezicht Wwft (BTWwft)** merged into the **Dienst
+  Financieel-Economische Integriteit (DFEI)**, part of the Ministerie van Financiën; DFEI is the designated
+  enforcer of the UBO-register registration obligation (in force since **27 September 2020**; the 18-month
+  deadline for pre-existing entities expired **27 March 2022**; covers BVs, stichtingen and verenigingen).
+  Enforcement is **warning-letter-first**: a final-warning letter (with an explanatory flyer and a response
+  deadline) precedes any boete, and goodwilling entities that register — or ask DFEI/KvK for help — after the
+  letter face no sanction; the approach is risk-based and proportionate. The minister **declined to pause
+  enforcement** (Vraag 5), noting the obligation flows directly from the EU anti-money-laundering directive,
+  which itself requires enforcement. The minister (with DFEI, the KvK and the minister of JenV) is preparing a
+  **handleiding** on determining the UBO for common structures such as stichtingen and verenigingen — with
+  sector input — to ease registration and give a uniform reading of the UBO concept.
