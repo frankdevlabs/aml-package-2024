@@ -392,3 +392,15 @@ documents:
     tweede_kamer: https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel:36228
     notes: >-
       €3,000 cash-payment ban for goods in force 1 Jan 2026 (Staatsblad 2025, 362). See docs/netherlands.md §b.
+
+  - id: NL-KV-AH556-UBO-HANDHAVING
+    title: "Kamervragen-antwoord (Aanhangsel 556, 2026Z21934) — handhaving UBO-register bij verenigingen en stichtingen"
+    body: Netherlands
+    date: 2026-11-05
+    limite: false
+    url: https://zoek.officielebekendmakingen.nl/ah-1278451.html
+    notes: >-
+      Antwoord van minister Heinen (Financiën) on vragen van het lid Flach. Confirms DFEI (merger of BEH +
+      BTWwft, per 1 Jan 2026) is the UBO-register enforcer; warning-letter-first, risk-based enforcement; no
+      pause of enforcement; UBO-determination handleiding (DFEI/KvK/JenV) in preparation; reaffirms "lastenluw"
+      implementation of the new EU UBO rules from 10 Jul 2027. See docs/netherlands.md §d/§e.
