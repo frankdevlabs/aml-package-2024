@@ -65,12 +65,13 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-07-22 | AMLA publishes **FAQ on the reporting package for identifying provisionally eligible entities** — operational Q&A supporting the **direct-supervision eligibility-reporting** (Art 12(7) AMLAR selection) data collections organised at national level; compiles queries from national financial supervisors; delivers the FAQ promised at the 10 Jun 2026 eligibility webinar. Guidance, not a new RTS/ITS/GL | [AMLA](https://www.amla.europa.eu/news-media/news-articles/frequently-asked-questions-reporting-package-identifying-provisionally-eligible-entities_en) · [pipeline](docs/amla-pipeline.md) |
 | 2026-08-04 | **EBA publishes draft reporting framework for the 2027 eligibility data collection** — **release 4.4** public working draft of the data model & taxonomy supporting AMLA's collection of data on entities **eligible for direct supervision** (Art 12(7) AMLAR); confirms provisional-eligibility status against the **31 Dec 2026** reference date. Preparation only; EBA feedback form closes 24 Aug 2026. The v4.4 follow-up to the v4.3 taxonomy (20 Jul 2026) | [pipeline](docs/amla-pipeline.md) · [AMLA](https://www.amla.europa.eu/news-media/news-articles/eba-publishes-draft-reporting-framework-2027-eligibility-data-collection_en) |
 | 2026-08-06 | AMLA **launches survey on Central Contact Points** — invites **EMIs** and **PSPs** (plus a separate survey for competent authorities) to give feedback on the current **CCP** framework (Art 45(9) AMLD; Delegated Regulation (EU) 2018/1108); informs preparatory work on future Level-2 CCP standards. Operational survey, not a new RTS/ITS/GL consultation; closes 15 Sep 2026 | [pipeline](docs/amla-pipeline.md) · [AMLA](https://www.amla.europa.eu/news-media/news-articles/amla-launches-survey-central-contact-points_en) |
+| 2026-11-09 | **Regulatory-instruments tracker** — four further draft RTS move to **Final report published** (flip detected this run): **CDD RTS** (Art 28(1) AMLR), **business-relationships RTS** (Art 19(9) AMLR), **group-wide RTS** (Arts 16(4)/17(3) AMLR) and **Home-Host supervisory-cooperation RTS** (Art 46(4) AMLD6); completes the first-wave RTS pipeline (reflecting the 10 Jul / 30 Sep submission targets). Status confirmed only — final-report PDFs pending retrieval; operative text not asserted | [pipeline](docs/amla-pipeline.md) · [triage #113](docs/triage/2026-11-09-issue-113.md) |
 
 ## Forward look (targets — not yet occurred)
 
 | Date | Expected event |
 |---|---|
-| 2026-07-10 | AMLA submits first-wave final draft RTS (CDD, business relationships, pecuniary sanctions) to the Commission |
+| 2026-07-10 | AMLA submits first-wave final draft RTS (CDD, business relationships, pecuniary sanctions) to the Commission — *all three now "Final report published" on the regulatory-instruments tracker (pecuniary sanctions 8 Jul; CDD + business relationships flip detected 9 Nov 2026)* |
 | 2026-09-03 | Ongoing-monitoring guidelines consultation closes |
 | 2026-09-09 | Public hearing on the reporting-format ITS (Art 69(3) AMLR) |
 | 2026-09-10 | Public hearing on the non-financial-sector risk-profile RTS (Art 40(2) AMLD6) |
@@ -78,7 +79,7 @@ each year. Forward-looking dates are AMLA/government **targets**, not completed 
 | 2026-09-27 | Non-financial-sector risk-profile RTS consultation closes |
 | 2026-10-06 | Cross-border FIU information-exchange RTS (Art 31(3) AMLD6) consultation closes |
 | 2026-H2 | AMLA/EDPB stakeholder event on the information-sharing-partnerships joint Guidelines (Art 75 AMLR) |
-| 2026-09-30 | Group-wide RTS final draft to the Commission |
+| 2026-09-30 | Group-wide RTS final draft to the Commission — *now "Final report published" on the regulatory-instruments tracker (flip detected 9 Nov 2026)* |
 | 2027-H1 | AMLA/EDPB **public consultation** on the information-sharing-partnerships joint Guidelines (Art 75 AMLR) |
 | 2026-Q4 | Final BWRA guidelines expected |
 | 2027 | AMLA selects ~40 high-risk groups for direct supervision |
