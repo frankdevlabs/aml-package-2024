@@ -5,57 +5,57 @@
 # same T1-*/T2-*/T3-* codes. STATUS.md's "As of" date = this file's `last_run`.
 #
 # Ships EMPTY — the first tracker run populates it. Nothing to seed by hand.
-last_run: 2026-11-18T15:05:21Z
+last_run: 2026-11-19T00:00:00Z
 sources:
   T1-01:
     last_seen_hash: "sha256:32a9d1dd3558641d1cd8e9d3e49d62db934b5a1acfd7c72b80239bced6fe20be"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "2026-11-18 normalized hash differs from 11-17 but substantively unchanged: still 11 Closed / 0 Open consultations, newest opened 7 Oct 2026 (closed 3 Nov 2026) — no newer entry. Template/footer churn (moved in lockstep with T1-02). No consultation opened/newly-closed, no new final report. Re-baselined, no issue"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "2026-11-19 normalized hash IDENTICAL to 11-18 — no change. Still 11 Closed / 0 Open consultations, no new consultation opened/newly-closed, no new final report"
   T1-02:
     last_seen_hash: "sha256:f54ef6c4a12cb2a18d1ddc25ac772d0d9dfd3a2fb02b3ec942181bbc8efa8f6e"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "2026-11-18 normalized hash differs from 11-17 but substantively unchanged: 'Final report published' count still 11, 'Last update: 10 November 2026' (not newer), 0 'Submitted to Commission'. Template churn (moved with T1-01). No new final RTS/OJ Delegated Regulation. Re-baselined, no issue"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "2026-11-19 normalized hash IDENTICAL to 11-18 — no change. No new final RTS submitted to Commission / OJ Delegated Regulation"
   T1-03:
-    last_seen_hash: "sha256:86b528c3a06ad78e878f7efa4ba8fa8282621a2606b530b29af3d7ff1c3d78e4"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "2026-11-18 HIT: 1 new news item since 11-17 — 17 Nov 2026 'AMLA and the EPPO agree closer cooperation to fight money laundering affecting the EU budget' (AMLA+EPPO signed a Working Arrangement). Institutional cooperation milestone, no new consultation/instrument. The 30 Nov 2026 date on page = event date of the EDPB roundtable in the older 30 Oct item, not a new article. URL's prior hit still OPEN -> appended comment to #93 (not a new issue)"
+    last_seen_hash: "sha256:13a464a339ea1ebe903d3f31904e53c149fce3e3d203b02ee8d2c8b5f0cc48e3"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "2026-11-19 HIT: 2 new news items vs 11-18, both from 29th Euro Finance Week (Frankfurt), dated 16 Nov 2026 — (1) 'From vision to reality: AMLA Chair Bruna Szego speaks at 29th Euro Finance Week' (speech on AMLA progress/priorities); (2) 'Euro Finance Week: AMLA EB Member Derville Rowland held a roundtable' with ~15 bank/FI reps on AML/CFT. Institutional milestones (speeches), no new consultation/Level-2 instrument (T1-01/02 unchanged). URL's prior hit still OPEN -> appended comment to #93 (not a new issue). Hash updated"
   T1-04:
     last_seen_hash: "sha256:cef184cb6e23dcf23cfc1812e164e0069a59324bc4d57dbb4b16b021cbfee98e"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "2026-11-18 HIT + RECOVERED on-spec (GUARD #62): response back on-spec (content-type notice=object, 561,455 B — vs byte-stable 561,243 B, +212 B; yesterday's off-spec 5,649 B truncation gone). The +212 B = a genuine NEW consolidated version: CONSOLIDATED_BY_ACT link 2024R1620/20251110 (consolidation date 2025-11-10) added alongside the existing 20240619. Also references corrigendum 32024R1620R(01) + related act 32025R2088. Appended comment to OPEN #79 (the dedicated CELEX-notice issue) — this resolves its 'no new consolidation' open question. Hash updated to on-spec value"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "2026-11-19 on-spec (GUARD #62): content-type notice=object, 561,455 B (same as 11-18 recovered on-spec value), normalized hash IDENTICAL to 11-18 — no change, no new consolidated version/corrigendum"
   T1-05:
     last_seen_hash: "sha256:2a91e1c2819f9800c787acda85b77101258427c8e850b86db4c366508a1df212"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "2026-11-18 real page (not a challenge); normalized hash differs from 11-17 but milestone content identical: Iwt still at step 'Raad van State', latest milestone 13-08-2026 'Advies Raad van State uitgebracht', no new 36XXX Kamerstuk / Tweede Kamer submission. Minor page churn. Re-baselined, no issue"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "2026-11-19 real page (not a challenge); normalized hash IDENTICAL to 11-18 — no change. Iwt still at step 'Raad van State', latest milestone 13-08-2026 'Advies Raad van State uitgebracht', no new 36XXX Kamerstuk / Tweede Kamer submission"
   T1-06:
     last_seen_hash: "sha256:3e50a6ab8fc4caf7a352a8cb34bcee34a71b11ac1875696afbc6852a7468925f"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "2026-11-18 responded within 20s; normalized hash identical to 11-17 baseline — no change. Cash-limit dossier 36.228 unchanged"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "2026-11-19 responded within 20s; normalized hash IDENTICAL to 11-18 — no change. Cash-limit dossier 36.228 unchanged"
   T1-07:
-    last_seen_hash: "sha256:372d42cc454a7f62d673290769fb35b366eab89e13024da88a3a8f1c5310e4ac"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "unstable normalized hash (rotating published-reactions block not stripped); diffs are false positives — see issue #88. 2026-11-18: hash differs from 11-17 but consultation still Gesloten/'Resultaat gepubliceerd', einddatum 29-08-2025, no new 2026 milestone. Re-baselined, no issue"
+    last_seen_hash: "sha256:08a1428ab68d20591f981f97f56f7811162e611e1b96461c578b65e8316af98f"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "unstable normalized hash (rotating published-reactions block not stripped); diffs are false positives — see issue #88. 2026-11-19: hash differs from 11-18 but consultation still Gesloten/'Resultaat gepubliceerd', einddatum 29-08-2025, no new 2026 milestone (the '2026' on page = cash-limit date in description text). Re-baselined, no issue"
   T1-08:
     last_seen_hash: "sha256:b38330cf8c67d55a71b3e2199700cc8a3e3595c62c3e40cccd2f5665115dcfe0"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "curl 403 Akamai -> fetched via fetch_blocked_doc.py curl-impersonate tier (real page titled 'AMLA', 254,982 B). 2026-11-18 normalized hash differs from 11-17 (same byte count — in-place churn) but substance unchanged: inwerkingtreding still 10 juli 2027, same AMLR/AMLD6/eligibility-reporting content. Open #103 tracks this URL's churn. Re-baselined, no issue"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "curl 403 Akamai -> fetched via fetch_blocked_doc.py curl-impersonate tier (real page titled 'AMLA', 254,982 B). 2026-11-19 normalized hash IDENTICAL to 11-18 — no change. inwerkingtreding still 10 juli 2027, same AMLR/AMLD6/eligibility-reporting content. Open #103 tracks this URL's churn"
   T1-09:
     last_seen_hash: "sha256:17ae40a6b4acd5d488ea6356507fcb6020228a291982e2f80c2f51b3ee67c2e1"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "2026-11-18 normalized hash identical to 11-17 — no change. 15 items, newest still ah-1278451 (05-11-2026, UBO-register enforcement) already flagged NEW issue #111 — no newer in-scope item"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "2026-11-19 normalized hash IDENTICAL to 11-18 — no change. 15 items, newest still ah-1278451 (05-11-2026, UBO-register enforcement) already flagged NEW issue #111 — no newer in-scope item"
   T2-01:
     last_seen_hash: "sha256:39810de86b6ba27e9d427b3f2dd18f0eb3b4c54096d11b4c7bcdd782d5cb582f"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "unstable normalized hash (site-wide month-archive dropdown + rotating 'Recent Posts' sidebar + footer not stripped); diffs are false positives — see issue #84. 2026-11-18 hash differs from 11-17 but no new AMLR/RTS/Level 2 article. Re-baselined, no issue"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "unstable normalized hash (site-wide month-archive dropdown + rotating 'Recent Posts' sidebar + footer not stripped); diffs are false positives — see issue #84. 2026-11-19 hash IDENTICAL to 11-18 — no change, no new AMLR/RTS/Level 2 article"
   T2-02:
     last_seen_hash: "sha256:a214253c222ba2f35f57c91b074abb4bfdb2768dfd9ffa783c777ccde9cd3721"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "unstable normalized hash (KPMG promo/insights carousel rotates); diffs are false positives — see issue #89. 2026-11-18 page loaded OK (title 'KPMG AMLA Office', not a challenge); hash differs from 11-17 but no new substantive item. Re-baselined, no issue"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "unstable normalized hash (KPMG promo/insights carousel rotates); diffs are false positives — see issue #89. 2026-11-19 page loaded OK (title 'KPMG AMLA Office', not a challenge); hash IDENTICAL to 11-18 — no change"
   T2-03:
     last_seen_hash: "sha256:58c5dd0329bb3fd625623841902cad9d471e3f74bf477c7290ba600128d0a953"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "hash basis = sha256 of sorted newline-joined sitemap <loc> matching witwas|aml|ubo|wwft (6 entries post-2026-10-09 restructure; see #95, #108). 2026-11-18 hash identical to 11-17 — no new /nieuws-en-verhalen/ or /position-papers-en-consultaties/ article"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "hash basis = sha256 of sorted newline-joined sitemap <loc> matching witwas|aml|ubo|wwft (6 entries post-2026-10-09 restructure; see #95, #108). 2026-11-19 hash IDENTICAL to 11-18 — no new /nieuws-en-verhalen/ or /position-papers-en-consultaties/ article"
   T2-04:
-    last_seen_hash: "sha256:4157df82343a7fd88cf4499c10aec9cf35ae84e1a296d0e6118b9b492f65ccd7"
-    last_seen_at: 2026-11-18T15:05:21Z
-    note: "RSS feed hash rotates with the 50-item Commission presscorner window. 2026-11-18: 50 items, 0 genuine package-keyword matches (no AMLR/AMLA/AMLD6/anti-money laundering/single rulebook/RTS token). Not a hit, re-baselined"
+    last_seen_hash: "sha256:51d6f9faf6144584308a090097e3f4da0d664db42aa62ef400823c0397a6ba62"
+    last_seen_at: 2026-11-19T00:00:00Z
+    note: "RSS feed hash rotates with the 50-item Commission presscorner window. 2026-11-19: 50 items, 0 genuine package-keyword matches (no AMLR/AMLA/AMLD6/anti-money laundering/single rulebook/RTS token). Not a hit, re-baselined"
