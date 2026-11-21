@@ -52,3 +52,4 @@
 | `NL-MR-BESLUITENLIJST-2026-04-24` | Besluitenlijst ministerraad (Iwt → Raad van State) | 2026-04-24 | link-only | [open.overheid.nl](https://open.overheid.nl/documenten/16cf634e-a9e2-4411-b302-b1264198c3a5/) |
 | `NL-ATR4058` | ATR4058 — "niet lastenluw" | 2025-09-29 | link-only | [open.overheid.nl](https://open.overheid.nl/documenten/497b3bd5-6966-41e3-aa7a-7fb1e8a4870a/file) |
 | `NL-36228-CASHLIMIT` | Wet plan van aanpak witwassen (cash limit), dossier 36.228 | 2025-06-10 | link-only | [Eerste Kamer](https://www.eerstekamer.nl/wetsvoorstel/36228_wet_plan_van_aanpak) |
+| `NL-KV-AH556-UBO-HANDHAVING` | Kamervragen-antwoord (Aanhangsel 556, 2026Z21934) — handhaving UBO-register (verenigingen/stichtingen) | 2026-11-05 | link-only | [officielebekendmakingen.nl](https://zoek.officielebekendmakingen.nl/ah-1278451.html) |
