@@ -81,6 +81,15 @@ The **Art 31(2) AMLD6 ITS** above is the sibling of the now-open **Art 31(3) AML
 the *relevance/selection criteria* for cross-border reports, while it repeatedly points to the Art 31(2) ITS for
 the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
 
+> **AMLA–EPPO Working Arrangement (17 Nov 2026).** AMLA and the EPPO
+> [signed a Working Arrangement](https://www.amla.europa.eu/amla-and-eppo-agree-closer-cooperation-fight-money-laundering-affecting-eu-budget_en)
+> on cooperation to fight money laundering affecting the EU budget — strategic/operational cooperation (joint
+> FIU/AMLA analyses, information exchange, a hit/no-hit system, EPPO participation in AMLA working groups on
+> technical standards/risk indicators/guidelines, capacity-building). This is an **institutional cooperation
+> arrangement**, distinct from the two EPPO-reporting **ITS** above (Art 81(1) AMLR / Art 41(2) AMLAR), which set
+> the reporting *templates* — do not conflate the arrangement with those instruments' operative text. See
+> [`TIMELINE.md`](../TIMELINE.md) (2026-11-17) and [triage #118](triage/2026-11-23-issue-118.md).
+
 ## Verified events (anchored "as of 13 June 2026")
 
 - **First public hearing** — **24 March 2026** on the CDD and business-relationships draft RTS; "over **1600
