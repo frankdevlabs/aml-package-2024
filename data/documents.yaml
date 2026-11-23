@@ -303,6 +303,38 @@ documents:
       (sources/amla/RTS-nonfin-risk-profile-art40-2_annex-data-points_2026-07-13.pdf). Extract:
       extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md.
 
+  - id: AMLA-RTS-COLLEGES-FIN-ART49
+    title: "Consultation paper — draft RTS on the conditions for the functioning of AML/CFT supervisory colleges in the financial sector (Art 49(14) AMLD6)"
+    body: AMLA
+    date: 2026-11-20
+    limite: false
+    legal_basis: Art 49(14) AMLD6 (Directive (EU) 2024/1640)
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-conditions-functioning-amlcft-supervisory-colleges-financial-sector_en
+    local: sources/amla/RTS-supervisory-colleges-fin-art49-14_consultation-paper_2026-11-20.pdf
+    notes: >-
+      Open 23 Nov – 23 Dec 2026; public hearing 14 Dec 2026. Paper dated 20 Nov 2026. Draft Commission Delegated
+      Regulation (27 articles + Annexes I/II) setting the terms of cooperation, risk-based meeting frequency, the
+      lead supervisor's structure overview/member list, mutual assistance and coordinated supervisory approach for
+      AML/CFT supervisory colleges in the financial sector (Art 49 AMLD6, incl. Art 49(1)(a)/(b) mandatory and
+      Art 49(8) optional colleges). Financial-sector companion to the Art 50(13) AMLD6 non-financial-sector
+      colleges RTS (consulted the same day). Extract:
+      extracts/amla/RTS-supervisory-colleges-fin-art49-14_consultation-paper.md.
+
+  - id: AMLA-RTS-COLLEGES-NONFIN-ART50
+    title: "Consultation paper — draft RTS on the conditions for the functioning of AML/CFT supervisory colleges in the non-financial sector (Art 50(13) AMLD6)"
+    body: AMLA
+    date: 2026-11-20
+    limite: false
+    legal_basis: Art 50(13) AMLD6 (Directive (EU) 2024/1640)
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-conditions-functioning-amlcft-supervisory-colleges-non-financial-sector_en
+    local: sources/amla/RTS-supervisory-colleges-nonfin-art50-13_consultation-paper_2026-11-20.pdf
+    notes: >-
+      Open 23 Nov – 23 Dec 2026; public hearing 14 Dec 2026. Paper dated 20 Nov 2026. Draft Commission Delegated
+      Regulation (27 articles + Annexes I/II) for AML/CFT supervisory colleges in the non-financial sector (Art 50
+      AMLD6) — the non-financial-sector companion to the Art 49(14) AMLD6 financial-sector colleges RTS (consulted
+      the same day). Extract:
+      extracts/amla/RTS-supervisory-colleges-nonfin-art50-13_consultation-paper.md.
+
   - id: AMLA-ITS-SUPCOOP-ART15-FINAL
     title: "Final report — draft ITS on cooperation within the AML/CFT supervisory system for the purposes of direct supervision (Art 15(3) AMLAR)"
     body: AMLA

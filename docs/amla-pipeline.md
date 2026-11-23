@@ -38,7 +38,9 @@ see [triage #41](triage/2026-07-08-issue-41.md)). Operative drafts transcribed u
 | 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (public hearing concluded 2 Jul 2026) | — |
 | 8 | [Format for reporting suspicions & providing transaction records](../extracts/amla/ITS-reporting-format-art69-3_consultation-paper.md#article-1) | Art 69(3) AMLR | ITS | 2 Jul 2026 | 20 Sep 2026 | **Open** (public hearing 9 Sep 2026) | — |
 | 9 | [Cross-border information exchange between FIUs](../extracts/amla/RTS-fiu-cross-border-art31-3_consultation-paper.md#article-1) | Art 31(3) AMLD6 | RTS | 6 Jul 2026 | 6 Oct 2026 | **Open** | — |
-| 10 | [Inherent & residual risk profile — non-financial sector](../extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md#article-2) | Art 40(2) AMLD6 | RTS | 13 Jul 2026 | 27 Sep 2026 | **Open** (newest; hearing 10 Sep 2026) | — |
+| 10 | [Inherent & residual risk profile — non-financial sector](../extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md#article-2) | Art 40(2) AMLD6 | RTS | 13 Jul 2026 | 27 Sep 2026 | **Open** (hearing 10 Sep 2026) | — |
+| 11 | [Functioning of AML/CFT supervisory colleges — financial sector](../extracts/amla/RTS-supervisory-colleges-fin-art49-14_consultation-paper.md#article-1) | Art 49(14) AMLD6 | RTS | 23 Nov 2026 | 23 Dec 2026 | **Open** (newest; opened 23 Nov 2026; hearing 14 Dec 2026) | — |
+| 12 | [Functioning of AML/CFT supervisory colleges — non-financial sector](../extracts/amla/RTS-supervisory-colleges-nonfin-art50-13_consultation-paper.md#article-1) | Art 50(13) AMLD6 | RTS | 23 Nov 2026 | 23 Dec 2026 | **Open** (newest; opened 23 Nov 2026; hearing 14 Dec 2026) | — |
 
 Items 8–9 opened early July 2026 (confirmed on the consultations hub, 8 Jul 2026) and item 10 on 13 Jul 2026;
 consultation papers registered and transcribed under [`extracts/amla/`](../extracts/amla/). NB: the Art 69(3)
@@ -55,6 +57,8 @@ Direct links to the consultation pages:
 - Reporting-format ITS (Art 69(3) AMLR): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-its-format-reporting-suspicions-and-providing-transaction-records_en
 - Cross-border FIU exchange RTS (Art 31(3) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-cross-border-information-exchange-between-financial-intelligence-units_en
 - Inherent & residual risk profile — non-financial sector (Art 40(2) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-assessment-inherent-and-residual-risk-profile-obliged-entities-non-financial_en
+- Supervisory colleges — financial sector (Art 49(14) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-conditions-functioning-amlcft-supervisory-colleges-financial-sector_en
+- Supervisory colleges — non-financial sector (Art 50(13) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-conditions-functioning-amlcft-supervisory-colleges-non-financial-sector_en
 
 ## Additional index-listed instruments (regulatory-instruments tracker, not on the consultations hub)
 
@@ -226,6 +230,18 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
   on future Level-2 CCP standards under the new package. An **operational survey**, not a new RTS/ITS/GL
   consultation; closes **15 September 2026** — no entry in the consultation-status table above.
   — https://www.amla.europa.eu/news-media/news-articles/amla-launches-survey-central-contact-points_en
+- **Two new consultations — AML/CFT supervisory colleges (Art 49(14) + Art 50(13) AMLD6) — opened 23 November 2026.**
+  AMLA opened two draft RTS consultations on the conditions for the functioning of **AML/CFT supervisory colleges**,
+  one for the **financial sector** (Art 49(14) AMLD6, items 11 above) and one for the **non-financial sector**
+  (Art 50(13) AMLD6, item 12), both **Open 23 Nov – 23 Dec 2026** with a joint public hearing on **14 Dec 2026**.
+  Each is a draft Commission Delegated Regulation (27 articles + Annexes I/II) covering the lead supervisor's
+  structure overview and member list, communication channels, mutual assistance, risk-based meeting frequency and
+  the coordinated supervisory approach. These were the first Open consultations on the hub since the mid-July
+  batch closed (baseline 20 Nov 2026 was 0 Open). Consultation papers [registered](../sources/README.md) and
+  transcribed under [`../extracts/amla/`](../extracts/amla/)
+  ([fin](../extracts/amla/RTS-supervisory-colleges-fin-art49-14_consultation-paper.md#article-1) ·
+  [non-fin](../extracts/amla/RTS-supervisory-colleges-nonfin-art50-13_consultation-paper.md#article-1)).
+  — [register](../sources/README.md) · [triage #117](triage/2026-11-23-issue-117.md)
 
 ## Next benchmark
 
