@@ -303,6 +303,23 @@ documents:
       (sources/amla/RTS-nonfin-risk-profile-art40-2_annex-data-points_2026-07-13.pdf). Extract:
       extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md.
 
+  - id: AMLA-GL-SANCTIONS-BASE-ART53-11
+    title: "Consultation paper — draft Guidelines on determining the base amount for imposing pecuniary sanctions (Art 53(11) AMLD6)"
+    body: AMLA
+    date: 2026-11-24
+    limite: false
+    legal_basis: Art 53(11) AMLD6 (Dir (EU) 2024/1640)
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-determining-base-amount-imposing-pecuniary-sanctions_en
+    local: sources/amla/GL-pecuniary-sanctions-base-amount-art53-11_consultation-paper_2026-11-24.pdf
+    notes: >-
+      Newest consultation (opened 25 Nov 2026 – 25 Feb 2027; public hearing 12 Jan 2027). Level-3 Guidelines,
+      the downstream companion to the Art 53(10) AMLD6 RTS (gravity categories) — these set the base-amount
+      percentages of the relevant financial metric (turnover / gross income) per breach category, stopping
+      before the Art 53(6) aggravating/mitigating adjustments. Four-step method; base amounts in Table 1
+      (0.25–5.00% legal persons / 0.50–10.00% natural persons). Apply from 10 Jul 2027 (10 Jul 2029 for
+      Art 3(3)(n)/(o) entities). Clean draft (plain pdftotext). Extract:
+      extracts/amla/GL-pecuniary-sanctions-base-amount-art53-11_consultation-paper.md.
+
   - id: AMLA-ITS-SUPCOOP-ART15-FINAL
     title: "Final report — draft ITS on cooperation within the AML/CFT supervisory system for the purposes of direct supervision (Art 15(3) AMLAR)"
     body: AMLA

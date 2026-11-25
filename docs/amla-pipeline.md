@@ -38,7 +38,8 @@ see [triage #41](triage/2026-07-08-issue-41.md)). Operative drafts transcribed u
 | 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (public hearing concluded 2 Jul 2026) | — |
 | 8 | [Format for reporting suspicions & providing transaction records](../extracts/amla/ITS-reporting-format-art69-3_consultation-paper.md#article-1) | Art 69(3) AMLR | ITS | 2 Jul 2026 | 20 Sep 2026 | **Open** (public hearing 9 Sep 2026) | — |
 | 9 | [Cross-border information exchange between FIUs](../extracts/amla/RTS-fiu-cross-border-art31-3_consultation-paper.md#article-1) | Art 31(3) AMLD6 | RTS | 6 Jul 2026 | 6 Oct 2026 | **Open** | — |
-| 10 | [Inherent & residual risk profile — non-financial sector](../extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md#article-2) | Art 40(2) AMLD6 | RTS | 13 Jul 2026 | 27 Sep 2026 | **Open** (newest; hearing 10 Sep 2026) | — |
+| 10 | [Inherent & residual risk profile — non-financial sector](../extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md#article-2) | Art 40(2) AMLD6 | RTS | 13 Jul 2026 | 27 Sep 2026 | **Open** (hearing 10 Sep 2026) | — |
+| 11 | [Base amount for imposing pecuniary sanctions](../extracts/amla/GL-pecuniary-sanctions-base-amount-art53-11_consultation-paper.md#sec-3) | Art 53(11) AMLD6 | Guidelines | 25 Nov 2026 | 25 Feb 2027 | **Open** (newest; hearing 12 Jan 2027) | — |
 
 Items 8–9 opened early July 2026 (confirmed on the consultations hub, 8 Jul 2026) and item 10 on 13 Jul 2026;
 consultation papers registered and transcribed under [`extracts/amla/`](../extracts/amla/). NB: the Art 69(3)
@@ -226,6 +227,23 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
   on future Level-2 CCP standards under the new package. An **operational survey**, not a new RTS/ITS/GL
   consultation; closes **15 September 2026** — no entry in the consultation-status table above.
   — https://www.amla.europa.eu/news-media/news-articles/amla-launches-survey-central-contact-points_en
+- **Base-amount pecuniary-sanctions Guidelines consultation opened — 25 November 2026 (item 11).** AMLA opened a
+  new Level-3 consultation on the **draft Guidelines on determining the base amount for imposing pecuniary
+  sanctions** (**Art 53(11) AMLD6**; consultation paper dated 24 Nov 2026, [registered](../sources/README.md)).
+  Open **25 Nov 2026 – 25 Feb 2027**, with a **public hearing 12 Jan 2027**. The Guidelines are the downstream
+  companion to the **Art 53(10) AMLD6 RTS** (gravity indicators / four gravity categories, item 4): they take the
+  breach category as given and set, per category and legal form, a **base amount expressed as a percentage of a
+  relevant financial metric** (total annual turnover for legal persons / total gross annual income for natural
+  persons) via a **four-step method** — establish the breach type → the obliged-entity category & legal form →
+  the relevant financial metric (hierarchy of independent/reliable sources) → set the base amount from
+  [Table 1](../extracts/amla/GL-pecuniary-sanctions-base-amount-art53-11_consultation-paper.md#table-1)
+  (**0.25–0.50%** min/max for Category 1–2 and **0.50–5.00%** for Category 3–4 legal persons; **0.50–1.00%** and
+  **1.00–10.00%** respectively for natural persons). They stop at the base amount; the later
+  aggravating/mitigating adjustments (Art 53(6) AMLD6) are out of scope. Apply from **10 Jul 2027** (**10 Jul
+  2029** for the Art 3(3)(n)/(o) entities). Operative draft transcribed at
+  [`GL-pecuniary-sanctions-base-amount-art53-11_consultation-paper.md`](../extracts/amla/GL-pecuniary-sanctions-base-amount-art53-11_consultation-paper.md#sec-3).
+  — https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-determining-base-amount-imposing-pecuniary-sanctions_en
+  · [triage #121](triage/2026-11-25-issue-121.md)
 
 ## Next benchmark
 
