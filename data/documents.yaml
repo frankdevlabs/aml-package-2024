@@ -392,3 +392,19 @@ documents:
     tweede_kamer: https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel:36228
     notes: >-
       €3,000 cash-payment ban for goods in force 1 Jan 2026 (Staatsblad 2025, 362). See docs/netherlands.md §b.
+
+  - id: NL-AH748-REGELDRUK
+    title: "Aanhangsel 748 (2026Z19353) — antwoord Kamervragen Brekelmans/Kisteman (VVD) over regeldruk"
+    body: Netherlands
+    date: 2026-11-24
+    limite: false
+    file: sources/nl/NL-AH748-REGELDRUK_kamervragen-answer_2026-11-24.pdf
+    url: https://zoek.officielebekendmakingen.nl/ah-1281744.html
+    access: public-released
+    notes: >-
+      Government answer (min. Herbert, EZK) to a VVD "regeldruk" inventory of 97 rules across all ministries
+      (companion to Aanhangsel 344). Three items are in-scope for the AML package: item 3 (Wwft reporting —
+      confirms the AMLR "verdachte" norm directly replaces the Wwft "ongebruikelijke" regime per 10 Jul 2027,
+      reporting to FIU-Nederland), item 88 (cabinet will investigate a materiality threshold + bulk reporting
+      for UBO-register terugmeldingen), item 89 (pseudo-UBO double filing cannot be fully scrapped under the
+      AMLR; KVK building a pre-filled UBO form). See docs/netherlands.md §f.

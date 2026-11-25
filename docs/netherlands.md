@@ -94,3 +94,36 @@ Interacts with the KvK UBO-register; AMLD6 strengthens the KvK role and adds a d
   AMLA's risk-based approach may diverge from existing DNB Q&As/Good Practices Wwft and the NVB Risk-Based
   Industry Baselines ([Deloitte analysis](https://www.deloitte.com/nl/nl/services/consulting-financial/perspectives/amla-and-amlr-a-blessing-or-curse-for-dutch-financial-institutions.html)).
 - The NVB filed a position paper on UBO/CDD: https://www.nvb.nl/media/5168/nvb-aml-ubo-position-paper.pdf
+
+## f. Parliamentary scrutiny — VVD "regeldruk" Kamervragen (Nov 2026)
+
+On **24 November 2026** the government (min. Herbert, EZK, on behalf of the responsible bewindspersonen)
+answered a **VVD "regeldruk" inventory of 97 rules** across every ministry from the leden **Brekelmans and
+Kisteman** — [Aanhangsel 748](../sources/nl/NL-AH748-REGELDRUK_kamervragen-answer_2026-11-24.pdf)
+(vraagnummer 2026Z19353; [officielebekendmakingen](https://zoek.officielebekendmakingen.nl/ah-1281744.html),
+`NL-AH748-REGELDRUK`; companion to Aanhangsel 344). It is **not** an AML-specific debate, but **three of the 97
+items touch the AML package**:
+
+- **Item 3 — Aanpassing Wwft (FIN & JenV).** Asked to align the Wwft reporting duty with the EU "verdachte"
+  (suspicious) norm instead of the Dutch "ongebruikelijke" (unusual) norm, the cabinet confirms this **already
+  follows from the direct effect of the AMLR**: *"De regels van de antiwitwasverordening voor het melden van
+  transacties komen … in de plaats van de regeling op grond van de Wwft. De Europese verordening verplicht dat
+  poortwachters tegen witwassen per 10 juli 2027 verdachte transacties melden bij de FIU Nederland."* The Wwft
+  unusual-transaction regime and the FIE indicators **"komt dus te vervallen."** — see
+  [reporting provision](provisions/reporting-suspicious.md).
+- **Item 88 — Materialiteitsdrempel in de terugmeldplicht UBO (FIN).** On a **materiality threshold** and
+  **bulk reporting (verzamelmeldingen)** for discrepancy reports between the UBO-register and CDD, the cabinet
+  **"zal de suggestie … onderzoeken."** It is in ongoing talks with gatekeepers (mainly the large banks, which
+  file most terugmeldingen) so that reports are made only on a **material** discrepancy — reporting minor typos
+  "is vaak niet materieel." *(New cabinet commitment — soft, no date.)* — see
+  [UBO provision](provisions/ubo-threshold.md).
+- **Item 89 — Dubbele opgave van bestuurders als pseudo-UBO (FIN).** Dropping separate pseudo-UBO filing and
+  auto-deriving it from the Handelsregister is **not fully possible under EU law**; KVK is building a
+  **pre-filled** UBO form, but from **10 July 2027** UBO registration flows **directly from the
+  antiwitwasverordening**, which requires **more personal data** than the Handelsregister holds for directors,
+  so a one-to-one carry-over is not possible.
+
+Items 3 and 89 mainly **reaffirm** the repo's existing record (AMLR replaces the Wwft reporting regime and
+drives UBO registration from 10 Jul 2027) with a concrete parliamentary citation; item 88 is a **new** cabinet
+commitment to investigate burden relief in the UBO terugmeldplicht. The exchange fits the contested "lastenluw"
+fault line (§d above; [`fault-lines.md`](fault-lines.md)).
