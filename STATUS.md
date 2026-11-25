@@ -53,7 +53,7 @@ Iwt sits at the Raad van State for advice (no Tweede Kamer dossier yet).
 | Body | Latest act (date) | Position |
 |---|---|---|
 | **EBA** | AML/CFT mandates & functions transferred to AMLA (end-Dec 2025 / Jan 2026) | Legacy EBA AML guidelines remain valid until replaced (Art 54(5) AMLAR) |
-| **Netherlands** | Iwt at the Raad van State for advice (adviesaanvraag aanhangig 7 May 2026; advice not yet issued); cash limit €3,000 for goods in force 1 Jan 2026 | Transposing via the **Iwt** (replaces the Wwft 10 Jul 2027); "lastenluw" intent contested by ATR — [`docs/netherlands.md`](docs/netherlands.md) |
+| **Netherlands** | Iwt at the Raad van State for advice (adviesaanvraag aanhangig 7 May 2026; advice not yet issued); cash limit €3,000 for goods in force 1 Jan 2026 | Transposing via the **Iwt** (replaces the Wwft 10 Jul 2027); "lastenluw" intent contested by ATR, and by the Nov 2026 VVD regeldruk Kamervragen (Aanhangsel 748 — cabinet confirms AMLR reporting norm displaces the Wwft, will study a UBO terugmeld-materiality threshold) — [`docs/netherlands.md`](docs/netherlands.md) |
 
 ## Next milestones to watch
 

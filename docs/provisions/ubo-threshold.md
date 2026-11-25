@@ -17,6 +17,10 @@ exactly 25% is **not** currently a UBO.
 
 ## Netherlands
 Interacts with the KvK UBO-register. See [`docs/netherlands.md`](../netherlands.md) §c.
+In answer to VVD regeldruk Kamervragen (**24 Nov 2026**, Aanhangsel 748), the cabinet said it will **study a
+materiality threshold and bulk reporting** for UBO-register discrepancy reports (terugmeldplicht), and noted
+pseudo-UBO double-filing cannot be fully scrapped — from 10 Jul 2027 UBO registration flows directly from the
+AMLR, which demands more personal data than the Handelsregister. See [`docs/netherlands.md`](../netherlands.md) §f.
 
 ## Status
 **Adopted; applies 10 July 2027.** Watch for a Commission delegated act setting a lower high-risk-sector threshold.
