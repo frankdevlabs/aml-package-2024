@@ -207,6 +207,20 @@ documents:
       Most recently opened consultation. 3 Jun – 3 Sep 2026 (open). Extract:
       extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md.
 
+  - id: AMLA-GL-OUTSOURCING-ART18
+    title: "Consultation paper — draft Guidelines on outsourcing, reliance on CDD by another obliged entity and other third-party arrangements (Arts 18(8) & 50 AMLR; Art 54 AMLAR)"
+    body: AMLA
+    date: 2026-11-26
+    limite: false
+    legal_basis: Arts 18(8) & 50 AMLR; AMLA own-initiative Art 54 AMLAR
+    url: https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-reliance-outsourcing-and-third-party-arrangements_en
+    local: sources/amla/GL-outsourcing-reliance-art18-8_consultation-paper_2026-11-26.pdf
+    notes: >-
+      Most recently opened consultation. 26 Nov 2026 – 26 Feb 2027 (open; public hearing 10 Feb 2027).
+      Three sets of guidelines: general; Guideline 1 (outsourcing, Art 18 AMLR); Guideline 2 (reliance on CDD,
+      Arts 48–49 AMLR). From application, replaces the EBA Guidelines on the same subject (Art 54(5) AMLAR).
+      Extract: extracts/amla/GL-outsourcing-reliance-art18-8_consultation-paper.md.
+
   - id: AMLA-RTS-SANCTIONS-ART53-FINAL
     title: "Final report — draft RTS on pecuniary sanctions, administrative measures & periodic penalty payments (Art 53(10) AMLD6)"
     body: AMLA
