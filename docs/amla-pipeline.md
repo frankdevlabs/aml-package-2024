@@ -38,11 +38,19 @@ see [triage #41](triage/2026-07-08-issue-41.md)). Operative drafts transcribed u
 | 7 | [Ongoing monitoring of a business relationship](../extracts/amla/GL-ongoing-monitoring-art26-5_consultation-paper.md#sec-2) | Art 26(5) AMLR | Guidelines | 3 Jun 2026 | 3 Sep 2026 | **Open** (public hearing concluded 2 Jul 2026) | — |
 | 8 | [Format for reporting suspicions & providing transaction records](../extracts/amla/ITS-reporting-format-art69-3_consultation-paper.md#article-1) | Art 69(3) AMLR | ITS | 2 Jul 2026 | 20 Sep 2026 | **Open** (public hearing 9 Sep 2026) | — |
 | 9 | [Cross-border information exchange between FIUs](../extracts/amla/RTS-fiu-cross-border-art31-3_consultation-paper.md#article-1) | Art 31(3) AMLD6 | RTS | 6 Jul 2026 | 6 Oct 2026 | **Open** | — |
-| 10 | [Inherent & residual risk profile — non-financial sector](../extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md#article-2) | Art 40(2) AMLD6 | RTS | 13 Jul 2026 | 27 Sep 2026 | **Open** (newest; hearing 10 Sep 2026) | — |
+| 10 | [Inherent & residual risk profile — non-financial sector](../extracts/amla/RTS-nonfin-risk-profile-art40-2_consultation-paper.md#article-2) | Art 40(2) AMLD6 | RTS | 13 Jul 2026 | 27 Sep 2026 | **Open** (hearing 10 Sep 2026) | — |
+| 11 | [Outsourcing, reliance on CDD & other third-party arrangements](../extracts/amla/GL-outsourcing-reliance-art18-8_consultation-paper.md#sec-4) | Arts 18(8) & 50 AMLR; Art 54 AMLAR | Guidelines | 26 Nov 2026 | 26 Feb 2027 | **Open** (newest; hearing 10 Feb 2027) | — |
 
 Items 8–9 opened early July 2026 (confirmed on the consultations hub, 8 Jul 2026) and item 10 on 13 Jul 2026;
 consultation papers registered and transcribed under [`extracts/amla/`](../extracts/amla/). NB: the Art 69(3)
 instrument is an **ITS** per its cover page; AMLA's download filename mislabels it "RTS".
+
+**Item 11** (outsourcing / reliance GL, Art 18(8) & 50 AMLR + own-initiative Art 54 AMLAR) opened **26 Nov
+2026** ([triage #125](triage/2026-11-26-issue-125.md)) — rows beyond item 10 are added as the daily tracker
+detects them, so the "Status (21 Jul 2026)" column header applies only to items 1–10. The consultations hub
+listed **18 items** on 26 Nov 2026; several that opened between August and November 2026 (incl. the base-amount
+pecuniary-sanctions GL and the two supervisory-colleges RTS) are **not yet transcribed here** — a known backlog
+to work through one consultation at a time.
 
 Direct links to the consultation pages:
 - CDD (Art 28(1)): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-customer-due-diligence_en
@@ -55,6 +63,7 @@ Direct links to the consultation pages:
 - Reporting-format ITS (Art 69(3) AMLR): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-its-format-reporting-suspicions-and-providing-transaction-records_en
 - Cross-border FIU exchange RTS (Art 31(3) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-cross-border-information-exchange-between-financial-intelligence-units_en
 - Inherent & residual risk profile — non-financial sector (Art 40(2) AMLD6): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-rts-assessment-inherent-and-residual-risk-profile-obliged-entities-non-financial_en
+- Outsourcing, reliance on CDD & other third-party arrangements (Arts 18(8)/50 AMLR; Art 54 AMLAR): https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-reliance-outsourcing-and-third-party-arrangements_en
 
 ## Additional index-listed instruments (regulatory-instruments tracker, not on the consultations hub)
 
@@ -226,6 +235,25 @@ the *templates* (XBR/XBD, request/response) transmitted over FIU.net.
   on future Level-2 CCP standards under the new package. An **operational survey**, not a new RTS/ITS/GL
   consultation; closes **15 September 2026** — no entry in the consultation-status table above.
   — https://www.amla.europa.eu/news-media/news-articles/amla-launches-survey-central-contact-points_en
+- **Outsourcing / reliance guidelines consultation opened — 26 November 2026 (item 11).** AMLA opened a public
+  consultation on **draft Guidelines on outsourcing, reliance on customer due diligence performed by another
+  obliged entity and other third-party arrangements** (**Arts 18(8) and 50 AMLR**, plus AMLA's own initiative
+  under **Art 54 AMLAR**). Open **26 Nov 2026 – 26 Feb 2027**; **public hearing 10 Feb 2027** (14:00–16:00 CET).
+  The draft bundles **three sets of guidelines**: *general* guidelines (paras 16–40 — proportionality,
+  non-transfer of responsibility, written policies, a per-arrangement classification into outsourcing /
+  reliance / other third-party arrangement, written-agreement minimum content, third-country and
+  data-protection safeguards, audit/exit rights); **Guideline 1 on outsourcing** (paras 41–65 — criticality
+  classification, documentation/register, written agreements for critical functions, risk assessment, due
+  diligence, subcontracting, access/audit and termination rights, plus supervisory expectations on the
+  **Art 18(1)** prior notification (≥28 working days ahead; content in **Annex I**) and **Art 18(7)** prior
+  approval for certain collective investment undertakings (content in **Annex II**)); and **Guideline 2 on
+  reliance** on CDD by other obliged entities (paras 66–75 — reliance limited to the initial CDD measures under
+  **Art 20(1)(a)–(c)**, pre-reliance assessment, the **5-working-day** data-availability rule, intra-group
+  simplifications). From their date of application the Guidelines **replace the EBA Guidelines on the same
+  subject** (**Art 54(5) AMLAR**); they apply from a date to be set, except for obliged entities under
+  **Art 3(3)(n)–(o) AMLR** (to which they apply from **10 July 2029**). Operative text transcribed as
+  [`GL-outsourcing-reliance-art18-8_consultation-paper.md`](../extracts/amla/GL-outsourcing-reliance-art18-8_consultation-paper.md).
+  — [register](../sources/README.md) · [triage #125](triage/2026-11-26-issue-125.md) · https://www.amla.europa.eu/policy/public-consultations/consultation-draft-guidelines-reliance-outsourcing-and-third-party-arrangements_en
 
 ## Next benchmark
 
